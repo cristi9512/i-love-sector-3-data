@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276384</link>
+    <guid isPermaLink="false">CAS-0276384</guid>
+    <pubDate>Mon, 23 Nov 2026 17:45:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 19</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276358</link>
     <guid isPermaLink="false">CAS-0276358</guid>
@@ -586,14 +594,6 @@ Răspuns: conexat la sesizarea 438717/2026 - se va formula un singur răspuns</d
     <pubDate>Fri, 20 Nov 2026 17:06:35 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcat artistic, pe mijlocul trotuarului.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275752</link>
-    <guid isPermaLink="false">CAS-0275752</guid>
-    <pubDate>Fri, 20 Nov 2026 16:38:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>De ieri seara masina asta sta aici si nici macar nu sta pe un loc de parcare, sta pe jumatate de banda dintr-un bulevard foarte circulat, in acelasi timp blocheaza inutil un loc de parcare C1. Ar trebui verificata mai des aceasta zona, mai mereu fiind probleme. Mentionez ca masina mea este parcata pe locul nominal de parcare al tatalui meu, aceasta fiind in service, fara sa incurc pe nimeni.</description>
   </item>
 </channel>
 </rss>
