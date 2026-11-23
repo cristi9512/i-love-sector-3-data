@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-23T18:00:59.451Z",
-  "lastChange": "2026-11-23T18:00:59.451Z",
+  "lastRun": "2026-11-23T18:15:32.747Z",
+  "lastChange": "2026-11-23T18:15:32.747Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2841,
-    "added": 2,
-    "updated": 23,
+    "fetched": 2988,
+    "added": 4,
+    "updated": 7,
     "removed": 0,
-    "changes": 67
+    "changes": 21
   },
   "totals": {
-    "incidents": 46995,
-    "open": 2204,
+    "incidents": 46999,
+    "open": 2201,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-23T18:00:59.451Z",
+    "asOf": "2026-11-23T18:15:32.747Z",
     "days": 30,
-    "open": 2204,
+    "open": 2201,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 51,
+        "open": 52,
         "n": 7
       },
       "3": {
@@ -57,17 +57,17 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 32,
+        "open": 33,
         "n": 6
       },
       "9": {
         "name": "Altele",
-        "open": 221,
+        "open": 220,
         "n": 15
       },
       "10": {
         "name": "Străzi",
-        "open": 414,
+        "open": 410,
         "n": 28
       },
       "11": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 24,
+        "open": 23,
         "n": 2
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 649,
+        "open": 650,
         "n": 2
       },
       "32": {
