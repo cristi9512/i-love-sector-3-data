@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276317</link>
+    <guid isPermaLink="false">CAS-0276317</guid>
+    <pubDate>Mon, 23 Nov 2026 14:06:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276316</link>
     <guid isPermaLink="false">CAS-0276316</guid>
@@ -587,14 +595,6 @@ Elena Teodor</description>
     <pubDate>Mon, 23 Nov 2026 07:28:07 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>Toaletare arbore care obtureaza semnificativ iluminatul public si a carui coroana s-a dezvoltat necontrolat, reprezentand pericol pentru pietoni si masini, mai ales in cazul unei furtuni. Corpul de iluminat care se afla practic in &quot;interiorul coroanei&quot; este aproape inutil in momentul de fata.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276256</link>
-    <guid isPermaLink="false">CAS-0276256</guid>
-    <pubDate>Mon, 23 Nov 2026 07:22:25 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>RE-sesizare: Toaletare arbore pentru siguranta rutiera, anume pentru vizibilitatea clara a semnului &quot;interzis&quot; si pentru a nu interfera cu traficul sau masinile parcate.</description>
   </item>
 </channel>
 </rss>
