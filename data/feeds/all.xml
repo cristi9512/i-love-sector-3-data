@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276409</link>
+    <guid isPermaLink="false">CAS-0276409</guid>
+    <pubDate>Mon, 23 Nov 2026 20:30:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276408</link>
+    <guid isPermaLink="false">CAS-0276408</guid>
+    <pubDate>Mon, 23 Nov 2026 20:21:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>o masina si o camioneta parcate pe trotuarul de langa liftul de la gura de metrou costin Georgian</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276407</link>
     <guid isPermaLink="false">CAS-0276407</guid>
@@ -567,40 +583,6 @@ Răspuns: VA FI ANUNTAT SERVICIUL DE SPECIALITATE IN VEDEREA REMEDIERII SITUATIE
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276349</link>
-    <guid isPermaLink="false">CAS-0276349</guid>
-    <pubDate>Mon, 23 Nov 2026 15:55:45 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismul reclamat nu este în locație. O seară bună.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276348</link>
-    <guid isPermaLink="false">CAS-0276348</guid>
-    <pubDate>Mon, 23 Nov 2026 15:53:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună ziua,
-
-Revin cu privire la sesizarea transmisă ieri dimineață, referitoare la deșeurile menajere abandonate pe domeniul public, în fața blocului, pentru care până în acest moment nu am primit niciun răspuns.
-
-Menționez că aceste deșeuri se află în același loc încă de vineri, fiind deja a patra zi în care nu au fost ridicate și nu s-a intervenit pentru salubrizarea zonei.
-
-Mai mult decât atât, între timp, alte persoane au intervenit asupra acestor gunoaie, le-au răscolit și le-au împrăștiat inclusiv în spațiul verde din fața blocului, ceea ce a agravat considerabil situația. În prezent, zona arată deplorabil, iar imaginea pe care o au locatarii și vizitatorii atunci când ies din scara blocului este una complet inacceptabilă.
-
-Consider că nu este normal ca deșeurile abandonate pe domeniul public să rămână zile întregi neridicate, să ocupe trotuarul, să îngreuneze circulația pietonilor și să afecteze inclusiv spațiul verde.
-
-Solicit intervenția de urgență pentru ridicarea tuturor deșeurilor și salubrizarea completă a zonei, inclusiv a spațiului verde în care acestea au fost împrăștiate.
-
-Vă rog să tratați această sesizare cu seriozitate și să dispuneți măsurile necesare în cel mai scurt timp. Nu este suficient ca astfel de situații să fie doar înregistrate, fără ca problema să fie efectiv rezolvată.
-
-Aștept un răspuns concret și confirmarea măsurilor luate.
-
-Vă mulțumesc.</description>
   </item>
 </channel>
 </rss>
