@@ -5314,3 +5314,15 @@
 {"at":"2026-11-23T19:01:08.206Z","ticket":"CAS-0276392","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T19:01:08.206Z","ticket":"CAS-0276392","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-23T19:01:08.206Z","ticket":"CAS-0276392","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA SE CONFIRMA, AM INCHEIAT DOCUMENTATIA SPECIFICA IN VEDEREA SANCTIONARII PERSOANEI RESPONSABIAL."}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276394","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276394","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276394","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFEFIRE A FOST GASIT IN LOCATIE.A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII."}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276368","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276368","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276368","field":"reply","from":"","to":"Nespecificat Registratura In locatie  au fost aplicate  masurile legale conform OUG 195/2002 r "}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276393","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276393","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276393","field":"reply","from":"","to":"Nespecificat Registratura In locatie  au fost aplicate  masurile legale conform OUG 195/2002 r "}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276026","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276026","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-23T19:15:33.779Z","ticket":"CAS-0276026","field":"reply","from":"","to":"Nespecificat Registratura Documentul a fost transferat automat la instanta DGITL (620018/23.11.2026) <a href=\"http://192.168.32.203/dgitl3/registratura/detaliu_document.php?An=2026&NrInreg=620018&ro=da\" target=\"_blank\">Detaliu</a>"}
