@@ -6,7 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Trapezului</title>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276330</link>
+    <guid isPermaLink="false">CAS-0276330</guid>
+    <pubDate>Mon, 23 Nov 2026 14:50:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-11, precum și pentru zonele B-12,B-6,C-2,C-4,</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276329</link>
+    <guid isPermaLink="false">CAS-0276329</guid>
+    <pubDate>Mon, 23 Nov 2026 14:46:38 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Buna ziua, 
+
+Strada si parcarea din fata blocului nu au mai fost curățate de 2 luni. Nici in octombrie, nici in noiembrie nu au venit utilajele. Din cauza frunzelor căzute peste care a căzut ploaia asfaltul este acum mizerabil, acoperit cu un nămol de frunze ude strivite. Oribil, dar si periculos.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276328</link>
     <guid isPermaLink="false">CAS-0276328</guid>
     <pubDate>Mon, 23 Nov 2026 14:45:11 GMT</pubDate>
@@ -562,26 +580,6 @@ Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN LOCATIE, A FOST APLICA INSTIINTARE<
     <pubDate>Mon, 23 Nov 2026 09:10:32 GMT</pubDate>
     <category>Verificări construcții/Lucrări neautorizate</category>
     <description>Sta sa cada</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276269</link>
-    <guid isPermaLink="false">CAS-0276269</guid>
-    <pubDate>Mon, 23 Nov 2026 09:07:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Cum să parchezi în halul ăsta …</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276268</link>
-    <guid isPermaLink="false">CAS-0276268</guid>
-    <pubDate>Mon, 23 Nov 2026 09:02:15 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Bună ziua,
-Vă scriu în legătură cu tăierile de arbori efectuate recent în grădina blocului în care locuiesc, din strada Gura Ialomitei nr.5, BL. PC8, scara D.
-Aș dori să vă rog să luați în considerare replantarea unor arbori în locul celor tăiați. Grădina blocului este un spațiu verde important pentru locatari, iar dispariția arborilor afectează atât aspectul zonei, cât și confortul nostru.
-Vă rog să îmi comunicați dacă există posibilitatea replantării.
-Vă mulțumesc și aștept răspunsul dumneavoastră!</description>
   </item>
 </channel>
 </rss>
