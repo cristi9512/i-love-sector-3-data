@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276401</link>
+    <guid isPermaLink="false">CAS-0276401</guid>
+    <pubDate>Mon, 23 Nov 2026 19:39:03 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276390</link>
     <guid isPermaLink="false">CAS-0276390</guid>
@@ -618,16 +626,6 @@ Răspuns: LIPSA FOTOGRFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENI
     <description>auto staționat neregulamentar pe spațiul verde
 
 Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURSMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275911</link>
-    <guid isPermaLink="false">CAS-0275911</guid>
-    <pubDate>Sat, 21 Nov 2026 10:54:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto blocheaza drumul
-
-Răspuns: Buna seara! La fata locului au fost depistate 2 autovehicule,au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>

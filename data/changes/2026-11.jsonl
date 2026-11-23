@@ -5329,3 +5329,6 @@
 {"at":"2026-11-23T19:30:45.368Z","ticket":"CAS-0276396","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T19:30:45.368Z","ticket":"CAS-0276396","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-23T19:30:45.368Z","ticket":"CAS-0276396","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE.A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII."}
+{"at":"2026-11-23T19:45:33.455Z","ticket":"CAS-0276395","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T19:45:33.455Z","ticket":"CAS-0276395","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T19:45:33.455Z","ticket":"CAS-0276395","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFEECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE."}
