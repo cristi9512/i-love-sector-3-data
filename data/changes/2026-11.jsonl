@@ -5073,3 +5073,12 @@
 {"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276338","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-23T15:45:33.213Z","ticket":"CAS-0276341","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-23T15:45:33.213Z","ticket":"CAS-0276340","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276317","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276317","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276317","field":"reply","from":"","to":"Nespecificat Registratura Ajunsi la fata locului, nu s au putut lua masurile legale , intrucat locul nominal de parcare de resedinta nu este marcat corespunzator, in sensul ca inscriptia de culoare galbena nu este lizibila, fiind stearsa. Situatia s a transmis la ,,Serviciul Parcari\" pentru remediere."}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276311","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276311","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276311","field":"reply","from":"","to":"Nespecificat Registratura Ajunsi la fata locului, nu s au putut lua masurile legale , intrucat locul nominal de parcare de resedinta nu este marcat corespunzator, in sensul ca inscriptia de culoare galbena nu este lizibila, fiind stearsa. Situatia s a transmis la ,,Serviciul Parcari\" pentru remediere."}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276341","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276341","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T16:15:35.608Z","ticket":"CAS-0276341","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL NU FACE OBIECTUL SESIZARII"}

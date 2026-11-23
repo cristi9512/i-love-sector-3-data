@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276358</link>
+    <guid isPermaLink="false">CAS-0276358</guid>
+    <pubDate>Mon, 23 Nov 2026 16:14:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe principiul legea e ptr fraieri dl insista sa parcheze cu madina de firma astfel incat sa incurce</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276356</link>
+    <guid isPermaLink="false">CAS-0276356</guid>
+    <pubDate>Mon, 23 Nov 2026 16:13:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276353</link>
+    <guid isPermaLink="false">CAS-0276353</guid>
+    <pubDate>Mon, 23 Nov 2026 16:04:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276330</link>
     <guid isPermaLink="false">CAS-0276330</guid>
@@ -564,34 +588,6 @@ Răspuns: conexat la sesizarea 438717/2026 - se va formula un singur răspuns</d
     <pubDate>Fri, 20 Nov 2026 16:38:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>De ieri seara masina asta sta aici si nici macar nu sta pe un loc de parcare, sta pe jumatate de banda dintr-un bulevard foarte circulat, in acelasi timp blocheaza inutil un loc de parcare C1. Ar trebui verificata mai des aceasta zona, mai mereu fiind probleme. Mentionez ca masina mea este parcata pe locul nominal de parcare al tatalui meu, aceasta fiind in service, fara sa incurc pe nimeni.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275748</link>
-    <guid isPermaLink="false">CAS-0275748</guid>
-    <pubDate>Fri, 20 Nov 2026 16:32:26 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Chiar nu aveți de gând să veniți să tăiați pomul ăsta ? A început să cadă crengi din el pe mașini. Nu se poate așa ceva. Am făcut o grămadă de sesizări și tot spuneți ca să rezolvat și nu s-a făcut nimic. Vă rog frumos să faceți ceva.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275743</link>
-    <guid isPermaLink="false">CAS-0275743</guid>
-    <pubDate>Fri, 20 Nov 2026 16:20:21 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE DE PARCARE PENTRU LOCURILE NENOMINALE ZONA``B-11``. VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275741</link>
-    <guid isPermaLink="false">CAS-0275741</guid>
-    <pubDate>Fri, 20 Nov 2026 16:19:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>
