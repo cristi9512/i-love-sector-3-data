@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-23T21:45:32.224Z",
-  "lastChange": "2026-11-23T21:45:32.224Z",
+  "lastRun": "2026-11-23T22:00:55.811Z",
+  "lastChange": "2026-11-23T22:00:55.811Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2688,
-    "added": 0,
+    "fetched": 2426,
+    "added": 1,
     "updated": 4,
     "removed": 0,
     "changes": 12
   },
   "totals": {
-    "incidents": 47023,
-    "open": 2186,
+    "incidents": 47024,
+    "open": 2183,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-23T21:45:32.224Z",
+    "asOf": "2026-11-23T22:00:55.811Z",
     "days": 30,
-    "open": 2186,
+    "open": 2183,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 51,
+        "open": 50,
         "n": 7
       },
       "3": {
@@ -57,7 +57,7 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 31,
+        "open": 32,
         "n": 5
       },
       "9": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 657,
+        "open": 654,
         "n": 2
       },
       "32": {
