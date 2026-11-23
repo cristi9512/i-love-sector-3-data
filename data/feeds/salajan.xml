@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276405</link>
+    <guid isPermaLink="false">CAS-0276405</guid>
+    <pubDate>Mon, 23 Nov 2026 19:50:47 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276394</link>
     <guid isPermaLink="false">CAS-0276394</guid>
@@ -594,14 +602,6 @@ Răspuns: conexat la sesizarea 438717/2026 - se va formula un singur răspuns</d
     <pubDate>Fri, 20 Nov 2026 18:20:54 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Iluminat public nefunctional</description>
-  </item>
-  <item>
-    <title>Mediu/Calitatea Aerului · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275769</link>
-    <guid isPermaLink="false">CAS-0275769</guid>
-    <pubDate>Fri, 20 Nov 2026 17:36:33 GMT</pubDate>
-    <category>Mediu/Calitatea Aerului</category>
-    <description>ati fost vreodata sa vedeti cum se pun pavele? sa vedeti cat praf si mizerie sunt generate? mergeti pe str. Trapezului si luat-l si pe primar sa faca un live pe fb, ca acum cateva zile de dadea lectii despre particulele pm10 si pm2,5. sa vada si el cine le genereaza.</description>
   </item>
 </channel>
 </rss>

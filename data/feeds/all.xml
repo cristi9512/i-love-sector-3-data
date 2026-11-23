@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276405</link>
+    <guid isPermaLink="false">CAS-0276405</guid>
+    <pubDate>Mon, 23 Nov 2026 19:50:47 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276404</link>
     <guid isPermaLink="false">CAS-0276404</guid>
@@ -593,16 +601,6 @@ Vă mulțumesc.</description>
     <pubDate>Mon, 23 Nov 2026 15:38:11 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul H........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276345</link>
-    <guid isPermaLink="false">CAS-0276345</guid>
-    <pubDate>Mon, 23 Nov 2026 15:34:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN LOCATIE, S-A APLICAT INSTIINTARE PE PARBRIZ</description>
   </item>
 </channel>
 </rss>
