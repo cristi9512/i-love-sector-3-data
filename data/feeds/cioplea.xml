@@ -6,6 +6,19 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276367</link>
+    <guid isPermaLink="false">CAS-0276367</guid>
+    <pubDate>Mon, 23 Nov 2026 16:32:18 GMT</pubDate>
+    <category>Altele</category>
+    <description>Locația exactă: Strada Camil Ressu nr 35, în dreptul imobilului cu numărul N5 scările 1-5 cât si parculetul din fata blocului.
+​Descrierea defecțiunii: Corpurile de iluminat  nu funcționează deloc.
+​Data constatării: 23.11.2026
+Problema persistă din data de [Data aproximativă]: 10 octombrie 2026.
+Rugam remedierea defecțiunii. 
+Mulțumesc</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276352</link>
     <guid isPermaLink="false">CAS-0276352</guid>
@@ -28,12 +41,14 @@ Va rog sa prioritizati rezolvarea acestei probleme.
 Va multumesc anticipat.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276335</link>
     <guid isPermaLink="false">CAS-0276335</guid>
     <pubDate>Mon, 23 Nov 2026 15:06:12 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismul reclamat nu este parcat/staționat pe un loc de parcare de reședință.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
@@ -44,12 +59,14 @@ Va multumesc anticipat.</description>
     <description>Autovehiculul cu numarul L........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276332</link>
     <guid isPermaLink="false">CAS-0276332</guid>
     <pubDate>Mon, 23 Nov 2026 15:03:55 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Bună seara, autoturismul reclamat nu este în locație.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Cioplea</title>
@@ -605,14 +622,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
 
 Răspuns: Au fost aplicate masurile legale.
 </description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275876</link>
-    <guid isPermaLink="false">CAS-0275876</guid>
-    <pubDate>Sat, 21 Nov 2026 08:31:19 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>tobogan vandalizat, pericol accidentare copii</description>
   </item>
 </channel>
 </rss>

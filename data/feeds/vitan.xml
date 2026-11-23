@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276368</link>
+    <guid isPermaLink="false">CAS-0276368</guid>
+    <pubDate>Mon, 23 Nov 2026 16:36:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersecțiile cu Zizin si Foisoreanu. Solicit ridicarea acestora.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276366</link>
     <guid isPermaLink="false">CAS-0276366</guid>
@@ -678,16 +686,6 @@ Răspuns: auto a parasit locatia </description>
     <description>Am făcut din greșeală o sesizare( am apăsat butonul respectiv din greșeală când mi-am verificat autorizația de parcare. Vă rog să anulați această sesizare. Este vorba despre sesizarea: CAS0275121 din data de 18.11.2026
 
 Răspuns: Trimis raspuns trimis email 19.11.2026 Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275121</link>
-    <guid isPermaLink="false">CAS-0275121</guid>
-    <pubDate>Wed, 18 Nov 2026 10:23:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 43 Este autorizat sa parcheze pe locurile nenominale
-
-Răspuns: Bună ziua, autoturismul reclamat poate parca pe locurile nenominale(loc reclamat de dvs.), în viitor efectuați și fotografii.</description>
   </item>
 </channel>
 </rss>
