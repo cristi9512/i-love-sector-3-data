@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276346</link>
+    <guid isPermaLink="false">CAS-0276346</guid>
+    <pubDate>Mon, 23 Nov 2026 15:38:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul H........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276343</link>
+    <guid isPermaLink="false">CAS-0276343</guid>
+    <pubDate>Mon, 23 Nov 2026 15:31:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276336</link>
     <guid isPermaLink="false">CAS-0276336</guid>
@@ -598,25 +614,6 @@ IN URMA VERIFICARILOR EFECTUATE, VEHICULUL A FOST GASIT IN LOCATIE. LA LOCUL DE 
 Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 19:08, însă,
 autoturismul în cauză nu a mai fost identificat în locație.
 Vă mulțumim! </description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275889</link>
-    <guid isPermaLink="false">CAS-0275889</guid>
-    <pubDate>Sat, 21 Nov 2026 09:10:41 GMT</pubDate>
-    <category>Altele</category>
-    <description>Auto parcat fără taxa plătită pe loc Nenominal.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată intern · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275884</link>
-    <guid isPermaLink="false">CAS-0275884</guid>
-    <pubDate>Sat, 21 Nov 2026 09:01:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,
-
-Răspuns: IN CORELATIE CU SESIZAREA VOICEMAIL NR. 824431. 
-IN URMA VERIFICARILOR EFECTUATE, VEHICULUL A FOST GASIT IN LOCATIE. LA LOCUL DE PARCARE S-A PREZENTAT CONDUCATORUL AUTOTURISMULUI FIIND AVERTIZAT VERBAL IAR LOCUL DE PARCARE A FOST ELIBERAT. PETENTUL SI-A PARCAT PROPRIUL AUTOTURISM PE LOCUL SAU DE PARCARE. MENTIONAM FAPTUL CA AUTOTURISMUL IN CAUZA DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA B-14.</description>
   </item>
 </channel>
 </rss>
