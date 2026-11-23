@@ -6,6 +6,62 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276324</link>
+    <guid isPermaLink="false">CAS-0276324</guid>
+    <pubDate>Mon, 23 Nov 2026 14:30:11 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare in loc nepermis</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276323</link>
+    <guid isPermaLink="false">CAS-0276323</guid>
+    <pubDate>Mon, 23 Nov 2026 14:28:56 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Banda 1 pentru virajul la dreapta este blocat de autoturisme stationate neregulamentar.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276322</link>
+    <guid isPermaLink="false">CAS-0276322</guid>
+    <pubDate>Mon, 23 Nov 2026 14:24:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina parcata pe trotuar, ocupa tot spațiul pentru pietoni</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276321</link>
+    <guid isPermaLink="false">CAS-0276321</guid>
+    <pubDate>Mon, 23 Nov 2026 14:22:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>B 118 MEA este parcat pe loc nenominal si nu are nici abonament si nici tariful orar platit!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276320</link>
+    <guid isPermaLink="false">CAS-0276320</guid>
+    <pubDate>Mon, 23 Nov 2026 14:20:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276319</link>
+    <guid isPermaLink="false">CAS-0276319</guid>
+    <pubDate>Mon, 23 Nov 2026 14:20:21 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>AR 11 HUF este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276318</link>
+    <guid isPermaLink="false">CAS-0276318</guid>
+    <pubDate>Mon, 23 Nov 2026 14:16:21 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276317</link>
     <guid isPermaLink="false">CAS-0276317</guid>
@@ -376,20 +432,24 @@ Răspuns: In urma verificarilor, autoturismul in cauza a fost identificat dar nu
 Răspuns: In urma analizarii sesizarii am constatat ca nu sunt atasate fotografii din care sa reiasa tipul parcajului de resedinta.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276279</link>
     <guid isPermaLink="false">CAS-0276279</guid>
     <pubDate>Mon, 23 Nov 2026 09:35:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTOTURISMUL DETINE ABONAMENT LUNAR</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276278</link>
     <guid isPermaLink="false">CAS-0276278</guid>
     <pubDate>Mon, 23 Nov 2026 09:34:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LA FATA LOCULUI A FOST IDENTIFICAT CONDUCATORUL AUTO UNDE I S-AU ADUS LA CUNOSTINTA PREVEDERILE LEGALE</description>
   </item>
   <item>
     <title>Mașini ridicate · În lucru · Malaxa - Faur</title>
@@ -524,77 +584,6 @@ Răspuns: In urma analizarii sesizarii am constatat ca nu sunt atasate fotografi
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Trasare parcare · Rezolvată Parţial · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276263</link>
-    <guid isPermaLink="false">CAS-0276263</guid>
-    <pubDate>Mon, 23 Nov 2026 08:17:33 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Rog trasare parcare loc persoană cu dizabilitate  din strada Aleea Barajul Bistriței Nr 7, Bl Z 5, sc 3, loc parcare Nr24.
- Pentru a nu mai găsi parcarea ocupată rog montare indicator persoană cu dizabilitate.
-
-Răspuns: Luat la cunostinta panoul de semnalizare aferent locurilor de parcare destinate persoanelor cu dizabilități a fost montat în data de 23.11.2026.
-
-Marcarea corespunzătoare a locului de parcare prin aplicarea simbolului internațional pentru persoane cu dizabilități urmează să fie efectuată în funcție de condițiile meteorologice, care să permită desfășurarea lucrărilor în condiții optime. </description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276262</link>
-    <guid isPermaLink="false">CAS-0276262</guid>
-    <pubDate>Mon, 23 Nov 2026 08:15:34 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Nu doresc amenajarea niciunui parc c-form consultării publice transmise de Primaria S3: nici a parcului IOR, nici a parcului Titanii, nici a parcului Gh. Petrașcu. Lăsați parcurile în pace.</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276261</link>
-    <guid isPermaLink="false">CAS-0276261</guid>
-    <pubDate>Mon, 23 Nov 2026 08:07:29 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Buna dimineata,  
-Va rog sa ne ajutati cu strângerea frunzelor, cracilor rupte din gradina asociatiei de proprietari bloc 61. 
-Va mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276260</link>
-    <guid isPermaLink="false">CAS-0276260</guid>
-    <pubDate>Mon, 23 Nov 2026 07:46:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Aceasta masina blochează accesul in parcarea publica de pe Strada Hristo Botev 26 in fiecare zi,
-
-Am mai facut sesizare cayre dcs si nu s a intamplat nimic</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276259</link>
-    <guid isPermaLink="false">CAS-0276259</guid>
-    <pubDate>Mon, 23 Nov 2026 07:46:03 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturismul blocheaza trotuarul, are loc pentru parcare mai in fata astfel incat sa nu blocheze trotuarul</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276258</link>
-    <guid isPermaLink="false">CAS-0276258</guid>
-    <pubDate>Mon, 23 Nov 2026 07:30:59 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua, 
-
-Cum se iese cu masina de la strada Caporal Ilie Caragea in strada Ilioara, daca vrei sa faci dreapta nu ai deloc vizibilitate, mai ales ca sunt masinile parcate pana la limita pe dreapta. Trebuie sa iesi incet cu botul masinii.. si pana sa te lamuresti daca e ok te poti trezi si cu o masina venind spre tine din dreapta.. te retragi si incerci iar. mai ales ca avem si o scoala putin mai incolo.. vin multe masini. 
-Va rog sa ne ajutati cu o solutie ca sa nu mai fie asa dificil de iesit de pe strada. Eu m-am gandit a ar merge o oglinda.. poate chiar 1 dubla sa vezi ce e si in stanga. 
-
-va multumesc,
-Elena Teodor</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276257</link>
-    <guid isPermaLink="false">CAS-0276257</guid>
-    <pubDate>Mon, 23 Nov 2026 07:28:07 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Toaletare arbore care obtureaza semnificativ iluminatul public si a carui coroana s-a dezvoltat necontrolat, reprezentand pericol pentru pietoni si masini, mai ales in cazul unei furtuni. Corpul de iluminat care se afla practic in &quot;interiorul coroanei&quot; este aproape inutil in momentul de fata.</description>
   </item>
 </channel>
 </rss>
