@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276407</link>
+    <guid isPermaLink="false">CAS-0276407</guid>
+    <pubDate>Mon, 23 Nov 2026 20:13:29 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>a blocat parcarea camion</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276392</link>
     <guid isPermaLink="false">CAS-0276392</guid>
@@ -603,14 +611,6 @@ Vă mulțumim!
     <description>parcat pe trotuar, langa trecere de pietoni
 
 Răspuns: Au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275896</link>
-    <guid isPermaLink="false">CAS-0275896</guid>
-    <pubDate>Sat, 21 Nov 2026 10:02:31 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>In parcul Constantin Brancusi care este in proces de retrocedare exista corturi ilprovizate locuite de oameni ai strazii si gunoi in jurul lor. Afecteaza atat sanatatea celor din jur din cauza gunoaielor cat si siguranta cetatenilor.</description>
   </item>
 </channel>
 </rss>
