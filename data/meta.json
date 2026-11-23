@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-23T12:30:47.483Z",
-  "lastChange": "2026-11-23T12:30:47.483Z",
+  "lastRun": "2026-11-23T12:45:32.356Z",
+  "lastChange": "2026-11-23T12:45:32.356Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2482,
-    "added": 1,
-    "updated": 13,
+    "fetched": 2638,
+    "added": 0,
+    "updated": 56,
     "removed": 0,
-    "changes": 39
+    "changes": 168
   },
   "totals": {
     "incidents": 46922,
-    "open": 2254,
+    "open": 2198,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-23T12:30:47.483Z",
+    "asOf": "2026-11-23T12:45:32.356Z",
     "days": 30,
-    "open": 2254,
-    "total": 245,
+    "open": 2198,
+    "total": 209,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -37,13 +37,13 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 54,
-        "n": 7
+        "open": 52,
+        "n": 6
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 197,
-        "n": 24
+        "open": 189,
+        "n": 17
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,32 +52,32 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 93,
+        "open": 92,
         "n": 5
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 36,
-        "n": 8
+        "open": 34,
+        "n": 6
       },
       "9": {
         "name": "Altele",
-        "open": 233,
-        "n": 24
+        "open": 222,
+        "n": 15
       },
       "10": {
         "name": "Străzi",
-        "open": 432,
-        "n": 42
+        "open": 416,
+        "n": 29
       },
       "11": {
         "name": "Parcuri",
-        "open": 61,
-        "n": 9
+        "open": 58,
+        "n": 6
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 27,
+        "open": 25,
         "n": 1
       },
       "13": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 166,
+        "open": 165,
         "n": 4
       },
       "15": {
@@ -117,8 +117,8 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 26,
-        "n": 3
+        "open": 24,
+        "n": 2
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 641,
+        "open": 633,
         "n": 2
       },
       "32": {
