@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Altele · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276340</link>
+    <guid isPermaLink="false">CAS-0276340</guid>
+    <pubDate>Mon, 23 Nov 2026 15:29:20 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua. In urma cu peste 6 luni am depus completarea cererii de intrare in proprietate teren aferent proprietății din strada A. Barseanu nr 9. Am depus toate documentele necesare, Solicitarea a fost înregistrată cu numărul 122175 / 23.03.2026. 
+Prin prezenta va solicit o actualizare a situației cererii mele înregistrată la Primăria Sectorului 3 cu nr. 435963/22.07.2020, privind emiterea titlului de proprietate asupra terenului din curtea imobilului din str. Andrei Bârseanu nr. 9, ap. nr. 1 și ap. nr. 2, sector 3, în conformitate cu prevederile Legii nr. 18/1991, republicată, cu modificările și completările ulterioare.
+In luna martie 2026 am completat dosarul de cerere pentru emiterea titlului de proprietate asupra terenului din curtea imobilului din str. Andrei Bârseanu nr. 9, ap. nr. 1 și ap. nr. 2, sector 3.
+Am verificat pe site-ul primăriei Sector 3, si nu exista actualizări, iar solicitările mele precedente nu mai apar in spațiul personal. 
+Am observat ca nici măcar contul meu personal nu mai exista motiv pentru care l-am refăcut si va contactez din noul cont.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276327</link>
     <guid isPermaLink="false">CAS-0276327</guid>
@@ -735,14 +747,6 @@ Directia Generala de Salubritate Sector 3.
     <pubDate>Fri, 20 Nov 2026 09:03:27 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>calea dudesti 126, masini parcate pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275639</link>
-    <guid isPermaLink="false">CAS-0275639</guid>
-    <pubDate>Fri, 20 Nov 2026 09:01:46 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>calea dudesti 123 masini parcate in statie stb pe trotuar</description>
   </item>
 </channel>
 </rss>

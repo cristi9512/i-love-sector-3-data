@@ -5064,3 +5064,10 @@
 {"at":"2026-11-23T14:30:46.661Z","ticket":"CAS-0276279","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL DETINE ABONAMENT LUNAR"}
 {"at":"2026-11-23T14:45:33.012Z","ticket":"CAS-0276324","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-23T15:00:57.516Z","ticket":"CAS-0276328","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276297","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276297","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276297","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul nu este în locație. O seară bună."}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276319","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276319","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276319","field":"reply","from":"","to":"Nespecificat Registratura Auto in cauza  a  parasit  locatia "}
+{"at":"2026-11-23T15:30:44.454Z","ticket":"CAS-0276338","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
