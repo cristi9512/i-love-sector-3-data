@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-23T15:45:33.213Z",
-  "lastChange": "2026-11-23T15:45:33.213Z",
+  "lastRun": "2026-11-23T16:00:56.159Z",
+  "lastChange": "2026-11-23T16:00:56.159Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2621,
-    "added": 5,
-    "updated": 2,
+    "fetched": 2688,
+    "added": 6,
+    "updated": 0,
     "removed": 0,
-    "changes": 2
+    "changes": 0
   },
   "totals": {
-    "incidents": 46956,
-    "open": 2210,
+    "incidents": 46962,
+    "open": 2216,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-23T15:45:33.213Z",
+    "asOf": "2026-11-23T16:00:56.159Z",
     "days": 30,
-    "open": 2210,
-    "total": 207,
+    "open": 2216,
+    "total": 208,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 61,
+        "open": 63,
         "n": 7
       },
       "3": {
@@ -43,7 +43,7 @@
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
         "open": 189,
-        "n": 17
+        "n": 18
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,12 +52,12 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 86,
+        "open": 87,
         "n": 5
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 35,
+        "open": 36,
         "n": 6
       },
       "9": {
@@ -92,7 +92,7 @@
       },
       "15": {
         "name": "Animale de companie",
-        "open": 1,
+        "open": 2,
         "n": 0
       },
       "16": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 640,
+        "open": 641,
         "n": 2
       },
       "32": {
