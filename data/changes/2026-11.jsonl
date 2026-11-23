@@ -5375,3 +5375,9 @@
 {"at":"2026-11-23T23:00:59.634Z","ticket":"CAS-0276229","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T23:00:59.634Z","ticket":"CAS-0276229","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-23T23:00:59.634Z","ticket":"CAS-0276229","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276416","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276416","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276416","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nAm dat curs sesizarii dumneavoastra, la data si ora efectuarii verificarilor in locatia indicata, autovehiculul cu elementele de identificare oferite nu a fost depistat la adresa indicata.\nVa recomandam, ca pe viitor, sa folositi toate optiunile disponibile oferite de aplicatia de sesizari a DGPLS3 (fotografii concludente cu autovehiculul in cauza/locul de parcare ocupat), astfel incat identificarea acestuia de catre echipajul din teren si dispunerea masurilor legale in consecinta sa poata fi efectuate intr-un mod cat mai eficient si obiectiv.\nVa multumim pentru intelegere si va asiguram de intregul nostru suport!"}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276415","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276415","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T23:30:45.501Z","ticket":"CAS-0276415","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale."}
