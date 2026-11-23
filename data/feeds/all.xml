@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276312</link>
+    <guid isPermaLink="false">CAS-0276312</guid>
+    <pubDate>Mon, 23 Nov 2026 12:26:08 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Sensul giratoriu cu strazile Strada Victor Baruner-Drumul Gura Ariesului-Drumul Gura Crivatului este mereu blocat. Poate ar fi necesar un semafor, s-a aglomerat foarte mult aceasta zona.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276311</link>
     <guid isPermaLink="false">CAS-0276311</guid>
@@ -459,13 +467,17 @@ Răspuns: In urma analizarii sesizarii am constatat ca nu sunt atasate fotografi
 Răspuns: sesizare incompleta </description>
   </item>
   <item>
-    <title>Trasare parcare · În lucru · Malaxa - Faur</title>
+    <title>Trasare parcare · Rezolvată Parţial · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276263</link>
     <guid isPermaLink="false">CAS-0276263</guid>
     <pubDate>Mon, 23 Nov 2026 08:17:33 GMT</pubDate>
     <category>Trasare parcare</category>
     <description>Rog trasare parcare loc persoană cu dizabilitate  din strada Aleea Barajul Bistriței Nr 7, Bl Z 5, sc 3, loc parcare Nr24.
- Pentru a nu mai găsi parcarea ocupată rog montare indicator persoană cu dizabilitate.</description>
+ Pentru a nu mai găsi parcarea ocupată rog montare indicator persoană cu dizabilitate.
+
+Răspuns: Luat la cunostinta panoul de semnalizare aferent locurilor de parcare destinate persoanelor cu dizabilități a fost montat în data de 23.11.2026.
+
+Marcarea corespunzătoare a locului de parcare prin aplicarea simbolului internațional pentru persoane cu dizabilități urmează să fie efectuată în funcție de condițiile meteorologice, care să permită desfășurarea lucrărilor în condiții optime. </description>
   </item>
   <item>
     <title>Spații verzi · În lucru · Balta Albă - Titan</title>
@@ -574,17 +586,6 @@ O nouă săptămână un nou blocaj al tritoarulu cu acces spre grădiniță !
     <pubDate>Mon, 23 Nov 2026 06:57:13 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-9, precum și pentru zonele A-10,A-8,</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276251</link>
-    <guid isPermaLink="false">CAS-0276251</guid>
-    <pubDate>Mon, 23 Nov 2026 06:54:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez parcarea neregulamentară a autoturismelor pe zona hașurată din fața ghenei de gunoi, pe strada Theodor Speranția, blocând accesul necesar colectării deșeurilor, deși există indicatoare vizibile de interzicere a parcării.
-
-Vă solicit verificarea situației, dispunerea măsurilor legale și asigurarea accesului permanent la ghena de gunoi.
-Anexez fotografii justificative.</description>
   </item>
 </channel>
 </rss>
