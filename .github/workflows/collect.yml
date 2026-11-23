@@ -77,6 +77,8 @@ jobs:
           BACKFILL: ${{ github.event.inputs.from }}
         run: |
           if [ -z "$HOOK" ]; then echo "No VERCEL_DEPLOY_HOOK secret; skipping."; exit 0; fi
+          # runs come every 15 minutes, so only the one in the first quarter of each hour
+          # asks for a rebuild: about 24 deployments a day (Vercel Hobby allows 100)
           minute=$(date -u +%M)
-          if [ -z "$BACKFILL" ] && [ "$minute" -ge 20 ]; then echo "Not the hourly slot (minute $minute)."; exit 0; fi
+          if [ -z "$BACKFILL" ] && [ "$((10#$minute))" -ge 15 ]; then echo "Not the hourly slot (minute $minute)."; exit 0; fi
           curl -fsS -X POST "$HOOK" -o /dev/null && echo "Site rebuild requested."
