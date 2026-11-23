@@ -6,7 +6,46 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Noua · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276328</link>
+    <guid isPermaLink="false">CAS-0276328</guid>
+    <pubDate>Mon, 23 Nov 2026 14:45:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276327</link>
+    <guid isPermaLink="false">CAS-0276327</guid>
+    <pubDate>Mon, 23 Nov 2026 14:42:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 464 VVV pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276326</link>
+    <guid isPermaLink="false">CAS-0276326</guid>
+    <pubDate>Mon, 23 Nov 2026 14:39:52 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Bună ziua,
+
+În urma toaletări pomilor din curte au rezultat frunze pe care le-am pus în 6 saci pe care i-am depozitat în fata porții 
+
+În vederea menținerii curățeniei pe strada, Am marea rugăminte sa actionati în consecință.
+
+Cu stima,
+Teodora Constantinescu</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276325</link>
+    <guid isPermaLink="false">CAS-0276325</guid>
+    <pubDate>Mon, 23 Nov 2026 14:31:59 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276324</link>
     <guid isPermaLink="false">CAS-0276324</guid>
     <pubDate>Mon, 23 Nov 2026 14:30:11 GMT</pubDate>
@@ -543,47 +582,6 @@ Vă scriu în legătură cu tăierile de arbori efectuate recent în grădina bl
 Aș dori să vă rog să luați în considerare replantarea unor arbori în locul celor tăiați. Grădina blocului este un spațiu verde important pentru locatari, iar dispariția arborilor afectează atât aspectul zonei, cât și confortul nostru.
 Vă rog să îmi comunicați dacă există posibilitatea replantării.
 Vă mulțumesc și aștept răspunsul dumneavoastră!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276267</link>
-    <guid isPermaLink="false">CAS-0276267</guid>
-    <pubDate>Mon, 23 Nov 2026 08:53:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua,
-Va rugam sa initiati demersurile necesare ridicării autoturismului parcate neregulamentar.
-Va multumim
-
-Răspuns: AM APLICAT MASURILE LEGALE </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276266</link>
-    <guid isPermaLink="false">CAS-0276266</guid>
-    <pubDate>Mon, 23 Nov 2026 08:48:58 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Re-sesizare. Surparea persista si s-a adancit de la ultima sesizare din iulie 2026 si pana acum.
-Devine un pericol iminent. Va rog sa urgentati remedierea cu administratorul retelei de utilitati</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276265</link>
-    <guid isPermaLink="false">CAS-0276265</guid>
-    <pubDate>Mon, 23 Nov 2026 08:43:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 50
-
-Răspuns: In urma analizarii sesizarii am constatat ca nu sunt atasate fotografii din care sa reiasa tipul parcajului de resedinta si numarul de inmatriculare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276264</link>
-    <guid isPermaLink="false">CAS-0276264</guid>
-    <pubDate>Mon, 23 Nov 2026 08:43:07 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: sesizare incompleta </description>
   </item>
 </channel>
 </rss>
