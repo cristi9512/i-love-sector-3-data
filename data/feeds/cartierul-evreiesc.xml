@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276411</link>
+    <guid isPermaLink="false">CAS-0276411</guid>
+    <pubDate>Mon, 23 Nov 2026 20:44:00 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276410</link>
+    <guid isPermaLink="false">CAS-0276410</guid>
+    <pubDate>Mon, 23 Nov 2026 20:42:32 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276260</link>
     <guid isPermaLink="false">CAS-0276260</guid>
@@ -579,26 +595,6 @@ Răspuns: La momentul verificarii,auto in cauza,nu se mai afla in locatie</descr
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN LOCATIE A FOST INTOCMITA DOCUMENTATIA PT.APLICAREA DE SANCTIUNE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272519</link>
-    <guid isPermaLink="false">CAS-0272519</guid>
-    <pubDate>Sun, 08 Nov 2026 14:22:57 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO NU A FOST GASIT IN LOCATIA INDICATA.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271825</link>
-    <guid isPermaLink="false">CAS-0271825</guid>
-    <pubDate>Thu, 05 Nov 2026 10:59:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA . </description>
   </item>
 </channel>
 </rss>
