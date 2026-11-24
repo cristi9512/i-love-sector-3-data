@@ -7,6 +7,14 @@
   <language>ro</language>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276599</link>
+    <guid isPermaLink="false">CAS-0276599</guid>
+    <pubDate>Tue, 24 Nov 2026 19:17:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276597</link>
     <guid isPermaLink="false">CAS-0276597</guid>
     <pubDate>Tue, 24 Nov 2026 18:58:04 GMT</pubDate>
@@ -89,12 +97,14 @@ Răspuns: Sesizarea dvs a fost preluata la ora 18:56. Pentru verificarea sesizar
 Va multumim. </description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276560</link>
     <guid isPermaLink="false">CAS-0276560</guid>
     <pubDate>Tue, 24 Nov 2026 16:07:01 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: IN LOCATIE  S AU   APLICAT   MASURILE  LEGALE  CONFORM  CONFORM OUG 195/2002 R</description>
   </item>
   <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
@@ -632,16 +642,6 @@ Totodată, marcajul rutier sub formă de „X”, amplasat în dreptul căii de 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului.  fost întocmit proces verbaal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275986</link>
-    <guid isPermaLink="false">CAS-0275986</guid>
-    <pubDate>Sat, 21 Nov 2026 17:14:28 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat pe trecerea de pietoni.
-
-Răspuns: Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>
