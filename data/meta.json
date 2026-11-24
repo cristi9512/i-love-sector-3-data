@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T09:45:35.322Z",
-  "lastChange": "2026-11-24T09:45:35.322Z",
+  "lastRun": "2026-11-24T10:00:56.505Z",
+  "lastChange": "2026-11-24T10:00:56.505Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2438,
-    "added": 2,
-    "updated": 2,
+    "fetched": 2496,
+    "added": 3,
+    "updated": 1,
     "removed": 0,
-    "changes": 6
+    "changes": 1
   },
   "totals": {
-    "incidents": 47091,
-    "open": 2205,
+    "incidents": 47094,
+    "open": 2208,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T09:45:35.322Z",
+    "asOf": "2026-11-24T10:00:56.505Z",
     "days": 30,
-    "open": 2205,
+    "open": 2208,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 46,
+        "open": 47,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 220,
+        "open": 221,
         "n": 16
       },
       "10": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 23,
+        "open": 24,
         "n": 2
       },
       "21": {

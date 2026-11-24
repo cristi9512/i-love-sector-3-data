@@ -6,7 +6,37 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <title>Terenuri insalubre · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276484</link>
+    <guid isPermaLink="false">CAS-0276484</guid>
+    <pubDate>Tue, 24 Nov 2026 09:57:41 GMT</pubDate>
+    <category>Terenuri insalubre</category>
+    <description>Se aruncă gunoaie pe stradă de la șantiere,este foarte inestetic.
+Dorim să fie strânse,lângă sunt un bloc de locatari.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276483</link>
+    <guid isPermaLink="false">CAS-0276483</guid>
+    <pubDate>Tue, 24 Nov 2026 09:56:51 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276482</link>
+    <guid isPermaLink="false">CAS-0276482</guid>
+    <pubDate>Tue, 24 Nov 2026 09:47:31 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua, 
+Nu ma pot loga in sistemul de parcari. Doresc sa schimb locul meu de parcare cu locul nr. 4 care are codul 5346 din zona A6 care este in spatele blocului unde locuiesc. Actualul loc de parcare este la mai mult de 100m departare si este amplasat intr-o denivelare plina jumatate din an cu apa. La inceputul lunii s-a plantat un pom pe laterala masinii, asadar persoana din spatele soferului nu mai poate cobora din masina iar soferul trebuie sa treaca mereu prin balta pentru ca nu mai poate iesi prin spate din cauza acestui pom.  Din cauza acestei denivelari pline cu apa, numarul parcarii se sterge foarte repede si am avut probleme in repetate randuri cu masini parcate pe locul meu fara numar de telefon pe care nu am putut sa le ridic din cauza ca numarul locului era sters. Ultima data cand am solicitat retrasarea numarului a durat 3 luni timp in care eu nu am putut sa beneficiez de propriul loc platit in momentele in care a fost ocupat. Din pacate pentru ca exact in zona asta s-au construit un hotel si un restaurant locul meu este ocupat foarte des de persoane care nu isi lasa numarul de telefon. De asemenea serviciul de salubrizare cu care nu am fost de acord nu isi face treaba, toata parcarea fiind mereu plina de gunoaie.
+Va rog sa ma ajutati cu schimbarea locului actual cu cel mentionat la inceputul mesajului.
+Daca aveti nevoie de imagini care sa ateste toate problemele, le pot trimite.
+Multumesc!
+O zi frumoasa!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276481</link>
     <guid isPermaLink="false">CAS-0276481</guid>
     <pubDate>Tue, 24 Nov 2026 09:44:32 GMT</pubDate>
@@ -711,36 +741,6 @@ Răspuns: A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA SE AFLA IN LOCATIE
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: - sesizarea se confirma / s-au luat masurile legale in speta .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276424</link>
-    <guid isPermaLink="false">CAS-0276424</guid>
-    <pubDate>Mon, 23 Nov 2026 22:42:22 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - pozitionarea auto in speta si depunerile de pe carosabil nu permit identificarea categoriei locului de parcare . / imposibiltate luare masuri legale .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276423</link>
-    <guid isPermaLink="false">CAS-0276423</guid>
-    <pubDate>Mon, 23 Nov 2026 22:41:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - la ora verificarii in teren a sesizarii , auto indicat in reclamatie nu a mai fost gasit in locatia mentionata de catre petent .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276422</link>
-    <guid isPermaLink="false">CAS-0276422</guid>
-    <pubDate>Mon, 23 Nov 2026 22:41:15 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - sesizarea nu se confirma / la ora verificarii sesizarii , auto in cauza nu se afla in locatia indicata de catre petent .</description>
   </item>
 </channel>
 </rss>
