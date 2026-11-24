@@ -6,7 +6,39 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Străzi · Noua · Industriilor</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276574</link>
+    <guid isPermaLink="false">CAS-0276574</guid>
+    <pubDate>Tue, 24 Nov 2026 17:05:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276573</link>
+    <guid isPermaLink="false">CAS-0276573</guid>
+    <pubDate>Tue, 24 Nov 2026 17:02:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-7, precum și pentru zonele B-12,B-13,B-15,C-4,C-6,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276572</link>
+    <guid isPermaLink="false">CAS-0276572</guid>
+    <pubDate>Tue, 24 Nov 2026 17:02:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 51</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276571</link>
+    <guid isPermaLink="false">CAS-0276571</guid>
+    <pubDate>Tue, 24 Nov 2026 17:01:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Industriilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276570</link>
     <guid isPermaLink="false">CAS-0276570</guid>
     <pubDate>Tue, 24 Nov 2026 17:01:00 GMT</pubDate>
@@ -15,7 +47,7 @@
 Vă rog să luați măsuri urgente deoarece există pericol de accident, având în vedere că este o stradă foarte aglomerată pe care circulă zeci de TIR-uri zilnic</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276569</link>
     <guid isPermaLink="false">CAS-0276569</guid>
     <pubDate>Tue, 24 Nov 2026 17:00:45 GMT</pubDate>
@@ -23,7 +55,7 @@ Vă rog să luați măsuri urgente deoarece există pericol de accident, având 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Străzi · Noua · Brățării</title>
+    <title>Străzi · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276568</link>
     <guid isPermaLink="false">CAS-0276568</guid>
     <pubDate>Tue, 24 Nov 2026 17:00:16 GMT</pubDate>
@@ -36,7 +68,7 @@ Rog pe aceasta cale sa trimiteți o echipa pentru rezolvarea problemei sesizate.
 Multumesc anticipat!</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276567</link>
     <guid isPermaLink="false">CAS-0276567</guid>
     <pubDate>Tue, 24 Nov 2026 16:59:57 GMT</pubDate>
@@ -76,12 +108,15 @@ Multumesc anticipat!</description>
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276562</link>
     <guid isPermaLink="false">CAS-0276562</guid>
     <pubDate>Tue, 24 Nov 2026 16:42:48 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-3, precum și pentru zonele B-19,B-2,</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-3, precum și pentru zonele B-19,B-2,
+
+Răspuns: Sesizarea dvs a fost preluata la ora 18:56. Pentru verificarea sesizarii, aceasta trebuie sa contina cel putin o plansa foto concludenta din care sa reiasa atat numarul de inmatriculare al autovehiculului reclamat cat si tipul locului de parcare pe care acesta il ocupa. 
+Va multumim. </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -623,41 +658,6 @@ Răspuns: Neconcordanță între numărul de înmatriculare din conținutul sesi
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOASTRA NU ESTE INSOTITA DE FOTOGRAFII, NU SE POATE STABILI LOCATIA EXACTA SI PREVEDERILE LEGALE INCALCATE.VA RUGAM REVENITI CU ONOUA SESIZARE !</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276514</link>
-    <guid isPermaLink="false">CAS-0276514</guid>
-    <pubDate>Tue, 24 Nov 2026 12:42:11 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Buna ziua , dacă tot se lucrează pe str Trapezului Nr 2 de ce nu se plantează și 2 sau 3 copaci !!!??? este loc în locul celor care s-au uscat  ...Boscheții aia de tuia nu țin umbra deloc .aia sunt buni  linga garduri ....și o să mai și încurce când vi cu bagaje stai să ocolești toți Boscheții de tuia!!! PUNETI COPACI!!! MULȚUMESC</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276513</link>
-    <guid isPermaLink="false">CAS-0276513</guid>
-    <pubDate>Tue, 24 Nov 2026 12:41:59 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua, trimiteti pe cineva urgent sa stranga mizeria asta, este bataie de joc, tocmai ce s-a facut curat, daca asta se poate numi curatenie</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276512</link>
-    <guid isPermaLink="false">CAS-0276512</guid>
-    <pubDate>Tue, 24 Nov 2026 12:41:22 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua, trimiteti pe cineva urgent sa stranga mizeria asta, este bataie de joc, tocmai ce s-a facut curat, daca asta se poate numi curatenie</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276511</link>
-    <guid isPermaLink="false">CAS-0276511</guid>
-    <pubDate>Tue, 24 Nov 2026 12:39:38 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua!
-Doresc sa fac o sesizare prind un stalp de iluminat situat pe spatiul public. Corpul de iluminat al acestuia este rupt, existand posibilitatea ca acesta sa se desprinda si sa loveasca pe cineva, fiind situat pe trotuar, la cativa metri de intrarea intr-o scara de bloc.
-De asemenea, lumina corpului de iluminat este orientata catre geamurile apartamentelor din apropiere, creand un disconfort mare pe timpul noptii.
-Doresc un raspuns cu verificarile si solutionarea cauzei pe adresa de e-mail: ionalex710@gmail.com. Multumesc!</description>
   </item>
 </channel>
 </rss>
