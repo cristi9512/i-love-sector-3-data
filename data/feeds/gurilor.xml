@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276448</link>
+    <guid isPermaLink="false">CAS-0276448</guid>
+    <pubDate>Tue, 24 Nov 2026 06:58:54 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua
+va rog sa ne ajutați cu reasezarea indicatoarelor rutiere din intersecția străzilor gura Racului, ariesului si crivatului. Unele din ele sunt puse prea in exteriorul străzii sau chiar in curtea șantierelor si nu sunt vizibile. Multe persoane care nu cunosc intersecția traversează fara a se asigura. Apar frecvent situații periculoase sau care genereaza tensiuni între șoferi.
+este necesară așezarea lor incat să fie vizibile de la distanță, inainte să ajungi in intersecție.
+mulțumesc</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276361</link>
     <guid isPermaLink="false">CAS-0276361</guid>
@@ -662,14 +673,6 @@ Vicepreședinte Asociatie
 0749.76.75.06
 
 Răspuns: Trimis raspuns Rezolvat. Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274023</link>
-    <guid isPermaLink="false">CAS-0274023</guid>
-    <pubDate>Fri, 13 Nov 2026 15:31:45 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara Drumul Gura Calitei</description>
   </item>
 </channel>
 </rss>

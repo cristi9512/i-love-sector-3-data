@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T06:45:42.035Z",
-  "lastChange": "2026-11-24T06:45:42.035Z",
+  "lastRun": "2026-11-24T07:00:53.647Z",
+  "lastChange": "2026-11-24T07:00:53.647Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2394,
-    "added": 5,
-    "updated": 3,
+    "fetched": 2541,
+    "added": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 7
+    "changes": 1
   },
   "totals": {
-    "incidents": 47056,
-    "open": 2182,
+    "incidents": 47058,
+    "open": 2184,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T06:45:42.035Z",
+    "asOf": "2026-11-24T07:00:53.647Z",
     "days": 30,
-    "open": 2182,
+    "open": 2184,
     "total": 210,
     "byCategory": {
       "2": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 218,
+        "open": 219,
         "n": 16
       },
       "10": {
         "name": "Străzi",
-        "open": 400,
+        "open": 401,
         "n": 29
       },
       "11": {
