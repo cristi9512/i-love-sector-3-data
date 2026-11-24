@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T05:01:00.674Z",
-  "lastChange": "2026-11-24T05:01:00.674Z",
+  "lastRun": "2026-11-24T05:15:36.641Z",
+  "lastChange": "2026-11-24T05:15:36.641Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2288,
-    "added": 3,
-    "updated": 0,
+    "fetched": 2354,
+    "added": 0,
+    "updated": 3,
     "removed": 0,
-    "changes": 0
+    "changes": 9
   },
   "totals": {
     "incidents": 47044,
-    "open": 2181,
+    "open": 2178,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T05:01:00.674Z",
+    "asOf": "2026-11-24T05:15:36.641Z",
     "days": 30,
-    "open": 2181,
+    "open": 2178,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 49,
+        "open": 47,
         "n": 7
       },
       "3": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 36,
+        "open": 35,
         "n": 0
       },
       "17": {
