@@ -5420,3 +5420,9 @@
 {"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea se confirma / s-au luat masurile legale impuse in speta ."}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276426","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276426","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276426","field":"reply","from":"","to":"Nespecificat Registratura A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA SE AFLA IN LOCATIE FAPT PENTRU CARE A FOST INTOCMIT PROCES VERBAL DE CONSTATARE IN VEDEREA SANCTIONARII PROPRIETARULUI "}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276363","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276363","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T03:15:33.005Z","ticket":"CAS-0276363","field":"reply","from":"","to":"Nespecificat Registratura - la ora verificarii in teren a sesizarii , auto indicat de catre petent nu se mai afla in locatia mentionata in reclamatie ."}
