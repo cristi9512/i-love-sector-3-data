@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276560</link>
+    <guid isPermaLink="false">CAS-0276560</guid>
+    <pubDate>Tue, 24 Nov 2026 16:07:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276540</link>
     <guid isPermaLink="false">CAS-0276540</guid>
@@ -46,12 +54,14 @@ Pe strada Trapezului nr.2 in fata blocului M6 intre scara A si B este loc pentru
 Multumesc</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276495</link>
     <guid isPermaLink="false">CAS-0276495</guid>
     <pubDate>Tue, 24 Nov 2026 10:48:19 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE 18.08, AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -598,16 +608,6 @@ Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 16:54, însă
 autoturismul în cauză nu a mai fost identificat în locație.
 Vă mulțumim!
 </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275925</link>
-    <guid isPermaLink="false">CAS-0275925</guid>
-    <pubDate>Sat, 21 Nov 2026 12:14:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 58
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 16.00,LOCATIA UNDE ESTE PARCAT AUTO ESTE DAT GRESIT.VA MULTUMIM.</description>
   </item>
 </channel>
 </rss>
