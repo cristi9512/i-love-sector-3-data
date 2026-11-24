@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276607</link>
+    <guid isPermaLink="false">CAS-0276607</guid>
+    <pubDate>Tue, 24 Nov 2026 19:56:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autoturism parcat pe trotuar.  va rog luați măsuri</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276606</link>
+    <guid isPermaLink="false">CAS-0276606</guid>
+    <pubDate>Tue, 24 Nov 2026 19:54:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>auto ocupa ilegal tot trotuarul..va rog sa luați măsurile necesare</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276554</link>
     <guid isPermaLink="false">CAS-0276554</guid>
@@ -569,29 +585,6 @@ Răspuns: a fost demarata procedura de identificare si sanctionare a cond, auto.
     <description>Auto B291SAV blochează trotuarul
 
 Răspuns: auto a parasit locatia </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275080</link>
-    <guid isPermaLink="false">CAS-0275080</guid>
-    <pubDate>Wed, 18 Nov 2026 07:28:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ ZIUA!
-  AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRĂ,
-  LA MOMENTUL VERIFICĂRII, ORA 11:14 ,AUTOTURISMUL ,
-  NU SE AFLA IN LOCAȚIA INDICATĂ CONFORM CODULUI PIN TRANSMIS.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274906</link>
-    <guid isPermaLink="false">CAS-0274906</guid>
-    <pubDate>Tue, 17 Nov 2026 15:07:36 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Buna ziua, Pe trotuarul de langa Mega Image din sos Matei Basarab nr 70 sunt frecvent oameni ai strazii care consuma alcool pe strada si pe scarile blocurilor : va rog sa efectuati verificari la mai multe intervale orare si sa luati masurile necesare pentru a ii indeparta de pe trotuar deoarece mu putem circula in siguranta , mai ales alaturi pentru copiii care ii vad. Multumesc.
-
-Răspuns: ZONA A FOST VERIFICATA ,ASPECTELE SESIZATE NU SE CONFIRMA</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,84 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276608</link>
+    <guid isPermaLink="false">CAS-0276608</guid>
+    <pubDate>Tue, 24 Nov 2026 19:58:12 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276607</link>
+    <guid isPermaLink="false">CAS-0276607</guid>
+    <pubDate>Tue, 24 Nov 2026 19:56:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autoturism parcat pe trotuar.  va rog luați măsuri</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276606</link>
+    <guid isPermaLink="false">CAS-0276606</guid>
+    <pubDate>Tue, 24 Nov 2026 19:54:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>auto ocupa ilegal tot trotuarul..va rog sa luați măsurile necesare</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276605</link>
+    <guid isPermaLink="false">CAS-0276605</guid>
+    <pubDate>Tue, 24 Nov 2026 19:54:56 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276604</link>
+    <guid isPermaLink="false">CAS-0276604</guid>
+    <pubDate>Tue, 24 Nov 2026 19:54:35 GMT</pubDate>
+    <category>Altele</category>
+    <description>Subsemnata Chira Alina, cu domiciliul in str. Lotrioara nr. 20, Sector 3, titulară a contului pe platforma parcari3.ro asociat prezentei adrese de e-mail, vă aduc la cunoștință următoarea situație tehnică:
+1. Am deținut autorizația de parcare nr. 239160 din data de 04.07.2025 pentru autoturismul cu numărul de înmatriculare B116GBK până la data de 28.10.2026, taxa de parcare fiind achitată integral pentru întregul an 2026.
+
+2. Întrucât am schimbat autoturismul, în data de 28.10.2026 am actualizat datele acestuia pe platforma parcari3.ro, încărcând toate documentele aferente noului vehicul cu numărul de înmatriculare B124DKK.
+
+3. Solicitarea a fost aprobată, primind pe e-mail confirmarea procesării cu succes și noua autorizație de parcare emisă pentru numărul de înmatriculare B124DKK.
+
+Problema semnalată:
+Cu toate că am primit noua autorizație pe e-mail, la verificarea numărului de înmatriculare B124DKK în aplicația Primăria Sectorului 3, autoturismul apare în continuare ca neavând autorizație validă. Din cauza acestei erori de sincronizare în baza dumneavoastră de date, am primit deja două înștiințări ( Seria PS3-DGPL nr. 0157912, din 23.11.2026 / Seria PS3-DGPL nr. 0158030, din 24.11.2026 ) în parbrizul mașinii din partea Poliției Locale Sector 3.
+
+Solicitare:
+Vă rog să verificați cât mai repede în sistemul informatic (GIS) înregistrarea noii autorizații și să sincronizați/actualizați baza de date, astfel încât numărul de înmatriculare B124DKK să figureze activ și valid atât în aplicația Primăria Sectorului 3, cât și în sistemul verificat în teren de agenții Poliției Locale.
+
+Atașez următoarele documente justificative:
+
+1. E-mailul de confirmare a procesării solicitării din data de 28.10.2026;
+
+2. Noua autorizație de parcare emisă pentru B124DKK și, pentru referință, autorizația anterioară pentru B116GBK;
+
+Vă mulțumesc pentru sprijin și vă rog să îmi confirmați remedierea situației.
+
+Alina Chira,
+0756118887</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276603</link>
+    <guid isPermaLink="false">CAS-0276603</guid>
+    <pubDate>Tue, 24 Nov 2026 19:53:33 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>In spatele strazii sold iosif ion spre aleea moreni nu mai este vizibil pe asfalt indicatorul B7. Va rog trasati locurile.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276602</link>
+    <guid isPermaLink="false">CAS-0276602</guid>
+    <pubDate>Tue, 24 Nov 2026 19:49:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276601</link>
     <guid isPermaLink="false">CAS-0276601</guid>
@@ -604,76 +682,6 @@ Răspuns: FOTOGRAFIILE ATASATE NU SUNT RELEVANTE, NU REIESE FAPTUL CA AUTOTURISM
 
 Răspuns: Sesizarea dvs a fost preluata si verificata la ora 18:16. Autovehiculul reclamat ocupa locul indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022 si HCGMB nr 124/2008. 
 Va multumim. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276548</link>
-    <guid isPermaLink="false">CAS-0276548</guid>
-    <pubDate>Tue, 24 Nov 2026 15:37:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 18:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. 
-Va multumim. </description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276547</link>
-    <guid isPermaLink="false">CAS-0276547</guid>
-    <pubDate>Tue, 24 Nov 2026 15:33:48 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Am locul de parcare în Str.Lunca Bradului nr.2,locul cu nr.2 și în urma lucrărilor de executare trotuare în zonă toate cele 6 ghene de gunoi au fost mutate pe locul de parcare 1,eu ajungând cu mașina în imediata apropiere a deșeurilor care sunt împrăștiate peste tot.Vă rog,să dispuneți reorganizarea spațiilor de colectare deșeuri,nu toate în același areal și pe loc de parcare.Nu vreau șobolani la motor din cauza iresponsabilitii dvs!Sau măcar izolați zona cu plasă de separare deșeuri de locurile de parcare!Găsiți soluții,nu lăsați lucrurile la întâmplare,verificați situația pe teren !</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276546</link>
-    <guid isPermaLink="false">CAS-0276546</guid>
-    <pubDate>Tue, 24 Nov 2026 15:30:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE 18.52, AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276545</link>
-    <guid isPermaLink="false">CAS-0276545</guid>
-    <pubDate>Tue, 24 Nov 2026 15:27:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Ajunsi la locatie auto indicat in sesizare nu a mai fost gasit la fata locului.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276544</link>
-    <guid isPermaLink="false">CAS-0276544</guid>
-    <pubDate>Tue, 24 Nov 2026 15:25:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 21:04. La autovehiculul la care faceti referire s-a prezentat conducatorul auto care a fost sanctionat conform HCLS3 nr 346/2022. 
-Va multumim. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276543</link>
-    <guid isPermaLink="false">CAS-0276543</guid>
-    <pubDate>Tue, 24 Nov 2026 15:11:42 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Ajunsi la fata locului auto indicat in sesizare, AG 17 WRY nu se mai afla in locatie</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276542</link>
-    <guid isPermaLink="false">CAS-0276542</guid>
-    <pubDate>Tue, 24 Nov 2026 15:10:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 23.11.2027 18:00.
-
-Răspuns: Nu s a putut da curs sesizarii , intrucand nu ne au fost furnizate fotografii cu auto in cauza.</description>
   </item>
 </channel>
 </rss>
