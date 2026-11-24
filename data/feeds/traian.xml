@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Altele · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276522</link>
+    <guid isPermaLink="false">CAS-0276522</guid>
+    <pubDate>Tue, 24 Nov 2026 13:29:27 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua, asa arata o parcare proaspat curatata, va rog sa faceti ceva cu angajatii dvs, o sa iau lopata din casa ca sa-mi fac loc sa am pe unde calca.. rusine</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276513</link>
     <guid isPermaLink="false">CAS-0276513</guid>
@@ -584,16 +592,6 @@ Răspuns: ZONA A FOST VERIFICATA ,ASPECTELE SESIZATE NU SE CONFIRMA</description
     <description>Bună ziua ! 
 
 Ora 13:56, strada Turturelelor 62 este iar ocupată ilegal de mașini parcate pe banda de circulație ! Trebuie intervenit acum, nu diseară ! Mulțumesc !</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274813</link>
-    <guid isPermaLink="false">CAS-0274813</guid>
-    <pubDate>Tue, 17 Nov 2026 07:48:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI ESTE IN LOCATIE.S-A INTOCMIT DOCUMENTATIA CONF.HCLS3 346/2022</description>
   </item>
 </channel>
 </rss>
