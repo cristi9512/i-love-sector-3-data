@@ -5962,3 +5962,9 @@
 {"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 18:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. \nVa multumim. "}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276549","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276549","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276549","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 18:16. Autovehiculul reclamat ocupa locul indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022 si HCGMB nr 124/2008. \nVa multumim. "}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276506","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276506","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T16:45:35.607Z","ticket":"CAS-0276506","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE 18.33, AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE."}

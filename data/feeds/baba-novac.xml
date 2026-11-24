@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276561</link>
+    <guid isPermaLink="false">CAS-0276561</guid>
+    <pubDate>Tue, 24 Nov 2026 16:36:25 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturismul marca Fiat, având nr. de înmatriculare SL03E0E/ SLO3EOE nu deține autorizație de parcare pe raza sectorului 3 și nu achită tarif orar de parcare, deși este în mod constant parcată (ca acum) pe locurile nenominale B2 (str. Baba Novac nr. 17 - în zona bl. G13), fie o mută (când se curăță parcarea) pe locurile nenominale B1 aflate vis-a-vis. Este un comportament recurent al deținătorului autoturismului de a parca în această manieră (autoturismul nefiind folosit, ci doar mutat o dată pe lună când se curăță parcarea de pe locurile nenominale B2 pe B1 și vice versa). Rog luarea măsurilor ce se impun având în vedere că sunt cauzate inconveniențe față de deținătorii de autorizații atât nenominale, cât și nominale (care au dreptul de a parca pe orice loc nenominal în ziua curățării parcărilor) cât și față de faptul că beneficiarii autorizațiilor nenominale sunt privați de un drept pentru care au achitat taxele legale.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276559</link>
     <guid isPermaLink="false">CAS-0276559</guid>
@@ -738,14 +746,6 @@ Răspuns: AUTO IN CAUZA NU SE AFLA IN LOCATIE LA MOMENTUL VERIFICARII</descripti
     <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA  SE CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI  ESTE IN LOCATIE,S-A INTOCMIT DOCUMENTATIE CONFORM HCLS3 346/2022</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276154</link>
-    <guid isPermaLink="false">CAS-0276154</guid>
-    <pubDate>Sun, 22 Nov 2026 16:37:51 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua! În referire la sesizarea personala anterioara CAS 0259257/12.09.2926 și înregistrată în cadrul Direcției Generale de Politie Locală nr. 347125 /12.09.2006, va solicit în mod respectuos, ca pana la stabilirea proprietarului imobilului la care ați făcut referire, să dispuneți montarea unor întărituri la nivelul gardului metalic ce risca sa se prabuseasca peste mașinile parcate lângă acesta, în vederea evitarii de pagube acestora(avand în vedere și condițiile meteo ce pot avea loc). Menționez, încă o data, ca gardul metalic se sprijină doar pe indicatorul rutier de lângă el, indicator care a început să se îndoaie din cauza greutății gardului. Va mulțumesc!</description>
   </item>
 </channel>
 </rss>
