@@ -6211,3 +6211,6 @@
 {"at":"2026-11-24T23:01:02.640Z","ticket":"CAS-0276594","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T23:01:02.640Z","ticket":"CAS-0276594","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T23:01:02.640Z","ticket":"CAS-0276594","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea se confirma / s-au luat masurile legale in speta ."}
+{"at":"2026-11-24T23:30:45.933Z","ticket":"CAS-0276559","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T23:30:45.933Z","ticket":"CAS-0276559","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T23:30:45.933Z","ticket":"CAS-0276559","field":"reply","from":"","to":"Nespecificat Registratura - LOCATIA REPREZENTATA IN FOTO TRIMIS DE CATRE PETENT NU ESTE LA ADRESA FURNIZATA DE CATRE ACESTA  ( STR . LEVANTICA 90  ) , FIIND IDENTIFICATA  CADASTRAL  CA SOS. MIHAI BRAVU 292 . / auto in speta nu se mai afla in locatia indicata in sesizare ."}
