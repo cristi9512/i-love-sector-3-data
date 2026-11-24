@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T06:15:43.077Z",
-  "lastChange": "2026-11-24T06:15:43.077Z",
+  "lastRun": "2026-11-24T06:30:51.922Z",
+  "lastChange": "2026-11-24T06:30:51.922Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2718,
-    "added": 1,
-    "updated": 0,
+    "fetched": 2492,
+    "added": 4,
+    "updated": 2,
     "removed": 0,
-    "changes": 0
+    "changes": 6
   },
   "totals": {
-    "incidents": 47047,
-    "open": 2177,
+    "incidents": 47051,
+    "open": 2179,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T06:15:43.077Z",
+    "asOf": "2026-11-24T06:30:51.922Z",
     "days": 30,
-    "open": 2177,
+    "open": 2179,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 48,
+        "open": 50,
         "n": 7
       },
       "3": {
@@ -52,12 +52,12 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 85,
+        "open": 86,
         "n": 4
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 32,
+        "open": 31,
         "n": 5
       },
       "9": {
@@ -107,12 +107,12 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 19,
+        "open": 18,
         "n": 3
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 10,
+        "open": 11,
         "n": 4
       },
       "20": {

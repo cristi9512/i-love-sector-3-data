@@ -6,6 +6,24 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276441</link>
+    <guid isPermaLink="false">CAS-0276441</guid>
+    <pubDate>Tue, 24 Nov 2026 06:29:42 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul N........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276438</link>
+    <guid isPermaLink="false">CAS-0276438</guid>
+    <pubDate>Tue, 24 Nov 2026 06:18:43 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Buna dimineața!
+Așa cum am mai sesizat revin la dumneavoastră cu aceeași rugăminte. Dețin locul nominal nr.70 de pe Str Postăvarul nr.17, vis a vis de pizzeria L&apos;incontro. Ieri,în intervalul 6-6:30 dimineața, când voiam să ies din parcare era sa dau peste un biciclist care mergea regulamentar. Si ieșirea mea era regulamentară așa cum se poate observa pe camerele de filmat de pe stradă,dar neavând deloc vizibilitate din cauza celor 3 pubele care se află fix in curbă puse lângă locul meu de parcare era sa dau peste acel biciclist. Rog mutarea lor într-o altă zonă deoarece infrastructura permite acest lucru. Haideți să evităm o tragedie și să mutați acele pubele în alt loc.
+Mulțumesc.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276436</link>
     <guid isPermaLink="false">CAS-0276436</guid>
@@ -618,26 +636,6 @@ Răspuns: Auto a parasit locatia.</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275853</link>
-    <guid isPermaLink="false">CAS-0275853</guid>
-    <pubDate>Sat, 21 Nov 2026 05:57:10 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275842</link>
-    <guid isPermaLink="false">CAS-0275842</guid>
-    <pubDate>Fri, 20 Nov 2026 22:30:54 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Pe viitor, atașați o fotografie din care să reiasă numărul autoturismului și tipul de parcaj ocupat</description>
   </item>
 </channel>
 </rss>
