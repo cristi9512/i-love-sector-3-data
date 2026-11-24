@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276610</link>
+    <guid isPermaLink="false">CAS-0276610</guid>
+    <pubDate>Tue, 24 Nov 2026 20:10:22 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276609</link>
+    <guid isPermaLink="false">CAS-0276609</guid>
+    <pubDate>Tue, 24 Nov 2026 20:01:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe spatiul verde</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276608</link>
     <guid isPermaLink="false">CAS-0276608</guid>
@@ -663,25 +679,6 @@ Răspuns: FOTOGRAFIILE ATASATE NU SUNT RELEVANTE, NU REIESE FAPTUL CA AUTOTURISM
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: FOTOGRAFIILE ATASATE NU SUNT RELEVANTE, NU REIESE FAPTUL CA AUTOTURISMUL LA CARE SE FACE REFERIRE SE AFLA PE UN LOC DE PARCAR.VA RUGAM SA REVENITI CU O NOUA SESIZARE LA CARE SA ATASATI FOTOGRAFII ATAT ALEAUTOTURISMULUI CAT SI ALE PARCAJULUI LA CARE FACETI REFERIRE</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276550</link>
-    <guid isPermaLink="false">CAS-0276550</guid>
-    <pubDate>Tue, 24 Nov 2026 15:42:13 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nu există iluminat public funcțional în capătul străzii Al Magatti și continuarea pe Ghe Petrașcu este tot neiluminată de mai mult de o lună. Poza este luminată de softul telefonului, în realitate este bezna.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276549</link>
-    <guid isPermaLink="false">CAS-0276549</guid>
-    <pubDate>Tue, 24 Nov 2026 15:38:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 18:16. Autovehiculul reclamat ocupa locul indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022 si HCGMB nr 124/2008. 
-Va multumim. </description>
   </item>
 </channel>
 </rss>
