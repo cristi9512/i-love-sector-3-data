@@ -5402,3 +5402,6 @@
 {"at":"2026-11-24T01:45:33.476Z","ticket":"CAS-0276419","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T01:45:33.476Z","ticket":"CAS-0276419","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T01:45:33.476Z","ticket":"CAS-0276419","field":"reply","from":"","to":"Nespecificat Registratura - sesizare initiala , fara foto , cu numar eronat transmis de catre petent / auto PH 33 WVL a fost identificat , cu masuri legale aplicate ."}
+{"at":"2026-11-24T02:00:58.116Z","ticket":"CAS-0276418","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T02:00:58.116Z","ticket":"CAS-0276418","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T02:00:58.116Z","ticket":"CAS-0276418","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea nu se confirma / auto indicat de catre petent detine autorizatie parcare loc nenominal , pe sectiunea unde a fost gasit parcat ."}
