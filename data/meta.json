@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T11:45:37.064Z",
-  "lastChange": "2026-11-24T11:45:37.064Z",
+  "lastRun": "2026-11-24T12:00:57.029Z",
+  "lastChange": "2026-11-24T12:00:57.029Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2732,
-    "added": 2,
-    "updated": 0,
+    "fetched": 2638,
+    "added": 1,
+    "updated": 31,
     "removed": 0,
-    "changes": 0
+    "changes": 93
   },
   "totals": {
-    "incidents": 47113,
-    "open": 2217,
+    "incidents": 47114,
+    "open": 2187,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T11:45:37.064Z",
+    "asOf": "2026-11-24T12:00:57.029Z",
     "days": 30,
-    "open": 2217,
+    "open": 2187,
     "total": 210,
     "byCategory": {
       "2": {
@@ -62,22 +62,22 @@
       },
       "9": {
         "name": "Altele",
-        "open": 222,
+        "open": 223,
         "n": 16
       },
       "10": {
         "name": "Străzi",
-        "open": 406,
+        "open": 405,
         "n": 29
       },
       "11": {
         "name": "Parcuri",
-        "open": 56,
+        "open": 55,
         "n": 6
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 24,
+        "open": 21,
         "n": 1
       },
       "13": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 173,
+        "open": 172,
         "n": 4
       },
       "15": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 19,
+        "open": 17,
         "n": 3
       },
       "19": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 666,
+        "open": 643,
         "n": 2
       },
       "32": {

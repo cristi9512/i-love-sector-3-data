@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276504</link>
+    <guid isPermaLink="false">CAS-0276504</guid>
+    <pubDate>Tue, 24 Nov 2026 11:50:49 GMT</pubDate>
+    <category>Altele</category>
+    <description>Primăria nu respectă programul de făcut curățenie, respectiv între orele 11 si 13. Așa cum se observă în fotografie utilajul stă pe avarie mizeria nu este strânsă la ora 13:40. Este un singur utilaj care sigur că nici n are cum să facă fata. 
+Vă somez să opriți acest program strict populist până o să fiți în stare să respectați programul. dacă îmi spuneți să scot mașina între 11 și 13:00 de ce la ora 13:50 se face încă curat ? Cat va mai bateti joc de cetateni ? Abia astept alegerile.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276496</link>
     <guid isPermaLink="false">CAS-0276496</guid>
@@ -395,24 +404,28 @@ Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN
     <description>Trotuar blocat de mașină, nu pot trece cu căruciorul</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275248</link>
     <guid isPermaLink="false">CAS-0275248</guid>
     <pubDate>Wed, 18 Nov 2026 20:27:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Buna seara!
 Autoturismele parcheaza permanent in zona marcata &quot;oprire interzisa&quot;, deasemenea si pe trotuar, iar pietonii trebuie sa se deplaseze pe carosabil.
-Va multumesc.</description>
+Va multumesc.
+
+Răspuns: in locatie au fost aplicate sapte instiintari informative </description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275246</link>
     <guid isPermaLink="false">CAS-0275246</guid>
     <pubDate>Wed, 18 Nov 2026 20:15:51 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Buna seara
 Autoturismul este parcat pe trotuar similar unui loc de parcare platit!
-Va multumesc!</description>
+Va multumesc!
+
+Răspuns: a fost aplicata instiintare informativa </description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
@@ -588,16 +601,6 @@ Va multumesc.</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vederea luarii masurilor legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274693</link>
-    <guid isPermaLink="false">CAS-0274693</guid>
-    <pubDate>Mon, 16 Nov 2026 16:21:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Lipsa fotografie din care sa reiasa tipul parcajului de resedinta si numarul de inmatriculare al autoturismului reclamat.</description>
   </item>
 </channel>
 </rss>
