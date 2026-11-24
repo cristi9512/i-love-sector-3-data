@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276437</link>
+    <guid isPermaLink="false">CAS-0276437</guid>
+    <pubDate>Tue, 24 Nov 2026 06:03:40 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>deșeuri abandonate pe domeniul public</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276436</link>
     <guid isPermaLink="false">CAS-0276436</guid>
@@ -574,14 +582,6 @@ La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra aut
     <pubDate>Mon, 23 Nov 2026 17:37:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Blochează și intrarea in scara și îngustează și drumul de acces în parcare.  B101GJZ când pe stradă sunt locuri nenominale libere.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276377</link>
-    <guid isPermaLink="false">CAS-0276377</guid>
-    <pubDate>Mon, 23 Nov 2026 17:36:46 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina din imagine blochează trotuarul, care oricum este îngust. Nu e prima oară când parchează aici. PH 03 KEH</description>
   </item>
 </channel>
 </rss>
