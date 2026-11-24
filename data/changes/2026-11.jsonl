@@ -5442,3 +5442,12 @@
 {"at":"2026-11-24T05:45:33.207Z","ticket":"CAS-0276429","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T05:45:33.207Z","ticket":"CAS-0276429","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T05:45:33.207Z","ticket":"CAS-0276429","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto."}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275085","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275085","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275085","field":"reply","from":"","to":"Trimis raspuns Copie contract. Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275235","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275235","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275235","field":"reply","from":"","to":"Nespecificat Registratura a fost demarata procedura de identificare si sanctionare a cond. auto ."}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275236","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275236","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T06:00:53.403Z","ticket":"CAS-0275236","field":"reply","from":"","to":"Nespecificat Registratura auto a parasit locatia "}
