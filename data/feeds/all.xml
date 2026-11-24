@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Mașini abandonate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276616</link>
+    <guid isPermaLink="false">CAS-0276616</guid>
+    <pubDate>Tue, 24 Nov 2026 20:42:38 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Sesizez o masina roșie cu nr de CL posibil abandonată, are 2 roti sparte, capota scorojita de vreme și pe Aida apare fără RCA activ.....</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276615</link>
+    <guid isPermaLink="false">CAS-0276615</guid>
+    <pubDate>Tue, 24 Nov 2026 20:35:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276614</link>
     <guid isPermaLink="false">CAS-0276614</guid>
     <pubDate>Tue, 24 Nov 2026 20:29:39 GMT</pubDate>
@@ -124,12 +140,14 @@ Alina Chira,
     <description>In spatele strazii sold iosif ion spre aleea moreni nu mai este vizibil pe asfalt indicatorul B7. Va rog trasati locurile.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276602</link>
     <guid isPermaLink="false">CAS-0276602</guid>
     <pubDate>Tue, 24 Nov 2026 19:49:43 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -648,29 +666,6 @@ Analizarea oportunității instalării indicatoarelor rutiere de interzicere a o
 Atașez fotografii relevante care ilustrează situația reclamată.
 
 Vă rog să îmi comunicați numărul de înregistrare al sesizării și măsurile concrete dispuse pentru remedierea problemei.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276556</link>
-    <guid isPermaLink="false">CAS-0276556</guid>
-    <pubDate>Tue, 24 Nov 2026 15:56:27 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto parcat pe trotuar
-
-Răspuns: IN LOCATIE  S AU   APLICAT   MASURILE  LEGALE  CONFORM  CONFORM OUG 195/2002 R</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276555</link>
-    <guid isPermaLink="false">CAS-0276555</guid>
-    <pubDate>Tue, 24 Nov 2026 15:49:18 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna seara,
-Pe strada Piscul Rachitei este imposibila trecerea a doua masini (Stiubei &gt; Piscul Rachitei si Splai &gt; Piscul Rachitei) nefiind sens unic, din cauza masinilor parcate. 
-Ar trebui sa fie sens unic dinspre str Piscul Rachitei spre Splaiul Unirii.
-O alta problema ar fi vizibilitatea redusa la iesirea spre Splai (dinspre Piscul Rachitei) din cauza masinilor parcate neregulamentar pe Splai, langa statia de autobuz.
-Rog verificare!
-Multumesc.</description>
   </item>
 </channel>
 </rss>
