@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276476</link>
+    <guid isPermaLink="false">CAS-0276476</guid>
+    <pubDate>Tue, 24 Nov 2026 09:08:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Este parcată pe B10.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276432</link>
     <guid isPermaLink="false">CAS-0276432</guid>
@@ -618,16 +626,6 @@ Răspuns: Buna seara! La fata locului au fost depistate 2 auto stationate neregu
     <description>Blochează strada și ieșirea din curte cu masina
 
 Răspuns: Buna seara! La fata locului au fost depistate 2 auto stationate neregulamentar,au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275959</link>
-    <guid isPermaLink="false">CAS-0275959</guid>
-    <pubDate>Sat, 21 Nov 2026 15:16:51 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună seara! Sunt mai multe autovehicule parcate în afara locurilor de parcare care blochează vizibilitatea când se iese din parcare. Ca reper, pe aleea fizicienilor lângă bloc D1B
-
-Răspuns: Buna dimineata! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>

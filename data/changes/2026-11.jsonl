@@ -5486,3 +5486,16 @@
 {"at":"2026-11-24T09:00:54.886Z","ticket":"CAS-0276010","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T09:00:54.886Z","ticket":"CAS-0276010","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-24T09:00:54.886Z","ticket":"CAS-0276010","field":"reply","from":"","to":"Trimis raspuns Vă comunicăm faptul că zona hașurată din spatele locului de parcare menționat de dumneavoastră este destinată asigurării spațiului necesar efectuării manevrelor de către autovehiculul de salubritate. Prin urmare, locul de parcare respectiv nu poate fi repoziționat.\n\nTotodată, marcajul rutier sub formă de „X”, amplasat în dreptul căii de acces în bloc, are rolul de a interzice staționarea autovehiculelor în zona respectivă, în vederea menținerii accesului liber. "}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276436","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276436","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276436","field":"reply","from":"","to":"Nespecificat Registratura Pe viitor, atașați o fotografie din care să reiasă număru autoturismului și tipul de parcaj ocupat."}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276471","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276455","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276455","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276455","field":"reply","from":"","to":"Luat la cunostinta TEST"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276451","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276451","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276451","field":"reply","from":"","to":"Luat la cunostinta TEST"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276459","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276459","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T09:15:45.557Z","ticket":"CAS-0276459","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, a fost identificată persoana care folosea turbosuflanta fiind aplicate măsurile ce se impun în astfel de situații. Pe viitor, când sesizți astfel de aspecte, apelați Dispeceratul Poliției Locale Sector 3 la numărul de telefon 021.9543, iar un echipaj va prelua sesizarea și se va deplasa pentru a lua măsuri.\nCu stimă,"}
