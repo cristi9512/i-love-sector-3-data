@@ -5990,3 +5990,6 @@
 {"at":"2026-11-24T17:15:46.774Z","ticket":"CAS-0276567","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-24T17:15:46.774Z","ticket":"CAS-0276568","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-24T17:15:46.774Z","ticket":"CAS-0276570","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-24T17:30:47.661Z","ticket":"CAS-0276563","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T17:30:47.661Z","ticket":"CAS-0276563","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T17:30:47.661Z","ticket":"CAS-0276563","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 19:02. Autovehiculul la care faceti referire ocupa locul de parcare indicat, motiv pentru care au luate masurile legale care se impun conform HCLS3 nr 346/2022.\nVa multumim. "}
