@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Ordine și liniște publică · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276624</link>
+    <guid isPermaLink="false">CAS-0276624</guid>
+    <pubDate>Tue, 24 Nov 2026 21:55:43 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Auto nu deține autorizație nenominal a</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276619</link>
     <guid isPermaLink="false">CAS-0276619</guid>
@@ -609,16 +617,6 @@ Va multumim. </description>
     <pubDate>Sun, 22 Nov 2026 07:29:13 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Zilnic sunt alte masini parcate pe trotuarul recent reabilitat si nu se rezolvă nicio sesizare</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276037</link>
-    <guid isPermaLink="false">CAS-0276037</guid>
-    <pubDate>Sun, 22 Nov 2026 07:10:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vizibilitatea la ieșirea din parcarea 2226 este complet blocată de mașinile parcate la bordură.
-Drumul e prea îngust din cauza mașinilor staționate în dreptul ghenelor de gunoi. 
-Luați măsuri.</description>
   </item>
 </channel>
 </rss>

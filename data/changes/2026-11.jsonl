@@ -6172,3 +6172,12 @@
 {"at":"2026-11-24T21:45:34.182Z","ticket":"CAS-0276558","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T21:45:34.182Z","ticket":"CAS-0276558","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T21:45:34.182Z","ticket":"CAS-0276558","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR, AUTOTURIMUL NU A FOST IDENTIFICAT IN LOCATIE"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276615","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276615","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276615","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR AUTOTURISMUL A FOST IDENTIFICAT IN LOCATIE  SI AU FOST APLICATE MASURILE LEGALE"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276596","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276596","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276596","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL IN CAUZA NU OCUPA UN LOC  DE PARCARE "}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276249","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276249","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T22:00:52.907Z","ticket":"CAS-0276249","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea se confirma . \n / s-au luat masurile legale in speta ."}
