@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276621</link>
+    <guid isPermaLink="false">CAS-0276621</guid>
+    <pubDate>Tue, 24 Nov 2026 21:14:00 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Deține autorizație nenominala de parcare pentru  zona A-6, precum și pentru zonele A-10,A-4,A-5,A-7,A-8,</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276607</link>
     <guid isPermaLink="false">CAS-0276607</guid>
@@ -575,16 +583,6 @@ Răspuns: Documentul a fost transferat automat la instanta DGITL (615252/18.11.2
 Mașină parcata de aseară pe trecerea de pietoni, B192ATS.
 
 Răspuns: a fost demarata procedura de identificare si sanctionare a cond, auto.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275081</link>
-    <guid isPermaLink="false">CAS-0275081</guid>
-    <pubDate>Wed, 18 Nov 2026 07:45:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto B291SAV blochează trotuarul
-
-Răspuns: auto a parasit locatia </description>
   </item>
 </channel>
 </rss>
