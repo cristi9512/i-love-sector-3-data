@@ -6187,3 +6187,18 @@
 {"at":"2026-11-24T22:15:34.977Z","ticket":"CAS-0276581","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T22:15:34.977Z","ticket":"CAS-0276581","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T22:15:34.977Z","ticket":"CAS-0276581","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL A FOST IDENTIFICAT IN OCATIE. AU FOST APLICATE MASURILE LEGALE"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276627","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276627","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276627","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE IN LOCATIE, ASPECTELE RECLAMATE PRIVIND TULBURAREA LINISTII LOCATARILOR NU SE CONFIRMA. "}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276617","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276617","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276617","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIA INDICATA"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276586","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276586","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276586","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276625","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276625","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276625","field":"reply","from":"","to":"Nespecificat Registratura - la ora verificarii in teren , auto indicat de catre petent nu se mai afla in locatia indicata in sesizare sau in  proximitatea acesteia ."}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276601","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276601","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T22:45:36.220Z","ticket":"CAS-0276601","field":"reply","from":"","to":"Nespecificat Registratura - la ora verificarii in teren , auto indicat de catre petent nu se mai afla in locatia indicata in sesizare sau in  proximitatea acesteia ."}
