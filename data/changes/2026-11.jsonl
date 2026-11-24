@@ -5387,3 +5387,9 @@
 {"at":"2026-11-24T00:49:47.677Z","ticket":"CAS-0276251","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T00:49:47.677Z","ticket":"CAS-0276251","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T00:49:47.677Z","ticket":"CAS-0276251","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie."}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276421","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276421","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276421","field":"reply","from":"","to":"Nespecificat Registratura - lipsa fotografie care sa ateste prezenta autoturismului / autovehiculului in locatia indicata de catre petent ."}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276423","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276423","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T01:15:32.975Z","ticket":"CAS-0276423","field":"reply","from":"","to":"Nespecificat Registratura - la ora verificarii in teren a sesizarii , auto indicat in reclamatie nu a mai fost gasit in locatia mentionata de catre petent ."}
