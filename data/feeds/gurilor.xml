@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276454</link>
+    <guid isPermaLink="false">CAS-0276454</guid>
+    <pubDate>Tue, 24 Nov 2026 07:15:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina staționează deși are indicator de  oprirea interzisă și de asemenea blochează accesul mașinii de gunoi la ghenele îngropate</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276448</link>
     <guid isPermaLink="false">CAS-0276448</guid>
@@ -651,28 +659,6 @@ Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal
     <pubDate>Sat, 14 Nov 2026 19:06:19 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Mașini parcate neregulamentar, blochează benzile de acces.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274138</link>
-    <guid isPermaLink="false">CAS-0274138</guid>
-    <pubDate>Sat, 14 Nov 2026 07:14:01 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună ziua, 
-Vă scriu din partea Asociației de Proprietari Bloc 1 Ariesului 85A (CIF 47819703), în calitate de vicepreședinte.
-Avem 2 facturi emise eronat (cu 200 persoane), am trimis si email catre Sesizari@salubritate3.ro, Colectare@salubritate3.ro,
-pentru soluționare.
-
-Rugam departamentul abilitat sa ne ajute cu corecția (storno) a facturilor si o facturare corectă pentru lunile septembrie, octombrie, deoarece numarul corect de persoane ale Asociației (Bloc 1 si Bloc 3) a fost declarat și este declarat: 90.
-Avem reclamații din partea proprietarilor deoarece costul este foarte mare și nu putem plăti facturile. 
-Așteptăm urgent răspunsul Dvs.
-Am poze cu emailul trimis și cele 2 facturi.
-Mulțumim anticipat, 
-Andreea Zăuleț 
-Vicepreședinte Asociatie 
-0749.76.75.06
-
-Răspuns: Trimis raspuns Rezolvat. Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>
