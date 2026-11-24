@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276465</link>
+    <guid isPermaLink="false">CAS-0276465</guid>
+    <pubDate>Tue, 24 Nov 2026 08:14:15 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Buna ziua! Va scriu in legatura cu acelasi subiect, parcarea din strada Aleea barajul Dunării nr 3 bloc M35, scara 8, locul nenominal 47 care nu este marcat cu galben ca B17. Am facut prima sesizare in mai 2026, apoi octombrie. V am rugat in numele locatarilor scara 8 sa marcati acest loc 47 cu B17. Problema este ca pe acest loc sta un individ care nu are nicio autorizatie de parcare( nominal, nenominal, tarif orar) de 9 luni de sile. Corect si normal ar fi sa beneficiem de acest loc, toti cei care platim autorizatii nenominale. Se parcheaza mult in spate sa nu se vada numarul parcarii, sta la parter chiar unde e locul. Ar trebui verificate toate masinile din parcare, stau multi pe locuri nominale si nenominale fara sa plateasca autorizatie. ,, Isteti” . Iar noi cei care platim,nu avem unde parca. Se comporta de parca e nominalul lui. Va multumim pentru intelegere si va rugam sa marcati acest loc.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276447</link>
     <guid isPermaLink="false">CAS-0276447</guid>
@@ -14,12 +22,14 @@
     <description>De duminică arată așa.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276445</link>
     <guid isPermaLink="false">CAS-0276445</guid>
     <pubDate>Tue, 24 Nov 2026 06:41:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Deține autorizație nominala de parcare pentru  locul 3a</description>
+    <description>Autovehiculul cu numarul P........ Deține autorizație nominala de parcare pentru  locul 3a
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
@@ -610,16 +620,6 @@ Răspuns: Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor 
     <pubDate>Sat, 21 Nov 2026 14:50:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>B-100-JBL parcat neregulamentar în intersecție, direct pe marcajul hașurat care interzice staționarea vehiculelor pe suprafața sa langa loc nenominal. Prin această poziționare, blochează vizibilitatea în intersecție și reduce spațiul de manevră al celorlalte vehicule.Incalca prevederile O.U.G 195/2002 privind circulatia pe drumurile publice si hotararea Consiliului local sector 3 nr.9/19.01.2021</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275942</link>
-    <guid isPermaLink="false">CAS-0275942</guid>
-    <pubDate>Sat, 21 Nov 2026 14:14:03 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Rezultatul parcărilor lui Negoiță și ineficiența dumneavoastră! Fiecare face ce dorește…FELICITĂRI!!!
-
-Răspuns: Buna seara! Va multumesc pentru sesizare.Verificarile în teren se vor realiza în termenul legal în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>
