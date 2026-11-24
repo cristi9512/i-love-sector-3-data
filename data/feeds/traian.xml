@@ -6,12 +6,24 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
-    <title>Ordine și liniște publică · În lucru · Traian</title>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276494</link>
+    <guid isPermaLink="false">CAS-0276494</guid>
+    <pubDate>Tue, 24 Nov 2026 10:38:04 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua, azi este zi de curățenie, proprietarii de locuri de parcare nominale și-au mutat mașinile în vederea curățeniei, dar sunt o grămadă de mașini parcate, din diverse județe care au profitat de locurile libere si au parcat. Mai mult că sigur că mașinile de curățat vor trece în viteză pe stradă, de fapt pe mijlocul străzii, iar curățenia nu se va observa. Acest lucru se întâmplă de fiecare dată când este programată curățenia, cei care parchează nu țin cont de atenționările de pe stâlpi. Rog analiză si măsuri în consecință. Consider că mașinile de curățenie să fie însoțite de o mașină a poliției locale</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276485</link>
     <guid isPermaLink="false">CAS-0276485</guid>
     <pubDate>Tue, 24 Nov 2026 10:01:30 GMT</pubDate>
     <category>Ordine și liniște publică</category>
-    <description>persoane consumat alcool in fata scării nr 2 bl L111A str Matei Basarab nr 71</description>
+    <description>persoane consumat alcool in fata scării nr 2 bl L111A str Matei Basarab nr 71
+
+Răspuns: BUNA ZIUA,
+SESIZAREA DUMNEAVOASTRA SE CONFIRMA, PERSOANELE IN CAUZA AU FOST LEGITIMATE SI AU FOST LUATE MASURILE LEGALE CE SE IMPUN. PERSOANELE IN CAUZA AU PARASIT LOCATIA IN PREZENTA NOASTRA.
+VA MULTUMIM!</description>
   </item>
   <item>
     <title>Altele · În lucru · Traian</title>
@@ -584,15 +596,6 @@ Răspuns: Lipsa fotografie din care sa reiasa tipul parcajului de resedinta si n
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor am constatat ca autoturismul nu se afla in locatie.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274679</link>
-    <guid isPermaLink="false">CAS-0274679</guid>
-    <pubDate>Mon, 16 Nov 2026 15:30:51 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>BUna ziua!
-Va rog sa trimteti de urgenta o echipa pentru taierea copacului din dreptul locului de parcare 16 - Cod parcare 270_1, aceste sta sa cada si risca sa-mi distruga masina + cele din jur.</description>
   </item>
 </channel>
 </rss>
