@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T11:30:50.690Z",
-  "lastChange": "2026-11-24T11:30:50.690Z",
+  "lastRun": "2026-11-24T11:45:37.064Z",
+  "lastChange": "2026-11-24T11:45:37.064Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2774,
-    "added": 1,
-    "updated": 2,
+    "fetched": 2732,
+    "added": 2,
+    "updated": 0,
     "removed": 0,
-    "changes": 6
+    "changes": 0
   },
   "totals": {
-    "incidents": 47111,
-    "open": 2215,
+    "incidents": 47113,
+    "open": 2217,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T11:30:50.690Z",
+    "asOf": "2026-11-24T11:45:37.064Z",
     "days": 30,
-    "open": 2215,
+    "open": 2217,
     "total": 210,
     "byCategory": {
       "2": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 35,
+        "open": 36,
         "n": 0
       },
       "17": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 665,
+        "open": 666,
         "n": 2
       },
       "32": {
