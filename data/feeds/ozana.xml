@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276622</link>
+    <guid isPermaLink="false">CAS-0276622</guid>
+    <pubDate>Tue, 24 Nov 2026 21:21:31 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pe străzile Jean Steriadi și Aleea Lipănești au fost efectuate intervenții, însă asfaltul nu a fost adus la forma inițială și nu s-a refăcut carosabilul. În prezent, s-au format gropi, iar în această perioadă ploioasă în acestea se acumulează apă. Vă rugăm să remediați aceste probleme și să refaceți asfaltul pe cele două străzi.</description>
+  </item>
+  <item>
     <title>Parcuri · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276595</link>
     <guid isPermaLink="false">CAS-0276595</guid>
@@ -647,16 +655,6 @@ Locatarii complexului rezidențial din zona străzii Fetești</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului.  fost întocmit proces verbaal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276001</link>
-    <guid isPermaLink="false">CAS-0276001</guid>
-    <pubDate>Sat, 21 Nov 2026 18:58:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcata neregulamentar
-
-Răspuns: Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>
