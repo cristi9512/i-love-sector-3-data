@@ -5925,3 +5925,6 @@
 {"at":"2026-11-24T14:45:34.751Z","ticket":"CAS-0276499","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T14:45:34.751Z","ticket":"CAS-0276499","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T14:45:34.751Z","ticket":"CAS-0276499","field":"reply","from":"","to":"Nespecificat Registratura In urma analizarii sesizarii, am constatat lipsa unei fotografii din care sa reiasa tipul parcajului de resedinta cat si cu numarul de inmatriculare."}
+{"at":"2026-11-24T15:00:58.286Z","ticket":"CAS-0276537","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-24T15:00:58.286Z","ticket":"CAS-0276536","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-24T15:00:58.286Z","ticket":"CAS-0276535","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
