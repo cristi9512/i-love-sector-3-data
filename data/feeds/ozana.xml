@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276458</link>
+    <guid isPermaLink="false">CAS-0276458</guid>
+    <pubDate>Tue, 24 Nov 2026 07:35:18 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Dețin autorizație nominală pentru locul de parcare nr. 3, bateria 70_2, situat pe str. Jean Steriadi nr. 20, bl. i21.
+
+Lângă locul meu de parcare exista anterior un arbore, care a fost tăiat deoarece era uscat. În urma îndepărtării acestuia a rămas un spațiu liber, nemarcat și neînregistrat în GIS, care este mai îngust decât un loc de parcare obișnuit.
+
+În prezent, acest spațiu este ocupat frecvent de autoturisme, a căror poziționare îngreunează semnificativ deschiderea portierei și accesul în autoturismul meu, afectând astfel utilizarea normală a locului de parcare pentru care dețin autorizație.
+
+Având în vedere că, prin răspunsul la sesizarea nr. 345768/11.09.2026, ați confirmat că suprafața respectivă nu reprezintă un loc de parcare sistematizat, solicit clarificarea regimului acesteia și dispunerea masurilor necesare pentru asigurarea posibilității de utilizare normală și efectivă a locului de parcare nominal pe care îl dețin.
+
+Vă rog să efectuați o verificare în teren și să îmi comunicați măsurile dispuse.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276441</link>
     <guid isPermaLink="false">CAS-0276441</guid>
@@ -626,16 +642,6 @@ Răspuns: Locatia a fost eliberata.</description>
     <description>in parcarea din spatele blocu4ilir n3A si n3b, Theodor Pallady 31. Masina parcsta pe teotuat
 
 Răspuns: Auto a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275854</link>
-    <guid isPermaLink="false">CAS-0275854</guid>
-    <pubDate>Sat, 21 Nov 2026 05:58:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3.</description>
   </item>
 </channel>
 </rss>
