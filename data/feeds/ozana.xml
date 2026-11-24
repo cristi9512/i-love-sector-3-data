@@ -6,7 +6,7 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276590</link>
     <guid isPermaLink="false">CAS-0276590</guid>
     <pubDate>Tue, 24 Nov 2026 18:30:24 GMT</pubDate>
@@ -14,12 +14,15 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276588</link>
     <guid isPermaLink="false">CAS-0276588</guid>
     <pubDate>Tue, 24 Nov 2026 18:26:48 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dvs a fost preluata la ora 20:26. Pentru a putea fi verificata sesizarea dvs trebuie sa contina cel putn o plansa foto din care sa reiasa atat numarul de inmatriculare al autovehiculului reclamat, cat si tipul locului de parcare ocupat.
+Va multumim. </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
