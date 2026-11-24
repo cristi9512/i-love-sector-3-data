@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276598</link>
+    <guid isPermaLink="false">CAS-0276598</guid>
+    <pubDate>Tue, 24 Nov 2026 19:08:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276597</link>
     <guid isPermaLink="false">CAS-0276597</guid>
@@ -184,13 +192,15 @@ Solicit comunicarea în scris a rezultatului verificărilor și a măsurilor dis
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276585</link>
     <guid isPermaLink="false">CAS-0276585</guid>
     <pubDate>Tue, 24 Nov 2026 18:17:34 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Buna seara! Pe 23.11.2026 ati eliberat trotuarul de masini.
-Astazi pe 24.11.2026 iar au inceput sa parcheze.</description>
+Astazi pe 24.11.2026 iar au inceput sa parcheze.
+
+Răspuns: IN LOCATIE  AU  FOST  DISPUSE MASURILE LEGALE </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
@@ -666,19 +676,6 @@ Mai ganditi-va ca la nici 10 metri sunt pubele ingropate si exterioare, si pe ac
 Fi-ti oameni, inainte sa scrieti unele lucruri de la tastatura.
 
 O zi buna!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276538</link>
-    <guid isPermaLink="false">CAS-0276538</guid>
-    <pubDate>Tue, 24 Nov 2026 14:47:32 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>bună ziua,
-Am și eu câteva deșeuri vegetale pe care aș dori să veniți să le luați!
-vă rog să mă contactați pentru a le scoate la stradă.
-telefon +40 757 884 491
-
-Răspuns: Trimis raspuns Petentul a fost contactat telefonic  </description>
   </item>
 </channel>
 </rss>
