@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T12:30:55.606Z",
-  "lastChange": "2026-11-24T12:30:55.606Z",
+  "lastRun": "2026-11-24T12:45:43.991Z",
+  "lastChange": "2026-11-24T12:45:43.991Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2558,
-    "added": 2,
-    "updated": 13,
+    "fetched": 2464,
+    "added": 9,
+    "updated": 26,
     "removed": 0,
-    "changes": 39
+    "changes": 78
   },
   "totals": {
-    "incidents": 47117,
-    "open": 2129,
+    "incidents": 47126,
+    "open": 2112,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T12:30:55.606Z",
+    "asOf": "2026-11-24T12:45:43.991Z",
     "days": 30,
-    "open": 2129,
-    "total": 211,
+    "open": 2112,
+    "total": 203,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 42,
+        "open": 43,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 189,
-        "n": 19
+        "open": 186,
+        "n": 16
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 221,
-        "n": 16
+        "open": 215,
+        "n": 13
       },
       "10": {
         "name": "Străzi",
-        "open": 401,
-        "n": 30
+        "open": 390,
+        "n": 29
       },
       "11": {
         "name": "Parcuri",
@@ -87,8 +87,8 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 169,
-        "n": 4
+        "open": 168,
+        "n": 3
       },
       "15": {
         "name": "Animale de companie",
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 12,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 610,
+        "open": 612,
         "n": 2
       },
       "32": {
