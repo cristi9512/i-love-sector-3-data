@@ -5910,3 +5910,9 @@
 {"at":"2026-11-24T13:45:34.462Z","ticket":"CAS-0276521","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-24T13:45:34.462Z","ticket":"CAS-0276522","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-24T14:01:00.366Z","ticket":"CAS-0276527","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276510","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276510","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276510","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 15:47. Persoana reclamata a fost legitimata si indrumata catre Centrul de primire persoane fara adapost din Bdul 1 Decembrie 1918 nr 9J. Persoana a parasit locul indicat in prezenta echipajului OP. \nVa multumim. "}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276517","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276517","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T14:15:36.647Z","ticket":"CAS-0276517","field":"reply","from":"","to":"Nespecificat Registratura Neconcordanță între numărul de înmatriculare din conținutul sesizării și numărul de înmatriculare al vehiculului din fotografia atașată."}
