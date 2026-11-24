@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276495</link>
+    <guid isPermaLink="false">CAS-0276495</guid>
+    <pubDate>Tue, 24 Nov 2026 10:48:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276469</link>
     <guid isPermaLink="false">CAS-0276469</guid>
@@ -600,16 +608,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare  si aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS3 nr 346/2022. Ulterior identificari proprietarului ,i se va aplica sanctiunea prevazuta de actul normativ.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275826</link>
-    <guid isPermaLink="false">CAS-0275826</guid>
-    <pubDate>Fri, 20 Nov 2026 21:18:36 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului.  fost întocmit proces verbaal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
   </item>
 </channel>
 </rss>

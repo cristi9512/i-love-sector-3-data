@@ -6,6 +6,34 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276497</link>
+    <guid isPermaLink="false">CAS-0276497</guid>
+    <pubDate>Tue, 24 Nov 2026 10:53:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul N........ Deține autorizație nenominala de parcare pentru  zona B-4, precum și pentru zonele A-5,B-1,B-7,B-8,</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276496</link>
+    <guid isPermaLink="false">CAS-0276496</guid>
+    <pubDate>Tue, 24 Nov 2026 10:49:44 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Masina de spalat strada a trecut degeaba astazi pentru ca aproape nicio masina nu a eliberat strada.
+
+Tot acest praf o sa vina in apartamentele noastre.
+
+Va rog sa eliberati complet strada in cursul orelor de spalare, asa cum este de un minim bun simt de civilizare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276495</link>
+    <guid isPermaLink="false">CAS-0276495</guid>
+    <pubDate>Tue, 24 Nov 2026 10:48:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276494</link>
     <guid isPermaLink="false">CAS-0276494</guid>
@@ -705,40 +733,6 @@ Vă rog să nu mai închideți sesizarea doar formal și să dispuneți o interv
     <description>Buna dimineața!
 Așa cum am mai sesizat revin la dumneavoastră cu aceeași rugăminte. Dețin locul nominal nr.70 de pe Str Postăvarul nr.17, vis a vis de pizzeria L&apos;incontro. Ieri,în intervalul 6-6:30 dimineața, când voiam să ies din parcare era sa dau peste un biciclist care mergea regulamentar. Si ieșirea mea era regulamentară așa cum se poate observa pe camerele de filmat de pe stradă,dar neavând deloc vizibilitate din cauza celor 3 pubele care se află fix in curbă puse lângă locul meu de parcare era sa dau peste acel biciclist. Rog mutarea lor într-o altă zonă deoarece infrastructura permite acest lucru. Haideți să evităm o tragedie și să mutați acele pubele în alt loc.
 Mulțumesc.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276437</link>
-    <guid isPermaLink="false">CAS-0276437</guid>
-    <pubDate>Tue, 24 Nov 2026 06:03:40 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>deșeuri abandonate pe domeniul public
-
-Răspuns: Trimis raspuns Bună dimineata,
-Sesizarea dumneavoastră a fost transmisă echipelor operaționale din teren, urmând a fi soluționată conform competentelor instituţiei noastre.
-Cu consideratie,
-Directia Generala de Salubritate Sector 3
- </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276436</link>
-    <guid isPermaLink="false">CAS-0276436</guid>
-    <pubDate>Tue, 24 Nov 2026 05:49:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Pe viitor, atașați o fotografie din care să reiasă număru autoturismului și tipul de parcaj ocupat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276435</link>
-    <guid isPermaLink="false">CAS-0276435</guid>
-    <pubDate>Tue, 24 Nov 2026 05:39:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului. A fost identificat conducătorul auto, a fost sancționat contravențional și a eliberat locul de parcare.</description>
   </item>
 </channel>
 </rss>

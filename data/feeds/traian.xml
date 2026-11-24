@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276496</link>
+    <guid isPermaLink="false">CAS-0276496</guid>
+    <pubDate>Tue, 24 Nov 2026 10:49:44 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Masina de spalat strada a trecut degeaba astazi pentru ca aproape nicio masina nu a eliberat strada.
+
+Tot acest praf o sa vina in apartamentele noastre.
+
+Va rog sa eliberati complet strada in cursul orelor de spalare, asa cum este de un minim bun simt de civilizare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276494</link>
     <guid isPermaLink="false">CAS-0276494</guid>
@@ -586,16 +598,6 @@ Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Lipsa fotografie din care sa reiasa tipul parcajului de resedinta si numarul de inmatriculare al autoturismului reclamat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274682</link>
-    <guid isPermaLink="false">CAS-0274682</guid>
-    <pubDate>Mon, 16 Nov 2026 15:50:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarilor am constatat ca autoturismul nu se afla in locatie.</description>
   </item>
 </channel>
 </rss>
