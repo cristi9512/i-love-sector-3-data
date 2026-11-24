@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276434</link>
+    <guid isPermaLink="false">CAS-0276434</guid>
+    <pubDate>Tue, 24 Nov 2026 04:57:27 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ptr ca soferii stiu ca nu patesc nimic se atrag in prostie. Voi face o reclamatie la dl Negoita si ulterior in instanta ca vad ca nu se rezolva nimic. Am nenumamrate sesizari degeaba</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276433</link>
+    <guid isPermaLink="false">CAS-0276433</guid>
+    <pubDate>Tue, 24 Nov 2026 04:53:04 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>Buna ziua , in urma lucrarilor de reabilitare efectuate la blocul nostru , bloc situat la adresa : strada Intrarea Barsei , nr 1a , gradina blocului a ramas o ruina. Copaci verzi care au fost taiati fara aviz , materiale abandonate,vopseluri si ciment amestecate cu pamant. Un mic destru ecologic. Pamantul a fost tasat in imediata proximitate a blocului si efectiv in urma ploilor recente , s- a strans lipita de peretii imobililui ( proaspat reabilitat ) . Se impune saparea solului , un adaos de pamant si cum ne soune si edilul - “plantari de sol”. Inca este anotimpul in care se pot face plantari cu succes. Si munca calificata . Apoi vin sarbatorile si asteptam iarasi pana in aprilie sa intervina  cineva punctual . Multumim anticipat .</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276432</link>
+    <guid isPermaLink="false">CAS-0276432</guid>
+    <pubDate>Tue, 24 Nov 2026 04:49:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276431</link>
     <guid isPermaLink="false">CAS-0276431</guid>
@@ -553,34 +577,6 @@ Multumesc</description>
     <pubDate>Mon, 23 Nov 2026 17:11:32 GMT</pubDate>
     <category>Străzi</category>
     <description>Iluminat stradal nefunctional - se strang drocatii la scara din cauza aceasta.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276374</link>
-    <guid isPermaLink="false">CAS-0276374</guid>
-    <pubDate>Mon, 23 Nov 2026 17:10:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Chiar nu se poate face nimic în privința acestui autoturism? Parchează asa de luni bune si nu pare sa fi fost penalizat vreodată</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276373</link>
-    <guid isPermaLink="false">CAS-0276373</guid>
-    <pubDate>Mon, 23 Nov 2026 17:01:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismului recamat i s-a aplicat înștiințare. O seara bună.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276372</link>
-    <guid isPermaLink="false">CAS-0276372</guid>
-    <pubDate>Mon, 23 Nov 2026 17:01:13 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE.</description>
   </item>
 </channel>
 </rss>
