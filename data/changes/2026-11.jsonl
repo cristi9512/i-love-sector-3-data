@@ -5524,3 +5524,9 @@
 {"at":"2026-11-24T11:00:52.985Z","ticket":"CAS-0276488","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T11:00:52.985Z","ticket":"CAS-0276488","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T11:00:52.985Z","ticket":"CAS-0276488","field":"reply","from":"","to":"Trimis raspuns Petenta a fost contactată telefonic de către reprezentanții instituției, în vederea clarificării aspectelor semnalate. "}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276490","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276490","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276490","field":"reply","from":"","to":"Nespecificat Registratura BUNA ZIUA,\nAM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 13:00, LA FATA LOCULUI CELE SESIZATE  NU SE MAI CONFIRMA.\nVA MULTUMIM!"}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276446","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276446","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T11:15:38.137Z","ticket":"CAS-0276446","field":"reply","from":"","to":"Trimis raspuns Raspuns la test Raspunsul a fost trimis prin email catre cetatean."}

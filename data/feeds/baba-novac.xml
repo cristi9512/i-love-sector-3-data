@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276499</link>
+    <guid isPermaLink="false">CAS-0276499</guid>
+    <pubDate>Tue, 24 Nov 2026 11:08:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276493</link>
     <guid isPermaLink="false">CAS-0276493</guid>
@@ -719,14 +727,6 @@ vă mulțumesc!</description>
     <pubDate>Sun, 22 Nov 2026 07:51:32 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>De cateva zile in toata zona bd Decebal, Pta Alba Iulia si cartierele de case din jurul lor sunt PLINE de saci de gunoi la toate colturile, unele deja vandalizate, arata toata zona ca un ghetou din Africa ! Nu s-a intamplat asa ceva in sectorul 3 de cabd este Negoita primar ! Chiar va bateti joc de noi ? Ne lasati in cocina ? I-am scris si primarilui !</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276035</link>
-    <guid isPermaLink="false">CAS-0276035</guid>
-    <pubDate>Sun, 22 Nov 2026 07:05:00 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Deține autorizație nenominala de parcare pentru  zona B-1, precum și pentru zonele A-5,B-2,B-4,</description>
   </item>
 </channel>
 </rss>
