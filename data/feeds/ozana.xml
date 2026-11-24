@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276462</link>
+    <guid isPermaLink="false">CAS-0276462</guid>
+    <pubDate>Tue, 24 Nov 2026 07:49:39 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276458</link>
     <guid isPermaLink="false">CAS-0276458</guid>
@@ -632,16 +640,6 @@ Răspuns: Auto a parasit locatia,</description>
     <description>Masini parcate pentrotuar. Obtureaza accesul auto si cel pietonal
 
 Răspuns: Locatia a fost eliberata.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275856</link>
-    <guid isPermaLink="false">CAS-0275856</guid>
-    <pubDate>Sat, 21 Nov 2026 06:53:26 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>in parcarea din spatele blocu4ilir n3A si n3b, Theodor Pallady 31. Masina parcsta pe teotuat
-
-Răspuns: Auto a parasit locatia.</description>
   </item>
 </channel>
 </rss>

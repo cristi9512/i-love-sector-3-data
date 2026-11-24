@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T07:45:34.607Z",
-  "lastChange": "2026-11-24T07:45:34.607Z",
+  "lastRun": "2026-11-24T08:00:54.387Z",
+  "lastChange": "2026-11-24T08:00:54.387Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2438,
-    "added": 3,
-    "updated": 0,
+    "fetched": 2516,
+    "added": 2,
+    "updated": 2,
     "removed": 0,
-    "changes": 0
+    "changes": 4
   },
   "totals": {
-    "incidents": 47070,
-    "open": 2195,
+    "incidents": 47072,
+    "open": 2196,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T07:45:34.607Z",
+    "asOf": "2026-11-24T08:00:54.387Z",
     "days": 30,
-    "open": 2195,
+    "open": 2196,
     "total": 210,
     "byCategory": {
       "2": {
@@ -37,7 +37,7 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 53,
+        "open": 54,
         "n": 6
       },
       "4": {
