@@ -5956,3 +5956,9 @@
 {"at":"2026-11-24T16:15:37.987Z","ticket":"CAS-0276515","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T16:15:37.987Z","ticket":"CAS-0276515","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T16:15:37.987Z","ticket":"CAS-0276515","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA NU ESTE INSOTITA DE FOTOGRAFII, NU SE POATE STABILI LOCATIA EXACTA SI PREVEDERILE LEGALE INCALCATE.VA RUGAM REVENITI CU ONOUA SESIZARE !"}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276542","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276542","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276542","field":"reply","from":"","to":"Nespecificat Registratura Nu s a putut da curs sesizarii , intrucand nu ne au fost furnizate fotografii cu auto in cauza."}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-24T16:30:54.156Z","ticket":"CAS-0276548","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 18:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. \nVa multumim. "}
