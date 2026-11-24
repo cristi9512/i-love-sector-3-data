@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276584</link>
+    <guid isPermaLink="false">CAS-0276584</guid>
+    <pubDate>Tue, 24 Nov 2026 18:14:33 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Blocarea trecerii pe trotuar. Si parcare neregulamentara intr-un loc unde este indicator de parcare interzisă</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276575</link>
     <guid isPermaLink="false">CAS-0276575</guid>
@@ -696,14 +704,6 @@ multumesc</description>
     <pubDate>Wed, 18 Nov 2026 16:32:49 GMT</pubDate>
     <category>Terenuri insalubre</category>
     <description>La adresa mentionata in locul in care este pozitionat pin-ul pe harta, in curtea respectiva, sunt depozitate pe pamant mai multe tipuri de deseuri (metal, plastic, lemn, alte materiale)</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275156</link>
-    <guid isPermaLink="false">CAS-0275156</guid>
-    <pubDate>Wed, 18 Nov 2026 14:18:32 GMT</pubDate>
-    <category>Altele</category>
-    <description>Trotuarul de pe Strada Vitejilor este fie intrerupt de diversi stalpi, fie ingustat in special pe partea stanga (venind din Mihai Bravu). Exista in plan refacerea acestui trotuar, asa cum a fost facut pe strazile din jur?</description>
   </item>
 </channel>
 </rss>
