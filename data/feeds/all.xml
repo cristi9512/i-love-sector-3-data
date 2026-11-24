@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276601</link>
+    <guid isPermaLink="false">CAS-0276601</guid>
+    <pubDate>Tue, 24 Nov 2026 19:33:38 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276600</link>
     <guid isPermaLink="false">CAS-0276600</guid>
     <pubDate>Tue, 24 Nov 2026 19:30:40 GMT</pubDate>
@@ -98,12 +106,15 @@ Vă solicit să dispuneți verificarea parcului și remedierea tuturor acestor d
 Vă rog să îmi comunicați măsurile dispuse și termenul estimat pentru rezolvarea problemelor semnalate.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276592</link>
     <guid isPermaLink="false">CAS-0276592</guid>
     <pubDate>Tue, 24 Nov 2026 18:41:38 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dvs a fost preluata si verificata la ora 20:58. Autovehiculul la care faceti referire ocupa locul de parcare indicat motiv pentru care au fost luate masurile legale care se impun conform HCGMB nr 124/2008 cat si ridicarea acestuia. 
+Va multumim. </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -663,14 +674,6 @@ Răspuns: Ajunsi la fata locului auto indicat in sesizare, AG 17 WRY nu se mai a
     <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 23.11.2027 18:00.
 
 Răspuns: Nu s a putut da curs sesizarii , intrucand nu ne au fost furnizate fotografii cu auto in cauza.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276541</link>
-    <guid isPermaLink="false">CAS-0276541</guid>
-    <pubDate>Tue, 24 Nov 2026 15:02:04 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Copac smuls din radacina si se sprijina pe blocul A13,strada C-tin Brancusi nr6</description>
   </item>
 </channel>
 </rss>
