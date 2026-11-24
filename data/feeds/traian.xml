@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276452</link>
+    <guid isPermaLink="false">CAS-0276452</guid>
+    <pubDate>Tue, 24 Nov 2026 07:08:54 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna dimineata
+Autoturismele parcheaza zilnic in zona marcata oprire interzisa si pe trotuar.
+Va multumesc!</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276437</link>
     <guid isPermaLink="false">CAS-0276437</guid>
@@ -590,16 +600,6 @@ Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activi
 Cu deosebită consideratie,
 Direcţia Generală de Salubritate Sector 3
  </description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · Declinat competenţa · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274641</link>
-    <guid isPermaLink="false">CAS-0274641</guid>
-    <pubDate>Mon, 16 Nov 2026 13:08:07 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>O cladire istorica catalogata in zona protejata are lucrare fara nicio autorizatie .Va rog ,luati masurile care se impun .
-
-Răspuns: Declinat competenta Trimis spre competenta solutionare PMB- DGPLC Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>

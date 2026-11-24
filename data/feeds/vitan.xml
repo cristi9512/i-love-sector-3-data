@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276453</link>
+    <guid isPermaLink="false">CAS-0276453</guid>
+    <pubDate>Tue, 24 Nov 2026 07:11:36 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Va rog sa reasfaltati  Intrarea Tarcău și strada Foișorului, de la șoseaua Mihai Bravu până la strada Grădinarilor, întrucât este plină de denivelări, punând în pericol circulația auto și integritatea vehiculelor.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276391</link>
     <guid isPermaLink="false">CAS-0276391</guid>
@@ -684,14 +692,6 @@ Răspuns: auto a parasit locatia </description>
     <pubDate>Wed, 18 Nov 2026 10:52:47 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>blocare acces proprietate din cauza lucrarilor in desfasurare la nivelul trotuarului</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275128</link>
-    <guid isPermaLink="false">CAS-0275128</guid>
-    <pubDate>Wed, 18 Nov 2026 10:51:32 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>containere asezate pe trotuar, va rogam mutati in alt loc pentru a nu mai bloca tranzitul uman pe trotuar</description>
   </item>
 </channel>
 </rss>
