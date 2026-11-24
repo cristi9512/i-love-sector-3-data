@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276546</link>
+    <guid isPermaLink="false">CAS-0276546</guid>
+    <pubDate>Tue, 24 Nov 2026 15:30:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276545</link>
+    <guid isPermaLink="false">CAS-0276545</guid>
+    <pubDate>Tue, 24 Nov 2026 15:27:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276544</link>
+    <guid isPermaLink="false">CAS-0276544</guid>
+    <pubDate>Tue, 24 Nov 2026 15:25:52 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276543</link>
     <guid isPermaLink="false">CAS-0276543</guid>
@@ -592,12 +616,14 @@ Va rog sa eliberati complet strada in cursul orelor de spalare, asa cum este de 
     <description>Odata iluminatul strada repornit a dus la descoperirea ca pe aleea afereanta  blocurileor A13 - C15 iluminatul nu functioneza din cauza lucrarilor efectuate in preajma de catre compania Elsaco la reteaua de termoficare. Linie  electrica este probabil intrerupta la sapaturi. Va rugam sa comunicati companiei Lexten sa remedieze avaria. Multumim</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276491</link>
     <guid isPermaLink="false">CAS-0276491</guid>
     <pubDate>Tue, 24 Nov 2026 10:31:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmita documetatia in vederea luarii masurilor legale.</description>
   </item>
   <item>
     <title>Ordine și liniște publică · Rezolvată Nefavorabil · Balta Albă - Titan</title>
@@ -647,36 +673,6 @@ Răspuns: Trimis raspuns Buna ziua,
 Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.
 Cu stima,
  </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Pallady</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276486</link>
-    <guid isPermaLink="false">CAS-0276486</guid>
-    <pubDate>Tue, 24 Nov 2026 10:03:43 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Drumul este stricat,iar datorită turnări greșite a asfaltului se formează o baltă foarte mare când plouă,pe acolo fiind accesul în bloc unde locuiesc 50 de familii.
-Ne este imposibil de trecut ne murdărim și ne udăm de fiecare dată</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276485</link>
-    <guid isPermaLink="false">CAS-0276485</guid>
-    <pubDate>Tue, 24 Nov 2026 10:01:30 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>persoane consumat alcool in fata scării nr 2 bl L111A str Matei Basarab nr 71
-
-Răspuns: BUNA ZIUA,
-SESIZAREA DUMNEAVOASTRA SE CONFIRMA, PERSOANELE IN CAUZA AU FOST LEGITIMATE SI AU FOST LUATE MASURILE LEGALE CE SE IMPUN. PERSOANELE IN CAUZA AU PARASIT LOCATIA IN PREZENTA NOASTRA.
-VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276484</link>
-    <guid isPermaLink="false">CAS-0276484</guid>
-    <pubDate>Tue, 24 Nov 2026 09:57:41 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Se aruncă gunoaie pe stradă de la șantiere,este foarte inestetic.
-Dorim să fie strânse,lângă sunt un bloc de locatari.</description>
   </item>
 </channel>
 </rss>

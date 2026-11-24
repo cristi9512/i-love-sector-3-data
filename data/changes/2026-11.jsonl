@@ -5934,3 +5934,6 @@
 {"at":"2026-11-24T15:15:40.822Z","ticket":"CAS-0276480","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T15:15:40.822Z","ticket":"CAS-0276480","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T15:15:40.822Z","ticket":"CAS-0276480","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor conform coordontelor GPS, autoturismul nu a fost gasit in locatie."}
+{"at":"2026-11-24T15:30:47.156Z","ticket":"CAS-0276491","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T15:30:47.156Z","ticket":"CAS-0276491","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T15:30:47.156Z","ticket":"CAS-0276491","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul a fost identificat fiind intocmita documetatia in vederea luarii masurilor legale."}

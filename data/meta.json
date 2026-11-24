@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T15:15:40.822Z",
-  "lastChange": "2026-11-24T15:15:40.822Z",
+  "lastRun": "2026-11-24T15:30:47.156Z",
+  "lastChange": "2026-11-24T15:30:47.156Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2264,
+    "fetched": 2450,
     "added": 3,
-    "updated": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 6
+    "changes": 3
   },
   "totals": {
-    "incidents": 47153,
-    "open": 2127,
+    "incidents": 47156,
+    "open": 2129,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T15:15:40.822Z",
+    "asOf": "2026-11-24T15:30:47.156Z",
     "days": 30,
-    "open": 2127,
-    "total": 201,
+    "open": 2129,
+    "total": 202,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 45,
+        "open": 47,
         "n": 7
       },
       "3": {
@@ -108,7 +108,7 @@
       "18": {
         "name": "Mediu/Calitatea Aerului",
         "open": 16,
-        "n": 3
+        "n": 4
       },
       "19": {
         "name": "Ordine și liniște publică",
