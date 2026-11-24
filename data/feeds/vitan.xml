@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276527</link>
+    <guid isPermaLink="false">CAS-0276527</guid>
+    <pubDate>Tue, 24 Nov 2026 13:45:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersecțiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturor autoturismelor.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276467</link>
     <guid isPermaLink="false">CAS-0276467</guid>
@@ -695,16 +703,6 @@ Răspuns: zona sesizata la acesta ora este libera.</description>
     <description>Pe trotuarul din dreptul stației de metrou Mihai Bravu, pe Bld. Mihai Bravu colț cu Peneș Curcanul sunt mereu mașini staționate și mai rău, care circulă pe trotuar, mai ales la orele de vârf, fapt ce pune în pericol siguranța pietonilor.
 
 Răspuns: au fost aplicate trei instiintari informative </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275153</link>
-    <guid isPermaLink="false">CAS-0275153</guid>
-    <pubDate>Wed, 18 Nov 2026 14:13:34 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: CONFORM LOCATIEI INDICATE AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
 </channel>
 </rss>
