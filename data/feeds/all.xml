@@ -6,6 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Ordine și liniște publică · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276490</link>
+    <guid isPermaLink="false">CAS-0276490</guid>
+    <pubDate>Tue, 24 Nov 2026 10:27:13 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>grup de persoane adulte, par fara adapost, folosesc locul de joaca din parcarea aferenta blocurilor S3-S2, de pe Strada Baba Novac 1. 
+fac gălăgie, fac mizerie etc., nu sunt din zona.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276489</link>
+    <guid isPermaLink="false">CAS-0276489</guid>
+    <pubDate>Tue, 24 Nov 2026 10:23:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276488</link>
+    <guid isPermaLink="false">CAS-0276488</guid>
+    <pubDate>Tue, 24 Nov 2026 10:16:24 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Cei de la gaz au schimbat contoarele si au lasat in urma deseurile</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276487</link>
     <guid isPermaLink="false">CAS-0276487</guid>
@@ -709,38 +734,6 @@ Răspuns: CONFORM ADRESEI INDICATE AUTO LA CARE SE FACE REFERIRE NU A FOST DEPIS
 Răspuns: BUNA ZIUA, 
 AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 07:09, SESIZAREA SE CONFIRMA. AUTOTURISMUL IN CAUZA DETINE AUTORIZATIE VALABILA NOMINALA PENTRU LOCUL DE PARCARE NUMARUL 20.
 VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276430</link>
-    <guid isPermaLink="false">CAS-0276430</guid>
-    <pubDate>Tue, 24 Nov 2026 04:31:34 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-4, precum și pentru zonele A-5,B-1,B-7,B-8,
-
-Răspuns: BUNA ZIUA,
-AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 07:00,  CELE SESIZATE SE CONFIRMA. AUTOTURISMUL SESIZAT ESTE PARCAT PE UN LOC NENOMINAT PENTRU CARE DETINE AUTORIZATIE VALABILA.
-VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276429</link>
-    <guid isPermaLink="false">CAS-0276429</guid>
-    <pubDate>Tue, 24 Nov 2026 04:00:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276428</link>
-    <guid isPermaLink="false">CAS-0276428</guid>
-    <pubDate>Tue, 24 Nov 2026 03:22:46 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: PARCAJUL A FOST VERIFICAT LA ORA 05:35, VEHICULUL LA CARE FACETI REFERIRE FIIND GASIT PARCAT PE UN LOC DE PARCARE NOMINAL ,RESPECTIV LOCUL 51  , BATERIA 99 ;POTRIVIT PREVEDERILOR ART.37 ALIN(1) DIN REGULAMENTUL APROBAT PRIN HCLS3 NR.346/2022,UN LOC DE PARCARE NOMINAL POATE FI OCUPAT DE ORICE PERSOANA CARE TRANZITEAZA ZONA CU CONDITIA AFISARII LA LOC VIZIBIL A UNUI NUMAR DE TELEFON PENTRU A PUTEA FI CONTACTAT, IAR IN MAXIM 5 MINUTE DE LA MOMENTUL CONTACTARII DE CATRE TITULARUL LOCULUI DE PARCARE, ESTE OBLIGAT SA ELIBEREZE LOCUL.</description>
   </item>
 </channel>
 </rss>
