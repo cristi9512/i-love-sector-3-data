@@ -5417,3 +5417,6 @@
 {"at":"2026-11-24T02:45:39.469Z","ticket":"CAS-0276269","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T02:45:39.469Z","ticket":"CAS-0276269","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-24T02:45:39.469Z","ticket":"CAS-0276269","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
+{"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"status","from":"O","to":"C"}
+{"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-24T03:00:59.213Z","ticket":"CAS-0276401","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea se confirma / s-au luat masurile legale impuse in speta ."}
