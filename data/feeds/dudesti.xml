@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276537</link>
+    <guid isPermaLink="false">CAS-0276537</guid>
+    <pubDate>Tue, 24 Nov 2026 14:45:24 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare pe loc de parcare alocat prin autorizare.Nu raspunde la telefon.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276526</link>
     <guid isPermaLink="false">CAS-0276526</guid>
@@ -769,16 +777,6 @@ La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra auto
 Multumesc
 
 Răspuns: Trimis raspuns trimis raspuns mail </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275728</link>
-    <guid isPermaLink="false">CAS-0275728</guid>
-    <pubDate>Fri, 20 Nov 2026 15:49:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNA SEARA,PENTRU A PUTEA DA CURS SESIZARII D-VOASTRA IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM</description>
   </item>
 </channel>
 </rss>
