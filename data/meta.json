@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-24T12:45:43.991Z",
-  "lastChange": "2026-11-24T12:45:43.991Z",
+  "lastRun": "2026-11-24T13:00:58.909Z",
+  "lastChange": "2026-11-24T13:00:58.909Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2464,
-    "added": 9,
-    "updated": 26,
+    "fetched": 2610,
+    "added": 1,
+    "updated": 7,
     "removed": 0,
-    "changes": 78
+    "changes": 17
   },
   "totals": {
-    "incidents": 47126,
-    "open": 2112,
+    "incidents": 47127,
+    "open": 2108,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-24T12:45:43.991Z",
+    "asOf": "2026-11-24T13:00:58.909Z",
     "days": 30,
-    "open": 2112,
-    "total": 203,
+    "open": 2108,
+    "total": 199,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 43,
+        "open": 44,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 186,
-        "n": 16
+        "open": 183,
+        "n": 13
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 390,
+        "open": 389,
         "n": 29
       },
       "11": {
@@ -117,8 +117,8 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 24,
-        "n": 2
+        "open": 23,
+        "n": 1
       },
       "21": {
         "name": "Reabilitare blocuri",
