@@ -6581,3 +6581,7 @@
 {"at":"2026-11-25T17:15:37.459Z","ticket":"CAS-0276740","field":"status","from":"O","to":"C"}
 {"at":"2026-11-25T17:15:37.459Z","ticket":"CAS-0276740","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-25T17:15:37.459Z","ticket":"CAS-0276740","field":"reply","from":"","to":"Nespecificat Registratura auto nu a fost depistat in locatie"}
+{"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276775","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"reply","from":"","to":"Nespecificat Registratura auto nu a fost depistat in locatie"}
