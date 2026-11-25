@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276651</link>
+    <guid isPermaLink="false">CAS-0276651</guid>
+    <pubDate>Wed, 25 Nov 2026 06:22:40 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna ziua,
+va rog toaletarea arborelui cazut pe blocul A13, sc 1, pana la etajul 2.
+Suplimentar intreg spatiul verde ce inconjoara acest bloc, pe patrea dreapta,este intr-o stare de degradare continua, daca puteti macar igieniza locul.
+Cu multumiri</description>
+  </item>
+  <item>
     <title>Terenuri insalubre · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276648</link>
     <guid isPermaLink="false">CAS-0276648</guid>
@@ -597,14 +608,6 @@ Multumesc!</description>
     <pubDate>Sun, 22 Nov 2026 14:09:11 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturismul din imagine staționează în curbă.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276121</link>
-    <guid isPermaLink="false">CAS-0276121</guid>
-    <pubDate>Sun, 22 Nov 2026 14:07:41 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturismul din imagine blochează intrarea în parc.</description>
   </item>
 </channel>
 </rss>
