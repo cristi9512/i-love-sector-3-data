@@ -6741,3 +6741,16 @@
 {"at":"2026-11-25T22:30:48.443Z","ticket":"CAS-0276836","field":"status","from":"O","to":"C"}
 {"at":"2026-11-25T22:30:48.443Z","ticket":"CAS-0276836","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-25T22:30:48.443Z","ticket":"CAS-0276836","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor locul de parcare nenominal nu este vizibil trasat si marcat la sol. S-a transmis serviciului competent in vederea trasarii si marcarii acestuia ,pentru a putea lua masurile legale."}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276826","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276826","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276826","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale."}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276840","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276840","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276840","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra.La momentul verificarii ,nu au fost gasite persoane in locatie . Va rugam cand semnalati astfel de manifestari , acestea necesita urgenta maxima, folositi nr de urgenta 112."}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276839","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276839","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276839","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. La momentul verificarii ,nu au fost gasite persoane in locatia indcata."}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276860","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276801","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276801","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T22:45:31.025Z","ticket":"CAS-0276801","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul in cauza a fost identificat in locatie fiind intocmite documentele in vederea luarii masurilor legale."}
