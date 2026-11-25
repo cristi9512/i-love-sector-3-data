@@ -6,6 +6,55 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276775</link>
+    <guid isPermaLink="false">CAS-0276775</guid>
+    <pubDate>Wed, 25 Nov 2026 17:14:32 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276774</link>
+    <guid isPermaLink="false">CAS-0276774</guid>
+    <pubDate>Wed, 25 Nov 2026 17:13:37 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276773</link>
+    <guid isPermaLink="false">CAS-0276773</guid>
+    <pubDate>Wed, 25 Nov 2026 17:12:43 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Masina abandonata de mai bine de 6 luni
+Ammmai facut aceasta sesizare</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276772</link>
+    <guid isPermaLink="false">CAS-0276772</guid>
+    <pubDate>Wed, 25 Nov 2026 17:11:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276771</link>
+    <guid isPermaLink="false">CAS-0276771</guid>
+    <pubDate>Wed, 25 Nov 2026 17:10:37 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276770</link>
+    <guid isPermaLink="false">CAS-0276770</guid>
+    <pubDate>Wed, 25 Nov 2026 17:02:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>staționare pe zebra . loc nepermis</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276769</link>
     <guid isPermaLink="false">CAS-0276769</guid>
@@ -82,12 +131,14 @@ Multumesc frumos!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276760</link>
     <guid isPermaLink="false">CAS-0276760</guid>
     <pubDate>Wed, 25 Nov 2026 16:34:32 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 4</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 4
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost identificat conducătorul auto, au fost luate măsurile ce se impun în astfel de cazuri, iar locul de parcare  fost eliberat.</description>
   </item>
   <item>
     <title>Străzi · În lucru · Vitan</title>
@@ -210,12 +261,14 @@ Multumesc frumos!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Vitan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276744</link>
     <guid isPermaLink="false">CAS-0276744</guid>
     <pubDate>Wed, 25 Nov 2026 16:21:52 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: auto nu a fost depistat in locatie</description>
   </item>
   <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
@@ -243,12 +296,14 @@ Va rog sa realizati trotuare de mers pe langa bloc, fiind periculos pentru pieto
     <description>Masina parcata pe trotuar, blocheaza circulatia pietonilor. Pe Intrarea Ptinoarului 7, in fata blocului PM50, scara A</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276740</link>
     <guid isPermaLink="false">CAS-0276740</guid>
     <pubDate>Wed, 25 Nov 2026 16:05:54 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: auto nu a fost depistat in locatie</description>
   </item>
   <item>
     <title>Străzi · În lucru · Vitan</title>
@@ -457,65 +512,6 @@ masina este parcata aici in fiecare seara</description>
     <pubDate>Wed, 25 Nov 2026 12:50:06 GMT</pubDate>
     <category>Străzi</category>
     <description>mașini care blochează trotuarul</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276715</link>
-    <guid isPermaLink="false">CAS-0276715</guid>
-    <pubDate>Wed, 25 Nov 2026 12:42:27 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua, se pot monta camere de luat vederi pe promenada pietonala de pe Str. Drumul Lunca Cetatii , zona care incepe de la Str. Malva  pana in capat la intersectia cu Bd.Nicolae Grigorescu? Am observat constant, diversi indivizi care arunca saci de gunoaie pe sina de tren dezafectata, sau alte obiecte dubioase impachetate in saci.. ori le ingroapa pe langa sina de tren. Poate in felul acesta se descurajeaza astfel de fapte.Multumesc, astept raspuns</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276714</link>
-    <guid isPermaLink="false">CAS-0276714</guid>
-    <pubDate>Wed, 25 Nov 2026 12:39:08 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Am mai facut o sesizare pentru acelasi autovehicul, care sta mereu acolo. Sesizarea precedenta ati inchis-o ca favorabil afirmand ca masina a fost indepartata. Sper ca pueti mai mult de atat. se vede in poza cum masina care trece este obligata sa intte in intersectie pe contrases, direct pe trecerea de pietoni.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276713</link>
-    <guid isPermaLink="false">CAS-0276713</guid>
-    <pubDate>Wed, 25 Nov 2026 12:34:38 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua, 
-
-Va mulțumesc pentru răspunsul transmis cu privire la solicitarea mea înregistrată sub nr.408281/ 29.10.2026.
-Doresc să vă aduc la cunoștință faptul ca,în urma verificării la fata locului,  lucrările de toaletarea nu au fost efectuate la adresa din Strada Jean Steriadi Nr.40 Bl.M11 Loc de parcare 40.Arborele se afla în aceeași stare.
-Va rog dispuneți reverificarea situație pe teren și efectuarea efectivă a lucrări de toaletarea solicitate.
-
-Va rog finalizarea reală a lucrării.
-
-Mulțumesc anticipat!</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276712</link>
-    <guid isPermaLink="false">CAS-0276712</guid>
-    <pubDate>Wed, 25 Nov 2026 12:30:34 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Scarile de acces din complexul Evocasa Armonia sunt construite ilegal intrand pe domeniul public si blocand aproape tot trotuarul din fata complexului. Rugam dispunerea demolarii acestora si reconstruirii in interiorul complexului</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276711</link>
-    <guid isPermaLink="false">CAS-0276711</guid>
-    <pubDate>Wed, 25 Nov 2026 12:21:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>6 masini parcate pe trotuar la intersectia str fizicienilor cu Blvd energeticienilor</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276710</link>
-    <guid isPermaLink="false">CAS-0276710</guid>
-    <pubDate>Wed, 25 Nov 2026 12:17:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>buna ziua,
-
-rog eliberare strada blocata. nu au loc sa treaca nici autoturismele, dar ce sa mai zic de salvari, masina de gunoi etc. locurile de parcare din stanga nu pot fi folosite deoarece sunt blocate de masinile stationate ilegal pe partea stanga. rugam rezolvare, punere marcaje cu stationarea interzisa, desenare pe asfalt etc.
-multumesc</description>
   </item>
 </channel>
 </rss>

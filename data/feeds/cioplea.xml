@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Mașini abandonate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276773</link>
+    <guid isPermaLink="false">CAS-0276773</guid>
+    <pubDate>Wed, 25 Nov 2026 17:12:43 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Masina abandonata de mai bine de 6 luni
+Ammmai facut aceasta sesizare</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276772</link>
+    <guid isPermaLink="false">CAS-0276772</guid>
+    <pubDate>Wed, 25 Nov 2026 17:11:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276767</link>
     <guid isPermaLink="false">CAS-0276767</guid>
@@ -561,51 +578,6 @@ Răspuns: -  la aresa indicata in sesizare nu a fost igasit auto mentionat in se
     <pubDate>Sun, 22 Nov 2026 17:04:28 GMT</pubDate>
     <category>Altele</category>
     <description>Iluminat stradal nefunctional camil ressu 39</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276155</link>
-    <guid isPermaLink="false">CAS-0276155</guid>
-    <pubDate>Sun, 22 Nov 2026 16:38:16 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Către: Primăria Sectorului 3 al Municipiului București / Direcția Generală de Salubritate Sector 3
-
-Subiect: Sesizare privind neefectuarea serviciului de curățenie a carosabilului, trotuarelor și locurilor de parcare
-
-Subsemnatul/Subsemnata, Giurgiu Lorena locatar(ă) al/a străzii Camil Ressu nr. 37 bloc Z4 Sc 1,Sector 3, București, vă adresez prezenta sesizare cu privire la neefectuarea, în ultimele două luni, a serviciului de curățenie programat pe strada noastră.
-
-În mod obișnuit, în fiecare a treia zi de marți a lunii, echipele serviciului de salubritate se deplasează pe strada noastră pentru efectuarea operațiunilor de curățenie a carosabilului, trotuarelor și a locurilor de parcare. În aceste zile, locatarii sunt nevoiți să își elibereze locurile de parcare pentru a permite desfășurarea corespunzătoare a activității de curățenie.
-
-Cu toate acestea, în ultimele două luni, echipele de salubritate nu au mai efectuat curățenia corespunzătoare a carosabilului și a locurilor de parcare. În prezent, pe stradă și în special în zona carosabilului, s-au acumulat cantități foarte mari de frunze uscate și alte resturi, iar situația s-a agravat în urma ploilor recente.
-
-Frunzele umede și resturile vegetale s-au acumulat pe carosabil și în zona parcărilor, creând un aspect necorespunzător și existând inclusiv riscul ca acestea să blocheze gurile de scurgere a apei pluviale. În plus, condițiile actuale fac ca strada să fie într-o stare evident necorespunzătoare din punct de vedere al curățeniei.
-
-Considerăm că este cu atât mai nemulțumitoare această situație cu cât locatarii respectă programul comunicat și își eliberează în mod repetat autoturismele din locurile de parcare pentru a permite efectuarea operațiunilor de curățenie, însă serviciul nu mai este realizat efectiv.
-
-Prin urmare, vă solicităm:
-
-1. Verificarea situației privind neefectuarea serviciului de curățenie în ultimele două luni pe strada [denumirea străzii];
-2. Efectuarea, în cel mai scurt timp, a operațiunilor de curățare a carosabilului, trotuarelor și locurilor de parcare, inclusiv îndepărtarea frunzelor și a resturilor vegetale acumulate;
-3. Verificarea și curățarea, dacă este cazul, a gurilor de scurgere a apei pluviale, având în vedere cantitatea mare de frunze acumulate;
-4. Comunicarea motivului pentru care operațiunile de curățenie nu au fost efectuate în ultimele două luni, deși acestea se desfășurau în mod obișnuit conform programului;
-5. Comunicarea programului de curățenie aferent străzii noastre și luarea măsurilor necesare pentru respectarea acestuia pe viitor.
-
-Vă rugăm să dispuneți măsurile necesare pentru remedierea cât mai urgentă a situației și să ne comunicați în scris măsurile întreprinse în urma prezentei sesizări.
-
-Vă mulțumim și așteptăm soluționarea cu celeritate a acestei probleme.
-Atasez si poze cu frunzele de pe strada.
-Lorena Giurgiu
-22.11.2026</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276150</link>
-    <guid isPermaLink="false">CAS-0276150</guid>
-    <pubDate>Sun, 22 Nov 2026 16:07:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: -  adresa incompleta / lipsa numar cadastral / imposibilitate luare masuri legale .</description>
   </item>
 </channel>
 </rss>
