@@ -6220,3 +6220,6 @@
 {"at":"2026-11-24T23:45:47.768Z","ticket":"CAS-0276410","field":"status","from":"O","to":"C"}
 {"at":"2026-11-24T23:45:47.768Z","ticket":"CAS-0276410","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-24T23:45:47.768Z","ticket":"CAS-0276410","field":"reply","from":"","to":"Nespecificat Registratura - auto nu a fost depistata in locatia indicata ."}
+{"at":"2026-11-25T00:00:57.213Z","ticket":"CAS-0276605","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T00:00:57.213Z","ticket":"CAS-0276605","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T00:00:57.213Z","ticket":"CAS-0276605","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor cele sesizate de dumneavoastra se confirma. Fapt pentru care s-a dispus ridicarea autovehiculului reclamat"}
