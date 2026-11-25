@@ -6,7 +6,79 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Dristor</title>
+    <title>Altele · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276765</link>
+    <guid isPermaLink="false">CAS-0276765</guid>
+    <pubDate>Wed, 25 Nov 2026 16:44:53 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna seara, Imi puteti spune, va rog, in care luna se va face curat pe strada, conform panoului? De cand a fost instalat, probabil cu 1 an in urma, nu s-a facut curatenie in nicio zi de marti. Marturie sunt masinile abandonate de luni de zile pe care nu le-a deranjat nimeni pentru curatenie. Multumesc!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276764</link>
+    <guid isPermaLink="false">CAS-0276764</guid>
+    <pubDate>Wed, 25 Nov 2026 16:37:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 25.11.2026 19:31.  Deține autorizație nominala de parcare pentru  locul 7</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276763</link>
+    <guid isPermaLink="false">CAS-0276763</guid>
+    <pubDate>Wed, 25 Nov 2026 16:37:01 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Stalpul sta sa cada</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276762</link>
+    <guid isPermaLink="false">CAS-0276762</guid>
+    <pubDate>Wed, 25 Nov 2026 16:36:21 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276761</link>
+    <guid isPermaLink="false">CAS-0276761</guid>
+    <pubDate>Wed, 25 Nov 2026 16:35:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276760</link>
+    <guid isPermaLink="false">CAS-0276760</guid>
+    <pubDate>Wed, 25 Nov 2026 16:34:32 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 4</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276759</link>
+    <guid isPermaLink="false">CAS-0276759</guid>
+    <pubDate>Wed, 25 Nov 2026 16:34:08 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul public nu merge, din nou. Este incredibil cum oamenii trebuie să folosească telefoanele pentru a putea vedea pe ce calcă. Există sesizări de săptămâni, poate chiar luni de zile și nu faceți nimic.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276758</link>
+    <guid isPermaLink="false">CAS-0276758</guid>
+    <pubDate>Wed, 25 Nov 2026 16:32:59 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>calea dusesti 136 138, gunoi aruncat pe domeniul public</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276757</link>
+    <guid isPermaLink="false">CAS-0276757</guid>
+    <pubDate>Wed, 25 Nov 2026 16:32:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto parcat pe zona hasurata/blocheaza coborarea de pe trotuar</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276756</link>
     <guid isPermaLink="false">CAS-0276756</guid>
     <pubDate>Wed, 25 Nov 2026 16:30:28 GMT</pubDate>
@@ -14,7 +86,7 @@
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 11</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276755</link>
     <guid isPermaLink="false">CAS-0276755</guid>
     <pubDate>Wed, 25 Nov 2026 16:29:17 GMT</pubDate>
@@ -461,83 +533,6 @@ Solicit urgentarea tuturor demersurilor necesare și comunicarea în scris a mă
     <pubDate>Wed, 25 Nov 2026 11:55:31 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>24/7 mașini parcate neregulamentar, ajutor, va rugam</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276705</link>
-    <guid isPermaLink="false">CAS-0276705</guid>
-    <pubDate>Wed, 25 Nov 2026 11:42:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masina parcata pe trotuar pe str drumul murgului la intersectia cu Blvd camil ressu</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276704</link>
-    <guid isPermaLink="false">CAS-0276704</guid>
-    <pubDate>Wed, 25 Nov 2026 11:35:44 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Pe strada schitului la intersectia cu aleea Ramnicu Sarat, drumul este decopertat de vreo 3-4 luni. Daca se poate asfalta. Plus un semn de parcarea interzisa pe banda dreapta(tot acolo unde trebuie asfaltat) directia strada Schitului- Bulevardul Ramnicu Sarat. La acea intersectie mereu sunt masine parcate neregulamentar si ramane doar o singura banda pentru ambele sensuri. Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276703</link>
-    <guid isPermaLink="false">CAS-0276703</guid>
-    <pubDate>Wed, 25 Nov 2026 11:33:51 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>B116Var,a staționat neregulamentar pe un loc nenominal ,fără să achite taxa,vă rog să luați măsurile legale .
-Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276702</link>
-    <guid isPermaLink="false">CAS-0276702</guid>
-    <pubDate>Wed, 25 Nov 2026 10:56:56 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Locatia: Strada Campia Libertarii nr 45, zona locurilor de parcare numerotate 10-41.
-​Data si intervalul programat pentru salubrizare: 25.11.2026, interval orar 8:00-10:00.
- 
-​Desi locurile de parcare au fost eliberate de autovehicule in intervalul stabilit pentru a permite interventia echipelor de salubrizare, pe carosabil si langa bordura au ramas depozite consistente de frunze umede, noroi si resturi vegetale necuratate.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276701</link>
-    <guid isPermaLink="false">CAS-0276701</guid>
-    <pubDate>Wed, 25 Nov 2026 10:53:39 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua, 
-Va rog sa ma ajutati cu rificarea sacilor de moloz si a cauciucurilor depozitate in incinta condominiului din Intrarea Monolitului nr.16. Va aduc la cunostinta ca am facut initial sesizare la politia locala garda de mediu pentru identificarea cetatenilor care au aruncat efectiv acei saci la noi in curte si mi-a fost dat raspunsul cum ca nu ii pot identifica ca nu au nr de inmatriculare la atelajul acela electric. Va rog sa ma ajutati cu ridicarea acelor saci, sunt acolo de mai bine de 3 luni de zile. Rog raspuns. Multumesc, Presedinte asociatie Vitan Reside</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276700</link>
-    <guid isPermaLink="false">CAS-0276700</guid>
-    <pubDate>Wed, 25 Nov 2026 10:49:26 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 128 YLJ în dreptul indicatorului de Oprire interzisă pe bd.Unirii nr.35-bloc A3-Tribunalul București. Au fost mai multe sesizări în acest sens.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276699</link>
-    <guid isPermaLink="false">CAS-0276699</guid>
-    <pubDate>Wed, 25 Nov 2026 10:37:13 GMT</pubDate>
-    <category>Altele</category>
-    <description>proprietarul autorizație de parcare pentru locul cu numărul 4 a montat un panou prin care anunță că locul este Rezervat</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276698</link>
-    <guid isPermaLink="false">CAS-0276698</guid>
-    <pubDate>Wed, 25 Nov 2026 10:35:36 GMT</pubDate>
-    <category>Altele</category>
-    <description>proprietarul autorizației pentru locul de parcare cu numărul 2 a montat un panou prin care anunță că locul este Rezervat</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276697</link>
-    <guid isPermaLink="false">CAS-0276697</guid>
-    <pubDate>Wed, 25 Nov 2026 10:30:35 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>calea dudesti 140-146 masini parcate pe trotuar</description>
   </item>
 </channel>
 </rss>

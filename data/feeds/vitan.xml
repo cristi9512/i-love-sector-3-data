@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276759</link>
+    <guid isPermaLink="false">CAS-0276759</guid>
+    <pubDate>Wed, 25 Nov 2026 16:34:08 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul public nu merge, din nou. Este incredibil cum oamenii trebuie să folosească telefoanele pentru a putea vedea pe ce calcă. Există sesizări de săptămâni, poate chiar luni de zile și nu faceți nimic.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276744</link>
     <guid isPermaLink="false">CAS-0276744</guid>
@@ -677,16 +685,6 @@ Răspuns: a fost aplicata instiinare informativa </description>
     <pubDate>Thu, 19 Nov 2026 16:11:04 GMT</pubDate>
     <category>Străzi</category>
     <description>Iluminat nefuncțional</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275380</link>
-    <guid isPermaLink="false">CAS-0275380</guid>
-    <pubDate>Thu, 19 Nov 2026 12:00:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Este un tip cu platforma de tractări non stop care mereu parchează aici și platforma fiind atât de lungă blochează cam 70% din trotuarul nou pavat. Mai mult decât atât, are muchii ascuțite pe spate, într-o noapte când nu vedeam bine m am zgâriat puțin la mana de ea. Va rog sa luați masuri pt a îndepărta riscul de pe trotuar..
-
-Răspuns: a fost fost demarata procedura de identificare si sanctionare a cond. auto .</description>
   </item>
 </channel>
 </rss>
