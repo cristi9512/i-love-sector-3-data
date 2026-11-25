@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276837</link>
+    <guid isPermaLink="false">CAS-0276837</guid>
+    <pubDate>Wed, 25 Nov 2026 20:15:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>duba parcată pe trotuar la fostul sediu din containere al poliției, unde era bariera</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276834</link>
     <guid isPermaLink="false">CAS-0276834</guid>
@@ -843,16 +851,6 @@ VA MULTUMIM!</description>
 Răspuns: BUNA ZIUA,
 AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 07:00,  CELE SESIZATE SE CONFIRMA. AUTOTURISMUL SESIZAT ESTE PARCAT PE UN LOC NENOMINAT PENTRU CARE DETINE AUTORIZATIE VALABILA.
 VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276401</link>
-    <guid isPermaLink="false">CAS-0276401</guid>
-    <pubDate>Mon, 23 Nov 2026 19:39:03 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - sesizarea se confirma / s-au luat masurile legale impuse in speta .</description>
   </item>
 </channel>
 </rss>

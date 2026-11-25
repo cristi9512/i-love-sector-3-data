@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276841</link>
+    <guid isPermaLink="false">CAS-0276841</guid>
+    <pubDate>Wed, 25 Nov 2026 20:29:56 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Audi A3 negru, nr. Inmatriculare IF 17 ZSD parcat in fata scarii, pe strada, ziua si noaptea, ingreunand livrarea de marfa dimineata si circulatia pe strada.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276835</link>
     <guid isPermaLink="false">CAS-0276835</guid>
@@ -30,12 +38,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276818</link>
     <guid isPermaLink="false">CAS-0276818</guid>
     <pubDate>Wed, 25 Nov 2026 19:18:58 GMT</pubDate>
     <category>Ordine și liniște publică</category>
-    <description>muzica tare, petrecere in parcare. b-130-nut si vl-32-cng. Langa locul de parcare 24a/b.</description>
+    <description>muzica tare, petrecere in parcare. b-130-nut si vl-32-cng. Langa locul de parcare 24a/b.
+
+Răspuns: Am preluat si verificat sesizarea dumneavoastra la ora 22:20 . La aceasta cota aspectele reclamate nu se confirma. In locatie nu se aflau persoane care sa faca obiectul celor reclamate. Pe viitor va indrumam sa efectuate sesizare VOICEMAIL pentru astfel de situatii pentru ca echipajul sa se deplaseze cu prioritate. </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
@@ -629,21 +639,6 @@ Vă mulțumesc și aștept răspunsul dumneavoastră!</description>
     <pubDate>Mon, 23 Nov 2026 07:46:03 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturismul blocheaza trotuarul, are loc pentru parcare mai in fata astfel incat sa nu blocheze trotuarul</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276217</link>
-    <guid isPermaLink="false">CAS-0276217</guid>
-    <pubDate>Sun, 22 Nov 2026 21:20:42 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Persoana fara adapost care vine in mod constant si isi vinde/depoziteaza produsele din imaginea atasata.
-Nu locuieste in zona.
-Locatie: Aleea losif Hodos, colt cu
-Bulevardul 1 Decembrie 1918.
-Am fost notificata anterior ca zona este sub supraveghere, insa si pe 21.11.2026, respectiv 22.11.2026 (ieri si astazi) era tot acolo. 
-Va rugam insistent, sa luati masurile legale pentru eliberarea bancilor, intrucat nicio masura de pana acum nu a functionat si nu dorim sa transformam locul in baza pentru persoanele fara adapost.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, PERSOANA FARA ADAPOST NU SE AFLA LA FATA LOCULUI IN MOMENTUL CONTROLULUI , AU FOST EFECTUATE FOTOGRAFII SI AM SOLICITAT OPERATORUL DE SALUBRITATE IN VEDEREA EVACUARII DESEURILOR PRECUM SI IGIENIZAREA ZONEI. VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>
