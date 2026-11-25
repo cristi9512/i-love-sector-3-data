@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T06:00:57.343Z",
-  "lastChange": "2026-11-25T06:00:57.343Z",
+  "lastRun": "2026-11-25T06:15:32.754Z",
+  "lastChange": "2026-11-25T06:15:32.754Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2519,
-    "added": 3,
-    "updated": 1,
+    "fetched": 2731,
+    "added": 8,
+    "updated": 4,
     "removed": 0,
-    "changes": 1
+    "changes": 10
   },
   "totals": {
-    "incidents": 47250,
-    "open": 2126,
+    "incidents": 47258,
+    "open": 2131,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T06:00:57.343Z",
+    "asOf": "2026-11-25T06:15:32.754Z",
     "days": 30,
-    "open": 2126,
+    "open": 2131,
     "total": 210,
     "byCategory": {
       "2": {
@@ -42,12 +42,12 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 184,
+        "open": 185,
         "n": 15
       },
       "5": {
         "name": "Taxe şi impozite",
-        "open": 119,
+        "open": 120,
         "n": 93
       },
       "6": {
@@ -72,7 +72,7 @@
       },
       "11": {
         "name": "Parcuri",
-        "open": 54,
+        "open": 53,
         "n": 6
       },
       "12": {
@@ -112,12 +112,12 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 12,
         "n": 4
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 23,
+        "open": 24,
         "n": 1
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 628,
+        "open": 630,
         "n": 2
       },
       "32": {
