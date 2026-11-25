@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276729</link>
+    <guid isPermaLink="false">CAS-0276729</guid>
+    <pubDate>Wed, 25 Nov 2026 14:41:33 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 799 CJO în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276728</link>
+    <guid isPermaLink="false">CAS-0276728</guid>
+    <pubDate>Wed, 25 Nov 2026 14:40:22 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B  033199 blocând accesul pietonilor pe trotuar în special cei cu cărucioare vis-a-vis de Comandamentul de pompieri Vitan str.Breaza.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276727</link>
     <guid isPermaLink="false">CAS-0276727</guid>
@@ -544,26 +560,6 @@ Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276667</link>
-    <guid isPermaLink="false">CAS-0276667</guid>
-    <pubDate>Wed, 25 Nov 2026 08:03:14 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN . </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276666</link>
-    <guid isPermaLink="false">CAS-0276666</guid>
-    <pubDate>Wed, 25 Nov 2026 07:56:07 GMT</pubDate>
-    <category>Străzi</category>
-    <description>S au început niște lucrări de canalizare pe Aleea Mizil și Lunca Marcusului iar noi cei din Lunca Marcusului 37, 37A și blocul de lângă noi suntem in imposibilitatea de a ieși sau intra cu mașinile.
-O bucată este blocată de excavator și bucata din spate, care dă în Detașamentul de Pompieri, are semn interzis de intrare/ ieșire.
-Este inuman să se apuce de niște lucrări fără să se gândească la permisiunile normale de plecat/ ajuns acasă.</description>
   </item>
 </channel>
 </rss>
