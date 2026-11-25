@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T11:30:47.530Z",
-  "lastChange": "2026-11-25T11:30:47.530Z",
+  "lastRun": "2026-11-25T11:45:33.785Z",
+  "lastChange": "2026-11-25T11:45:33.785Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2784,
-    "added": 0,
-    "updated": 1,
+    "fetched": 2778,
+    "added": 3,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 47310,
-    "open": 2164,
+    "incidents": 47313,
+    "open": 2167,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T11:30:47.530Z",
+    "asOf": "2026-11-25T11:45:33.785Z",
     "days": 30,
-    "open": 2164,
+    "open": 2167,
     "total": 212,
     "byCategory": {
       "2": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 391,
+        "open": 392,
         "n": 32
       },
       "11": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 643,
+        "open": 645,
         "n": 2
       },
       "32": {
