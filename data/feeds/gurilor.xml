@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Mediu/Calitatea Aerului · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276794</link>
+    <guid isPermaLink="false">CAS-0276794</guid>
+    <pubDate>Wed, 25 Nov 2026 18:01:28 GMT</pubDate>
+    <category>Mediu/Calitatea Aerului</category>
+    <description>Bună seara,
+
+Miroase foarte puternic în zona Pallady Gura Arieșului și cred că vine de la o poluare a unei companii din zonă.
+Nu este prima dată, se întâmplă cel puțin o dată pe săptămână, în special seara.
+Este un miros înțepător care deranjează ochii și nasul.
+
+Rog verificare zona.
+
+Mulțumesc !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276780</link>
     <guid isPermaLink="false">CAS-0276780</guid>
@@ -680,14 +696,6 @@ Direcţia Generală de Salubritate Sector 3
     <description>nu se pot ridica deșeurile si deșeurile voluminoase. parcare pe domeniul public.
 
 Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274481</link>
-    <guid isPermaLink="false">CAS-0274481</guid>
-    <pubDate>Sun, 15 Nov 2026 20:33:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini parcate pe trotuar</description>
   </item>
 </channel>
 </rss>

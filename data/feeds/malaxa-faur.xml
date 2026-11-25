@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276800</link>
+    <guid isPermaLink="false">CAS-0276800</guid>
+    <pubDate>Wed, 25 Nov 2026 18:14:35 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276754</link>
     <guid isPermaLink="false">CAS-0276754</guid>
@@ -628,22 +636,6 @@ Direcţia Generală de Salubritate Sector 3
     <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. La momentul verificarii auto reclamat nu se mai afla in locatie </description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274947</link>
-    <guid isPermaLink="false">CAS-0274947</guid>
-    <pubDate>Tue, 17 Nov 2026 17:03:43 GMT</pubDate>
-    <category>Altele</category>
-    <description>Solicitare montare limitatoare de viteză – Strada Plesesti
-
-
-Bună ziua,
-Subsemnata Emine Iusein, domiciliată în București, Sector 3, Str. Plesesti, nr. 3, solicit analizarea și avizarea montării a  două limitatoare de viteză (bumpere) omologate pe Strada Plesesti.
-
-Motivul solicitării îl reprezintă creșterea bruscă a traficului și circulația autoturismelor cu viteză excesivă pe această arteră secundară. Din cauza lucrărilor la șinele de tramvai de pe bulevardul 1 Decembrie 1918, foarte mulți șoferi folosesc Strada Pleșești ca rută ocolitoare și circulă cu viteză foarte mare, punând în pericol siguranța pietonilor, în special a copiilor și a persoanelor în vârstă.
-
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>
