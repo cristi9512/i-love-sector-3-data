@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276634</link>
+    <guid isPermaLink="false">CAS-0276634</guid>
+    <pubDate>Wed, 25 Nov 2026 05:12:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Mașini abandonate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276616</link>
     <guid isPermaLink="false">CAS-0276616</guid>
@@ -696,20 +704,6 @@ Răspuns: BUNA ZIUA,PT. A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT VA RUGAM 
 
 Răspuns: BUNĂ ZIUA!
 LIPSĂ FOTOGRAFIE PENTRU A PRELUA RECLAMATIA DUMNEAVOASTRĂ</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275294</link>
-    <guid isPermaLink="false">CAS-0275294</guid>
-    <pubDate>Thu, 19 Nov 2026 06:48:38 GMT</pubDate>
-    <category>Străzi</category>
-    <description>buna ziua,
-
-din asfaltare strada are o zona mai adanca si la fiecare ploaie se umple cu apa, apa care stă cateva zile. problema este ca majoritatea masinilor trec in viteza si stropesc pietonii de pe trotuar.
-
-se poate reasfalta si aduce la o planeitate corecta zona astfel incat sa nu se mai stranga apa?
-
-multumesc</description>
   </item>
 </channel>
 </rss>

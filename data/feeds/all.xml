@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276634</link>
+    <guid isPermaLink="false">CAS-0276634</guid>
+    <pubDate>Wed, 25 Nov 2026 05:12:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276633</link>
+    <guid isPermaLink="false">CAS-0276633</guid>
+    <pubDate>Wed, 25 Nov 2026 05:10:10 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in interiorul intersectiei</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276632</link>
+    <guid isPermaLink="false">CAS-0276632</guid>
+    <pubDate>Wed, 25 Nov 2026 05:09:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in zona de stationare interzisa</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276631</link>
     <guid isPermaLink="false">CAS-0276631</guid>
@@ -649,39 +673,6 @@ Răspuns: Au fost dispuse masurile legale . </description>
     <description>Autovehiculul cu numarul V........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN LOCATIE, AU FOST APLICATE MASURILE LEGALE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276574</link>
-    <guid isPermaLink="false">CAS-0276574</guid>
-    <pubDate>Tue, 24 Nov 2026 17:05:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,
-
-Răspuns: Sesizarea dvs a fost preluata si verficata la ora 19:37. Autovehiculul la care faceti referire detine autorizatie pentru locurile nenominale din zonele C-6 și zonele vecine B-15, C-5, C-7, D-3. 
-Va multumim. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276573</link>
-    <guid isPermaLink="false">CAS-0276573</guid>
-    <pubDate>Tue, 24 Nov 2026 17:02:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-7, precum și pentru zonele B-12,B-13,B-15,C-4,C-6,
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 19:31. Autovehiculul la care faceti referire detine autorizatie de parcare valabila pentru zona in care este parcat, respectiv zona C-7. 
-Va multumim. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276572</link>
-    <guid isPermaLink="false">CAS-0276572</guid>
-    <pubDate>Tue, 24 Nov 2026 17:02:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 51
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 20:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. 
-Va multumim. </description>
   </item>
 </channel>
 </rss>
