@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T18:15:34.603Z",
-  "lastChange": "2026-11-25T18:15:34.603Z",
+  "lastRun": "2026-11-25T18:30:47.468Z",
+  "lastChange": "2026-11-25T18:30:47.468Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2881,
-    "added": 7,
-    "updated": 4,
+    "fetched": 2743,
+    "added": 6,
+    "updated": 6,
     "removed": 0,
-    "changes": 12
+    "changes": 16
   },
   "totals": {
-    "incidents": 47408,
-    "open": 2163,
+    "incidents": 47414,
+    "open": 2164,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T18:15:34.603Z",
+    "asOf": "2026-11-25T18:30:47.468Z",
     "days": 30,
-    "open": 2163,
-    "total": 213,
+    "open": 2164,
+    "total": 214,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 52,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -48,7 +48,7 @@
       "5": {
         "name": "Taxe şi impozite",
         "open": 121,
-        "n": 94
+        "n": 95
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
