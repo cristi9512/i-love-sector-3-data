@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T09:00:58.228Z",
-  "lastChange": "2026-11-25T09:00:58.228Z",
+  "lastRun": "2026-11-25T09:15:36.758Z",
+  "lastChange": "2026-11-25T09:15:36.758Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2376,
-    "added": 10,
+    "fetched": 2282,
+    "added": 4,
     "updated": 4,
     "removed": 0,
-    "changes": 12
+    "changes": 8
   },
   "totals": {
-    "incidents": 47293,
-    "open": 2151,
+    "incidents": 47297,
+    "open": 2153,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,19 +25,19 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T09:00:58.228Z",
+    "asOf": "2026-11-25T09:15:36.758Z",
     "days": 30,
-    "open": 2151,
+    "open": 2153,
     "total": 212,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 38,
+        "open": 39,
         "n": 7
       },
       "3": {
         "name": "Spații verzi",
-        "open": 55,
+        "open": 56,
         "n": 10
       },
       "4": {
