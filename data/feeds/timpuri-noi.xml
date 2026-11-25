@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Altele · Noua · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276730</link>
+    <guid isPermaLink="false">CAS-0276730</guid>
+    <pubDate>Wed, 25 Nov 2026 15:00:31 GMT</pubDate>
+    <category>Altele</category>
+    <description>A parcat pe locul meu și nu a lăsat un nr de contact ! Am tot sunat la poliția locală insa nu funcționează !!!!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276717</link>
     <guid isPermaLink="false">CAS-0276717</guid>
@@ -705,14 +713,6 @@ Va solicit sa trimiteti reprezentanti competenti pentru a verifica:
 -Respectarea obligatiilor privind curatenia si depozitarea molozului;
 
 Răspuns: Trimis raspuns raspuns trimis pe email Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275734</link>
-    <guid isPermaLink="false">CAS-0275734</guid>
-    <pubDate>Fri, 20 Nov 2026 15:54:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>B 88 YKK  parcat pe trotuar și alte mașini parcate lângă terasele de la ion Minulescu și Nerva Traian care îngreunează circulația pietonilor, fără să achite niciun tarif de parcare în condițiile în care cetățenii obișnuiți plătesc până la 800 lei pentru un loc de parcare.</description>
   </item>
 </channel>
 </rss>
