@@ -6,6 +6,20 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276779</link>
+    <guid isPermaLink="false">CAS-0276779</guid>
+    <pubDate>Wed, 25 Nov 2026 17:31:21 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua,
+
+De când ați reorganizat circulația pe străzile din zona, pe strada drum Malu Mierii sa mărit considerabil volumul de trafic si pentru ca nu exista limitatoare de viteza, se circula cu viteza si se creează situații periculoase.
+Situația este mai urgenta in dreptul imobilului de la nr. 86-90, unde accesul se face direct dis sosea, fara sa existe trotuar, si unde sunt amplasate si întrările la ghenele de gunoi cu acces direct din strada.
+Va rog sa dispuneți analiza in teren si eventuala amplasare a limitatoarelor de viteza pentru a evita accidente.
+
+Va mulțumesc.</description>
+  </item>
+  <item>
     <title>Mediu/Calitatea Aerului · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276723</link>
     <guid isPermaLink="false">CAS-0276723</guid>
@@ -643,18 +657,6 @@ Am depus deja o sesizare prin aplicația Primăriei Sectorului 3 și solicit ver
 Vă rog să înregistrați sesizarea și să îmi comunicați numărul de înregistrare.
 
 Răspuns: Referitor la sesizarea dumnevoastra, politistii locali din cadrul Serviciului de Circulatie pe Drumurile Publice au luat la cunostinta despre aspectele prezentate in cauza facand demersuri necesare pentru identificarea conducatorilor auto care incalca prevederile O.U.G 195 / 2002 r privind circulatia pe drumurile publice.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275058</link>
-    <guid isPermaLink="false">CAS-0275058</guid>
-    <pubDate>Wed, 18 Nov 2026 06:30:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua,
-Astazi 3 masini de gunoi practic blocau strada Prevederii in dreptul scolii 20 la ora 7:45, in conditiile in care este deja aglomerata cu parintii care isi lasa copiii la scoala.
-Ati putea va rog planifica ridicarea gunoiului astfel incat sa se evite strazile cu unitatile de invatamant in timpul intrarii copiilor (7:30-8:30)?
-Mulțumesc,
-Alexandru</description>
   </item>
 </channel>
 </rss>

@@ -6585,3 +6585,9 @@
 {"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"status","from":"O","to":"C"}
 {"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-25T17:30:48.360Z","ticket":"CAS-0276745","field":"reply","from":"","to":"Nespecificat Registratura auto nu a fost depistat in locatie"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276746","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276746","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276746","field":"reply","from":"","to":"Nespecificat Registratura au fost luate masurile legale"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276675","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276675","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-25T17:45:35.056Z","ticket":"CAS-0276675","field":"reply","from":"","to":"Nespecificat Registratura Ajunsi la fata locului am constatat ca in dreptul proprietatii mai sus mentionate nu sunt depozitate nici deseuri, nici tomberoane, iar stationarea remorcii la care se face referire este pe carosabil si nu pe trotuar, neimpiedicand circulatia pietonala sau a celorlalte vehicule. De asemenea, stationeaza pe un drum public ce nu este mai mic de 6 metri.\nCat priveste legalitatea camerele de supraveghere orientate spre domeniul public aceasta nu este de competenta politiei locale, ci de ANSPDCP"}

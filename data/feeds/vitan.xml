@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276782</link>
+    <guid isPermaLink="false">CAS-0276782</guid>
+    <pubDate>Wed, 25 Nov 2026 17:37:19 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersecțiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276781</link>
+    <guid isPermaLink="false">CAS-0276781</guid>
+    <pubDate>Wed, 25 Nov 2026 17:36:02 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Foisorului 98 se parcheaza in mod constant neregulamentar pe trotuar, si la mai putin de 25m de trecerea de pietoni. Solicit sanctionarea tuturor autoturismelor parcate neregulamentar.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276759</link>
     <guid isPermaLink="false">CAS-0276759</guid>
@@ -669,24 +685,6 @@ La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra aut
     <pubDate>Thu, 19 Nov 2026 18:59:19 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masina parcata  neregulamentar si din cauza ei nu pot sa parchez regulamentar pe loc de parcare nenominal , va rog sa luați masuri</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275497</link>
-    <guid isPermaLink="false">CAS-0275497</guid>
-    <pubDate>Thu, 19 Nov 2026 18:09:44 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.
-
-Răspuns: a fost aplicata instiinare informativa </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275452</link>
-    <guid isPermaLink="false">CAS-0275452</guid>
-    <pubDate>Thu, 19 Nov 2026 16:11:04 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat nefuncțional</description>
   </item>
 </channel>
 </rss>
