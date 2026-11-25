@@ -6,7 +6,17 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <title>Toaletare/Tăiere arbori · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276661</link>
+    <guid isPermaLink="false">CAS-0276661</guid>
+    <pubDate>Wed, 25 Nov 2026 07:08:46 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna ziua,
+In spatele blocului nr 81, scara A, de pe strada Agricultori 117, exista un copac (Dud) care are o creanga mare uscata si una care bate f tare in geamul de la bucatarie atunci cand este vant sau ploaie. Se poate toaleta acest copac, va rog? sau daca exista posibilitatea chiar sa fie taiat, face si multa mizerie atunci cand are fructe.
+Multumesc frumos!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276660</link>
     <guid isPermaLink="false">CAS-0276660</guid>
     <pubDate>Wed, 25 Nov 2026 07:00:52 GMT</pubDate>
@@ -14,7 +24,7 @@
     <description>Autoturism stationat neregulamentar zilnic care blocheaza accesul in parcarea de resedinta</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Ozana</title>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276659</link>
     <guid isPermaLink="false">CAS-0276659</guid>
     <pubDate>Wed, 25 Nov 2026 06:59:27 GMT</pubDate>
@@ -570,16 +580,6 @@ Alina Chira,
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276601</link>
-    <guid isPermaLink="false">CAS-0276601</guid>
-    <pubDate>Tue, 24 Nov 2026 19:33:38 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - la ora verificarii in teren , auto indicat de catre petent nu se mai afla in locatia indicata in sesizare sau in  proximitatea acesteia .</description>
   </item>
 </channel>
 </rss>
