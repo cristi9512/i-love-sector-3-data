@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276637</link>
+    <guid isPermaLink="false">CAS-0276637</guid>
+    <pubDate>Wed, 25 Nov 2026 05:45:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 19 XSA blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului nr.2-2a.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276636</link>
+    <guid isPermaLink="false">CAS-0276636</guid>
+    <pubDate>Wed, 25 Nov 2026 05:40:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Trotuar ocupat de masini. Str. Ilioara nr 4. Va multumim</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276635</link>
+    <guid isPermaLink="false">CAS-0276635</guid>
+    <pubDate>Wed, 25 Nov 2026 05:39:30 GMT</pubDate>
+    <category>Altele</category>
+    <description>buna ziua . revin cu problema parcărilor care se umple de apa de la ploaie din cauza ca sunt surpate deși am făcut sesizare sa venit remediat doar 2 locuri de parcare și restul au rămas la fel . Trebuie sa tot revin sau sa revină și alți cetățeni cu reclamație ca să se rezolve situația?  locurile 90.91.94.95.96 sunt pline de apa când plua  și în dreptul scări 1 din spatele blocului F11C este balta de la asfaltul surpat .</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276634</link>
     <guid isPermaLink="false">CAS-0276634</guid>
@@ -647,34 +671,6 @@ Va multumim. </description>
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA A FOST VERIFICATA LA ORELE 20.20 , AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA LA FATA LOCULUI.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276577</link>
-    <guid isPermaLink="false">CAS-0276577</guid>
-    <pubDate>Tue, 24 Nov 2026 17:36:42 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>auto marca FIAT, nr. GR-60-VXT stationeaza de mai multe zile pe intreaga latime a trotuarului, pe str. drumul gura putnei.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276576</link>
-    <guid isPermaLink="false">CAS-0276576</guid>
-    <pubDate>Tue, 24 Nov 2026 17:30:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Au fost dispuse masurile legale . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276575</link>
-    <guid isPermaLink="false">CAS-0276575</guid>
-    <pubDate>Tue, 24 Nov 2026 17:22:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul V........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN LOCATIE, AU FOST APLICATE MASURILE LEGALE</description>
   </item>
 </channel>
 </rss>

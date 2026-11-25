@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276637</link>
+    <guid isPermaLink="false">CAS-0276637</guid>
+    <pubDate>Wed, 25 Nov 2026 05:45:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 19 XSA blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului nr.2-2a.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276591</link>
     <guid isPermaLink="false">CAS-0276591</guid>
@@ -775,14 +783,6 @@ Vă rog să dispuneți măsuri. mulțumesc</description>
     <category>Stationare neregulamentara</category>
     <description>Autoturism staționat neregulamentar pe trecerea de pietoni și într-un loc neamenajat prin marcaje și semne destinate acestei activități.
 Număr înmatriculare autoturism: B43CCV</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275762</link>
-    <guid isPermaLink="false">CAS-0275762</guid>
-    <pubDate>Fri, 20 Nov 2026 17:20:34 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Sunt mai multe mașini aici pe trecerea de pietoni, lângă trecere și pe trotuar, dar 2 din ele sunt chiar pe trecere. Da.</description>
   </item>
 </channel>
 </rss>
