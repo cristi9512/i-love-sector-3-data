@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276660</link>
+    <guid isPermaLink="false">CAS-0276660</guid>
+    <pubDate>Wed, 25 Nov 2026 07:00:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturism stationat neregulamentar zilnic care blocheaza accesul in parcarea de resedinta</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276618</link>
     <guid isPermaLink="false">CAS-0276618</guid>
@@ -580,14 +588,6 @@ Asa cum v-am comunicat, intrucat marcajul la sol specific locurilor nenominale n
     <pubDate>Fri, 20 Nov 2026 21:35:58 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Situație repetată de staționare/parcare neregulamentară, prin care conducătorii auto blochează accesul de intrare și ieșire în/din garaj.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275799</link>
-    <guid isPermaLink="false">CAS-0275799</guid>
-    <pubDate>Fri, 20 Nov 2026 19:14:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Cele doua masini ocupa intreaga suprafata a trotuarului.</description>
   </item>
 </channel>
 </rss>
