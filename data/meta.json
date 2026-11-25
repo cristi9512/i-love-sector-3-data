@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T07:15:40.182Z",
-  "lastChange": "2026-11-25T07:15:40.182Z",
+  "lastRun": "2026-11-25T07:30:44.827Z",
+  "lastChange": "2026-11-25T07:30:44.827Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2614,
-    "added": 1,
-    "updated": 2,
+    "fetched": 2364,
+    "added": 0,
+    "updated": 1,
     "removed": 0,
-    "changes": 2
+    "changes": 3
   },
   "totals": {
     "incidents": 47271,
-    "open": 2140,
+    "open": 2139,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T07:15:40.182Z",
+    "asOf": "2026-11-25T07:30:44.827Z",
     "days": 30,
-    "open": 2140,
-    "total": 210,
+    "open": 2139,
+    "total": 211,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 39,
+        "open": 38,
         "n": 7
       },
       "3": {
@@ -103,7 +103,7 @@
       "17": {
         "name": "Comerț stradal neautorizat",
         "open": 2,
-        "n": 0
+        "n": 1
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
