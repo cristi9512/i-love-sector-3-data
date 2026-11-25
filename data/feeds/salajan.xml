@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276809</link>
+    <guid isPermaLink="false">CAS-0276809</guid>
+    <pubDate>Wed, 25 Nov 2026 18:41:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>trotuar blocat in fata blocului m3d</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276808</link>
+    <guid isPermaLink="false">CAS-0276808</guid>
+    <pubDate>Wed, 25 Nov 2026 18:38:56 GMT</pubDate>
+    <category>Altele</category>
+    <description>poate montati niste stalpisori la trecerile de pietoni, ca sa nu se mai urce specimenele astea cu masinile peste oameni.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276792</link>
     <guid isPermaLink="false">CAS-0276792</guid>
@@ -613,22 +629,6 @@ Locatie: Bd 1 Decembrie 1918, colt cu strada Becaței</description>
     <description>Masina parcata pe trotuar. 
 Numar de inmatriculare: BZ 18 FMG. 
 Locatie: Bd 1 Decembrie 1918, colt cu strada Becaței.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276218</link>
-    <guid isPermaLink="false">CAS-0276218</guid>
-    <pubDate>Sun, 22 Nov 2026 21:22:44 GMT</pubDate>
-    <category>Altele</category>
-    <description>Solicit montare stâlpișori pe zona hașurată din locația aleasă deoarece locul este întotdeauna ocupat de mașini din toate județele țării. Obstrucționeza deplasarea pietonilor, obstrucționează vizibilitatea șoferilor la intrare și ieșire din parcare. Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276216</link>
-    <guid isPermaLink="false">CAS-0276216</guid>
-    <pubDate>Sun, 22 Nov 2026 21:16:11 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare zona hașurată. Nici nu pot deschide ușa de pe partea dreaptă. Va rog faceți ceva cu zona aceasta. Solicit montare stâlpișori. Întotdeauna cineva parchează acolo cu zilele, nu 15 minute. Mulțumesc!</description>
   </item>
 </channel>
 </rss>
