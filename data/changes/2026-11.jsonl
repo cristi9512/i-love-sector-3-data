@@ -6760,3 +6760,12 @@
 {"at":"2026-11-25T23:00:53.758Z","ticket":"CAS-0276783","field":"status","from":"O","to":"C"}
 {"at":"2026-11-25T23:00:53.758Z","ticket":"CAS-0276783","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-25T23:00:53.758Z","ticket":"CAS-0276783","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale."}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276787","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276787","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276787","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nIn urma verificarilor efectuate, aspectele sesizate se confirma, autoturismul reclamat detine autorizatie de parcare pentru zona A-6."}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276785","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276785","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276785","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nIn urma verificarilor efectuate, aspectele sesizate se confirma, autoturismul reclamat detine autorizatie de parcare pentru zona A-6."}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276845","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276845","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-25T23:15:42.143Z","ticket":"CAS-0276845","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. La momentul verificarii ati fost apelat telefonic in vederea permiterii accesului in bloc a  agentilor. Nu ati raspuns la telefon."}
