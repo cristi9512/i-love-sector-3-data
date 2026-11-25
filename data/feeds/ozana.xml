@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276818</link>
+    <guid isPermaLink="false">CAS-0276818</guid>
+    <pubDate>Wed, 25 Nov 2026 19:18:58 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>muzica tare, petrecere in parcare. b-130-nut si vl-32-cng. Langa locul de parcare 24a/b.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276817</link>
     <guid isPermaLink="false">CAS-0276817</guid>
     <pubDate>Wed, 25 Nov 2026 19:14:26 GMT</pubDate>
@@ -639,16 +647,6 @@ Răspuns: CA URMARE A SESIZARII DUMNEAVOASTRA, AU FOST EFECTUATE VERIFICARI IN T
     <pubDate>Sun, 22 Nov 2026 20:14:54 GMT</pubDate>
     <category>Unități de Învățământ(probleme administrative)</category>
     <description>Pe terasa tehnică a școlii 149 există un proiector puternic care se aprinde și se stinge la fiecare 25 secunde. Este deranjant noaptea.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276186</link>
-    <guid isPermaLink="false">CAS-0276186</guid>
-    <pubDate>Sun, 22 Nov 2026 18:38:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE.</description>
   </item>
 </channel>
 </rss>
