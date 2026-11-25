@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276697</link>
+    <guid isPermaLink="false">CAS-0276697</guid>
+    <pubDate>Wed, 25 Nov 2026 10:30:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 140-146 masini parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276696</link>
+    <guid isPermaLink="false">CAS-0276696</guid>
+    <pubDate>Wed, 25 Nov 2026 10:24:21 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 140-146 masini parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276695</link>
+    <guid isPermaLink="false">CAS-0276695</guid>
+    <pubDate>Wed, 25 Nov 2026 10:23:52 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pe strada Aleea Tornadei se fac lucrari pentru colectarea apelor pluviale dar in locul unde se strange apa cel mai mult nu se monteaza un camin tip Geiger.Va rog sa montati un camin si la nr. 46, altfel strada va ramane mereu inundata.Multumesc</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276694</link>
     <guid isPermaLink="false">CAS-0276694</guid>
@@ -542,33 +566,6 @@ Răspuns: Auto a parasit locatia.</description>
     <pubDate>Wed, 25 Nov 2026 05:40:45 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Trotuar ocupat de masini. Str. Ilioara nr 4. Va multumim</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276635</link>
-    <guid isPermaLink="false">CAS-0276635</guid>
-    <pubDate>Wed, 25 Nov 2026 05:39:30 GMT</pubDate>
-    <category>Altele</category>
-    <description>buna ziua . revin cu problema parcărilor care se umple de apa de la ploaie din cauza ca sunt surpate deși am făcut sesizare sa venit remediat doar 2 locuri de parcare și restul au rămas la fel . Trebuie sa tot revin sau sa revină și alți cetățeni cu reclamație ca să se rezolve situația?  locurile 90.91.94.95.96 sunt pline de apa când plua  și în dreptul scări 1 din spatele blocului F11C este balta de la asfaltul surpat .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276634</link>
-    <guid isPermaLink="false">CAS-0276634</guid>
-    <pubDate>Wed, 25 Nov 2026 05:12:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: BUNA DIMINEATA
-IN URMA VERIFICARILOR EFECTUATE LA FATA LOCULUI.S-A CONSTATAT FAPTUL CA,VEHICULUL LA CARE FACETI REFERIRE,DETINE ABONAMENT PE PARCARE,PENTRU NENOMINALE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276633</link>
-    <guid isPermaLink="false">CAS-0276633</guid>
-    <pubDate>Wed, 25 Nov 2026 05:10:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in interiorul intersectiei</description>
   </item>
 </channel>
 </rss>
