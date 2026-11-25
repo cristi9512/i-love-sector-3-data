@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T14:00:58.125Z",
-  "lastChange": "2026-11-25T14:00:58.125Z",
+  "lastRun": "2026-11-25T14:15:34.013Z",
+  "lastChange": "2026-11-25T14:15:34.013Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2578,
-    "added": 1,
+    "fetched": 2544,
+    "added": 3,
     "updated": 0,
     "removed": 0,
     "changes": 0
   },
   "totals": {
-    "incidents": 47331,
-    "open": 2106,
+    "incidents": 47334,
+    "open": 2109,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T14:00:58.125Z",
+    "asOf": "2026-11-25T14:15:34.013Z",
     "days": 30,
-    "open": 2106,
+    "open": 2109,
     "total": 212,
     "byCategory": {
       "2": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 381,
+        "open": 382,
         "n": 32
       },
       "11": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 160,
+        "open": 161,
         "n": 3
       },
       "15": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 632,
+        "open": 633,
         "n": 2
       },
       "32": {

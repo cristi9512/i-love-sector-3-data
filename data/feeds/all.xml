@@ -6,6 +6,33 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276726</link>
+    <guid isPermaLink="false">CAS-0276726</guid>
+    <pubDate>Wed, 25 Nov 2026 14:10:04 GMT</pubDate>
+    <category>Străzi</category>
+    <description>cam asta se intampla pe strazi cand dezvoltatorii nu respecta reguli de circulatie.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276725</link>
+    <guid isPermaLink="false">CAS-0276725</guid>
+    <pubDate>Wed, 25 Nov 2026 14:08:00 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna ziua,
+In curtea blocului V 68 de pe strada Rarau 1 sunt copaci uscati și care  au crengile pe izolația blocului iar alții sunt atât de aproape ca atunci când bate vântul aproape ca sparg geamurile. Solicit insistent toaletare acestora cât mai repede posibil.
+Va multumesc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276724</link>
+    <guid isPermaLink="false">CAS-0276724</guid>
+    <pubDate>Wed, 25 Nov 2026 14:03:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina este parcata in fata portii, intr-un spatiu care nu permite stationarea regulamentara a unui autoturism. Astfel, fie ocupa partial trotuarul, fie intra cu partea din fata pe locul de parcare alaturat, afectand utilizarea acestuia si obligand, implicit, si alti soferi sa parcheze incorect.
+masina este parcata aici in fiecare seara</description>
+  </item>
+  <item>
     <title>Mediu/Calitatea Aerului · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276723</link>
     <guid isPermaLink="false">CAS-0276723</guid>
@@ -538,32 +565,6 @@ Este inuman să se apuce de niște lucrări fără să se gândească la permisi
     <category>Stationare neregulamentara</category>
     <description>Masina parcata in poarta imobilului cu numar de telefon dar fara raspuns la apeluri - 4 buc, mesaje fara raspuns. Casa se renoveaza si am nevoie sa scot si sa introduc materiale si debarasare. Maina este parcata la str Loviste 38, IF 88 WNI. Are in geam un nr de tel cu specificatia “coleg politie sector 2” 
 Va rog ajutor. Se intampla recurent</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276664</link>
-    <guid isPermaLink="false">CAS-0276664</guid>
-    <pubDate>Wed, 25 Nov 2026 07:35:36 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna  ziua!In  gradina  blocului  C13  din  strada  Vlad  Dracul  nr  13  se  afla un  arbore uscat  de  2  ani,cel situat la  intrarea principala pe  stanga, iar  la  celalalt  copac cred  ca trebuie  un  pic  toaletat la  ramurile care  sunt  spre  parcare.Cand  aveti  timp  si  program .Multumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276663</link>
-    <guid isPermaLink="false">CAS-0276663</guid>
-    <pubDate>Wed, 25 Nov 2026 07:33:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă rugăm să ne eliberați trotuarul,suntem nevoiți să circulăm pe carosabil chiar dacă avem trotuare noi amenajate</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276662</link>
-    <guid isPermaLink="false">CAS-0276662</guid>
-    <pubDate>Wed, 25 Nov 2026 07:33:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 10.15 autovehiculul la care faceți referire fiind depistat în locație parcat pe un loc de parcare nenominal din zona C-6, bateria 124_1 sistematizată în Aleea Giurgeni nr.4 fără a deține autorizație sau abonament valabile și fără a fi achitat tariful orar aferent. Conducătorul auto a fost identificat și legitimat împotriva sa fiind luate măsurile legale ce se impun în astfel de situații. Locul de parcare a fost eliberat.</description>
   </item>
 </channel>
 </rss>
