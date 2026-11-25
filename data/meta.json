@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T13:30:53.086Z",
-  "lastChange": "2026-11-25T13:30:53.086Z",
+  "lastRun": "2026-11-25T13:45:41.641Z",
+  "lastChange": "2026-11-25T13:45:41.641Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2421,
-    "added": 0,
-    "updated": 1,
+    "fetched": 2453,
+    "added": 2,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 47328,
-    "open": 2103,
+    "incidents": 47330,
+    "open": 2105,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T13:30:53.086Z",
+    "asOf": "2026-11-25T13:45:41.641Z",
     "days": 30,
-    "open": 2103,
+    "open": 2105,
     "total": 212,
     "byCategory": {
       "2": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 210,
+        "open": 211,
         "n": 14
       },
       "10": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 631,
+        "open": 632,
         "n": 2
       },
       "32": {
