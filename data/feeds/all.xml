@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276727</link>
+    <guid isPermaLink="false">CAS-0276727</guid>
+    <pubDate>Wed, 25 Nov 2026 14:23:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Fix pe bulevard! Rușine! Parcare cu plata la 5 metri subterana</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276726</link>
     <guid isPermaLink="false">CAS-0276726</guid>
@@ -556,15 +564,6 @@ Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE
     <description>S au început niște lucrări de canalizare pe Aleea Mizil și Lunca Marcusului iar noi cei din Lunca Marcusului 37, 37A și blocul de lângă noi suntem in imposibilitatea de a ieși sau intra cu mașinile.
 O bucată este blocată de excavator și bucata din spate, care dă în Detașamentul de Pompieri, are semn interzis de intrare/ ieșire.
 Este inuman să se apuce de niște lucrări fără să se gândească la permisiunile normale de plecat/ ajuns acasă.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276665</link>
-    <guid isPermaLink="false">CAS-0276665</guid>
-    <pubDate>Wed, 25 Nov 2026 07:37:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata in poarta imobilului cu numar de telefon dar fara raspuns la apeluri - 4 buc, mesaje fara raspuns. Casa se renoveaza si am nevoie sa scot si sa introduc materiale si debarasare. Maina este parcata la str Loviste 38, IF 88 WNI. Are in geam un nr de tel cu specificatia “coleg politie sector 2” 
-Va rog ajutor. Se intampla recurent</description>
   </item>
 </channel>
 </rss>
