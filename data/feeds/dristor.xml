@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276768</link>
+    <guid isPermaLink="false">CAS-0276768</guid>
+    <pubDate>Wed, 25 Nov 2026 16:52:20 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua! 
+
+Iluminatul stradal pe strada DRUMUL MURGULUI sector de drum cuprins intre str. Istriei si Bulevardul Camil Ressu nu functineaza
+
+Multumesc frumos!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276764</link>
     <guid isPermaLink="false">CAS-0276764</guid>
@@ -557,16 +569,6 @@ Răspuns: - sesizarea nu se confirma . Locatia surprinsa n foto transmis de catr
     <pubDate>Sun, 22 Nov 2026 07:46:57 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Concluzia e că autoritățile locale nu dau doi bani pe siguranța cetățenilor și aplicarea legislației în vigoare</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276033</link>
-    <guid isPermaLink="false">CAS-0276033</guid>
-    <pubDate>Sun, 22 Nov 2026 06:34:04 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcata neregulamentar pe dale proaspat puse.
-e de 2 zile
-astept masuri si nu avertisment</description>
   </item>
 </channel>
 </rss>

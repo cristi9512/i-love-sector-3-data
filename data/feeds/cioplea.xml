@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276767</link>
+    <guid isPermaLink="false">CAS-0276767</guid>
+    <pubDate>Wed, 25 Nov 2026 16:47:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto nu are autorizatie pentru loc specific persoanelor cu dizabilitati</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276766</link>
+    <guid isPermaLink="false">CAS-0276766</guid>
+    <pubDate>Wed, 25 Nov 2026 16:46:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276761</link>
     <guid isPermaLink="false">CAS-0276761</guid>
@@ -590,24 +606,6 @@ Lorena Giurgiu
     <description>Autovehiculul cu numarul C........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: -  adresa incompleta / lipsa numar cadastral / imposibilitate luare masuri legale .</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276149</link>
-    <guid isPermaLink="false">CAS-0276149</guid>
-    <pubDate>Sun, 22 Nov 2026 16:07:51 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Bd Camil Ressu 39 Blocul Z5, atât în față la bulevard cât și în spate este BEZNĂ totală de luni de zile. Ziua e scurtă, noaptea e lungă iar oamenii bătrâni de peste 80 ani dar și oricine altcineva nu se descurcă să intre și să iasă în și din bloc din cauza beznei continue, se împiedică, cad jos, își rup mâinile. Plus risc maxim de securitate. Se impune intervenție URGENTĂ pentru remediere. Niciun stâlp de iluminat nu funcționează.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276146</link>
-    <guid isPermaLink="false">CAS-0276146</guid>
-    <pubDate>Sun, 22 Nov 2026 16:00:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ a achitat tarif orar de parcare până la 15.12.2026 18:00.
-
-Răspuns: - lipsa adresa completa si fotografie  fara detalii edificatoare de identificare si regim al locului de parcare  , care sa ateste prezenta auto in speta in locatia mentionata in sesizare .</description>
   </item>
 </channel>
 </rss>
