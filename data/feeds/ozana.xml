@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276736</link>
+    <guid isPermaLink="false">CAS-0276736</guid>
+    <pubDate>Wed, 25 Nov 2026 15:48:31 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Aleea pietonala de langa Sara Residence 4 este tranzitata deseori de livratori cu scutere, exista pericol de accidente.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276713</link>
     <guid isPermaLink="false">CAS-0276713</guid>
@@ -643,16 +651,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, AM LUAT LEGATURA CU P
     <description>Pe Aleea Leorda codul parcărilor ne nominale B13 abia scris, a fost acoperit cu vopsea neagră. Vă rugăm să verificați cine este autorul și să remarcați.
 
 Răspuns: In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.           </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276123</link>
-    <guid isPermaLink="false">CAS-0276123</guid>
-    <pubDate>Sun, 22 Nov 2026 14:13:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua,
-trotuarul se lângă parculet ce duce in spatele blocului pm82 este blocat de mașini, va rog sa luati masurile ce se impun.
-Mulțumesc!</description>
   </item>
 </channel>
 </rss>

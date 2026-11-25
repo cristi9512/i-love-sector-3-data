@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276755</link>
+    <guid isPermaLink="false">CAS-0276755</guid>
+    <pubDate>Wed, 25 Nov 2026 16:29:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>La coltul Parcului Voinicelul, langa blocul 33. Masina parcata pe trotuar, blocheaza circulatia pietonilor si accesul la locul de parcare 11.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276741</link>
+    <guid isPermaLink="false">CAS-0276741</guid>
+    <pubDate>Wed, 25 Nov 2026 16:10:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata pe trotuar, blocheaza circulatia pietonilor. Pe Intrarea Ptinoarului 7, in fata blocului PM50, scara A</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276727</link>
     <guid isPermaLink="false">CAS-0276727</guid>
@@ -725,31 +741,6 @@ Răspuns: IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE</
     <category>Străzi</category>
     <description>Bună ziua, pe strada Doicesti între Doicesti 8 și nr6 este un felinar care nu se mai aprinde.
 Există posibilitatea să îl verificați?</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276338</link>
-    <guid isPermaLink="false">CAS-0276338</guid>
-    <pubDate>Mon, 23 Nov 2026 15:14:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276326</link>
-    <guid isPermaLink="false">CAS-0276326</guid>
-    <pubDate>Mon, 23 Nov 2026 14:39:52 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua,
-
-În urma toaletări pomilor din curte au rezultat frunze pe care le-am pus în 6 saci pe care i-am depozitat în fata porții 
-
-În vederea menținerii curățeniei pe strada, Am marea rugăminte sa actionati în consecință.
-
-Cu stima,
-Teodora Constantinescu</description>
   </item>
 </channel>
 </rss>

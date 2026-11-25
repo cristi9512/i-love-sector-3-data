@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276752</link>
+    <guid isPermaLink="false">CAS-0276752</guid>
+    <pubDate>Wed, 25 Nov 2026 16:27:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata blochează trotuarul</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276742</link>
+    <guid isPermaLink="false">CAS-0276742</guid>
+    <pubDate>Wed, 25 Nov 2026 16:10:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe spatiul verde</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276738</link>
+    <guid isPermaLink="false">CAS-0276738</guid>
+    <pubDate>Wed, 25 Nov 2026 15:56:53 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276715</link>
     <guid isPermaLink="false">CAS-0276715</guid>
@@ -26,12 +50,14 @@ Pentru această solicitare, vă vom trimite documente lin ataș.
 Decizie, înștiințare, procură și cartea de identitate.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276689</link>
     <guid isPermaLink="false">CAS-0276689</guid>
     <pubDate>Wed, 25 Nov 2026 09:12:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: sesizarea dumneavoastră a fost verificată, dar autoturismul la care afceți referire nu se mai afla în locație</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -605,39 +631,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276152</link>
-    <guid isPermaLink="false">CAS-0276152</guid>
-    <pubDate>Sun, 22 Nov 2026 16:24:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>TR26SGF sta parcat pe loc galben fara sa fi achitat. VA ROG URGENT LUATI MASURI PT CA IN FIECARE ZI EXISTA CATE O MASINA PARCATA PE LOCURI GALBENE FARA SA ACHITE IAR NOI CEILALTI CARE AVEM ABONAMENF NE INVARTIM 10 blocuri. Multumesc!
-Str zemes nr 4 colt scolii la pubele</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276120</link>
-    <guid isPermaLink="false">CAS-0276120</guid>
-    <pubDate>Sun, 22 Nov 2026 14:07:10 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Grafitti / insemne si desene stradale neuatorizate pe Aleea Fuiorului 6, in fata Scarii 2 a Blocului Y3A.</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · Rezolvată Parţial · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276111</link>
-    <guid isPermaLink="false">CAS-0276111</guid>
-    <pubDate>Sun, 22 Nov 2026 13:42:55 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>In spatele gardului viu din dreptul statiei de masina Ilioara, aferenta blocului H26, in dreptul scarii D se afla abandonate o serie de gunoaie (plapuma, cearceaf etc.)
-
-Răspuns: Trimis raspuns Bună ziua,
-
-Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, in vederea ridicarii deşeurilor şi salubrizarea zonei.
-Cu consideratie,
-Directia Generala de Salubritate Sector 3.
-
- </description>
   </item>
 </channel>
 </rss>
