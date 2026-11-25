@@ -6,7 +6,40 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Străzi · Noua · Industriilor</title>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276817</link>
+    <guid isPermaLink="false">CAS-0276817</guid>
+    <pubDate>Wed, 25 Nov 2026 19:14:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Aceeasi problema ca in fiecare zi/dupamiaza/seara tot timpul oamenii parcheaza pe coltul intersextiei obstructionand vizibilitatea si se aici apare si riscul iminent de accident.In fiecare zi sunt aceleeasi probleme doar cy alte masini sau altii mai persista in prostie fiindca nu sunt sanctionati corespunzator si atunci isi permit sa parcheze fara nici un stres.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276816</link>
+    <guid isPermaLink="false">CAS-0276816</guid>
+    <pubDate>Wed, 25 Nov 2026 19:14:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul S........ Deține autorizație nenominala de parcare pentru  zona B-19, precum și pentru zonele B-17,B-18,B-20,B-3,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276815</link>
+    <guid isPermaLink="false">CAS-0276815</guid>
+    <pubDate>Wed, 25 Nov 2026 19:03:56 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-7, precum și pentru zonele B-12,B-13,B-15,C-4,C-6,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276814</link>
+    <guid isPermaLink="false">CAS-0276814</guid>
+    <pubDate>Wed, 25 Nov 2026 19:02:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Nesimțire, strada e în lucru abia este loc și aici parchează mereu, să nu putem ieși din curte .
+și fix sub semnul de oprire interzis</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Industriilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276813</link>
     <guid isPermaLink="false">CAS-0276813</guid>
     <pubDate>Wed, 25 Nov 2026 18:59:39 GMT</pubDate>
@@ -179,12 +212,14 @@ Rog verificare zona.
 Mulțumesc !</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276793</link>
     <guid isPermaLink="false">CAS-0276793</guid>
     <pubDate>Wed, 25 Nov 2026 17:58:21 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Mașina din prima imagine a ocupat locul de parcare menționat în a doua imagine fără să lase un număr de telefon de contact în geam</description>
+    <description>Mașina din prima imagine a ocupat locul de parcare menționat în a doua imagine fără să lase un număr de telefon de contact în geam
+
+Răspuns: au fost luate deja masurile legale</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
@@ -531,40 +566,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care face
     <pubDate>Wed, 25 Nov 2026 16:32:59 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>calea dusesti 136 138, gunoi aruncat pe domeniul public</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276757</link>
-    <guid isPermaLink="false">CAS-0276757</guid>
-    <pubDate>Wed, 25 Nov 2026 16:32:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto parcat pe zona hasurata/blocheaza coborarea de pe trotuar</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276756</link>
-    <guid isPermaLink="false">CAS-0276756</guid>
-    <pubDate>Wed, 25 Nov 2026 16:30:28 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 11
-
-Răspuns: auto nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276755</link>
-    <guid isPermaLink="false">CAS-0276755</guid>
-    <pubDate>Wed, 25 Nov 2026 16:29:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>La coltul Parcului Voinicelul, langa blocul 33. Masina parcata pe trotuar, blocheaza circulatia pietonilor si accesul la locul de parcare 11.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276754</link>
-    <guid isPermaLink="false">CAS-0276754</guid>
-    <pubDate>Wed, 25 Nov 2026 16:29:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini oprite in strada, pe diagonala, in doua randuri, la minimarketul carefour, in conditiile in care intersectia din piata este plina de locuri de parcare. blochează vizibilitatea si uneori chiar si circulatia pe 2 benzi. solicit un echipaj care sa vina regulat in zona, la fel se practica pe toata lungimea pietei minis. se parcheaza masini adaugate dupa ultimul loc marcat, chiar daca exista destule locuri, pentru a se evita plata</description>
   </item>
 </channel>
 </rss>
