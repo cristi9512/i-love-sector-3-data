@@ -6,6 +6,34 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276854</link>
+    <guid isPermaLink="false">CAS-0276854</guid>
+    <pubDate>Wed, 25 Nov 2026 21:15:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua, în fiecare zi, pe Aleea Fizicienilor, la locul marcat pe harta, sunt parcate masini care ingreuneaza considerabil accesul pe acea straduta cat si manevrele de parcare pe locurile amenajate de primarie. În multe căzuri o ambulanță mai mare sau mașina de pompieri nu ar avea loc sa treacă pe acolo, mai ales seara și noaptea.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276850</link>
+    <guid isPermaLink="false">CAS-0276850</guid>
+    <pubDate>Wed, 25 Nov 2026 21:05:30 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua,
+
+În fiecare zi, mai ales seara și noaptea, pe Aleea Fizicienilor, la locul marcat pe harta, sunt parcate mașini care îngreunează considerabil accesul pe acea străduță cât și manevrele de parcare pe locurile amenajate de primărie.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276849</link>
+    <guid isPermaLink="false">CAS-0276849</guid>
+    <pubDate>Wed, 25 Nov 2026 21:01:20 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Bună ziua,
+
+La intersecția străzii Aleea Fizicienilor cu Strada Fizicienilor, în dreptul trecerii de pietoni este un capac de canal (de dimensiune mai mica decât cele de canalizare) instabil. Când trec mașinile peste el își schimba poziția, ajungând inclusiv în poziție verticala sau este împins pe sosea, ceea ce reprezintă un risc de accident. Pietonii sau conducătorii auto îl tot așează pe poziție dar, la următoarea mașină care trece peste el, isi schimba din nou pozitia.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276846</link>
     <guid isPermaLink="false">CAS-0276846</guid>
@@ -552,34 +580,6 @@ Vă mulțumesc!</description>
     <pubDate>Sun, 22 Nov 2026 18:31:26 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>masina cu nr if02vua stationeaza de foarte mult timp pe lateralul blocului 3a de la adresa str. Istriei, nr. 18. nu are rca.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276174</link>
-    <guid isPermaLink="false">CAS-0276174</guid>
-    <pubDate>Sun, 22 Nov 2026 17:55:32 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276165</link>
-    <guid isPermaLink="false">CAS-0276165</guid>
-    <pubDate>Sun, 22 Nov 2026 17:31:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: la aresa indicata in sesizare nu a fost igasit auto mentionat in sesizare .</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276164</link>
-    <guid isPermaLink="false">CAS-0276164</guid>
-    <pubDate>Sun, 22 Nov 2026 17:27:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcheaza mereu pe B10 si nu achita
-
-Răspuns: - locatia reprezentata in fotografia trimisa de catre petenta nu se afla la adresa mentionata in sesizare  / la aresa indicata in sesizare nu a fost igasit auto mentionat in sesizare .</description>
   </item>
 </channel>
 </rss>
