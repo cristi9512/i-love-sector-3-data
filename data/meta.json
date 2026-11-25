@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T12:01:03.598Z",
-  "lastChange": "2026-11-25T12:01:03.598Z",
+  "lastRun": "2026-11-25T12:15:34.294Z",
+  "lastChange": "2026-11-25T12:15:34.294Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2583,
-    "added": 1,
-    "updated": 26,
+    "fetched": 2789,
+    "added": 2,
+    "updated": 4,
     "removed": 0,
-    "changes": 78
+    "changes": 12
   },
   "totals": {
-    "incidents": 47314,
-    "open": 2142,
+    "incidents": 47316,
+    "open": 2140,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T12:01:03.598Z",
+    "asOf": "2026-11-25T12:15:34.294Z",
     "days": 30,
-    "open": 2142,
+    "open": 2140,
     "total": 212,
     "byCategory": {
       "2": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 392,
+        "open": 391,
         "n": 32
       },
       "11": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 16,
+        "open": 15,
         "n": 4
       },
       "19": {
