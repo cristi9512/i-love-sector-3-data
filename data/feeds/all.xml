@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Industriilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276734</link>
+    <guid isPermaLink="false">CAS-0276734</guid>
+    <pubDate>Wed, 25 Nov 2026 15:28:06 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bucata din strada Oxigenului ce tine de Sectorul 3 este plina de gropi.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276733</link>
+    <guid isPermaLink="false">CAS-0276733</guid>
+    <pubDate>Wed, 25 Nov 2026 15:21:39 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>saci cu deseuri salubritate (frunze si altele) depozitati in parcare insa nu au mai fost ridicati de aproximativ 2 saptamani</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276732</link>
     <guid isPermaLink="false">CAS-0276732</guid>
@@ -532,30 +548,6 @@ S-au mai facut reclamatii, a mai fost Politia Locala, au facut poze insa nu s-a 
     <pubDate>Wed, 25 Nov 2026 08:43:32 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>Buna ziua doresc sa sesizez faptul ca locur de parcare aferent AUTORIZAȚIE DE PARCARE NR. 96349 / AN 2025 - Cod parcare 697_2 nu a fost curatat nici pe 28 octombrie si nici astazi pe 25 noiembrie. Masinile au venit in zona au curatat selectiv anumite zone dar bateria mai sus mentionata nu a fost curatata chiar daca suntem obligati sa mutam masinile… fara nici un rezultat. Contractul de aurotizare nu este respectat. Rog sa fie luate masurile ce se impun</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276672</link>
-    <guid isPermaLink="false">CAS-0276672</guid>
-    <pubDate>Wed, 25 Nov 2026 08:43:26 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua,
-Va transmit aceasta sesizare privind mizeria care se acumuleaza in mod constant in jurul si sub pubelele exterioare.
-Totodata, vin cu o propunere pe care o consider in beneficiul cetatenilor, dar si al Primariei: eliminarea pubelelor exterioare existente si inlocuirea acestora, acolo unde conditiile permit, cu containere ingropate.
-Consider ca aceasta solutie ar contribui la mentinerea curateniei, la imbunatatirea aspectului cartierelor si la reducerea interventiilor repetate ale echipelor de salubritate. Pe termen lung, ar putea insemna mai putin timp alocat curateniei si costuri operationale mai reduse.
-In loc sa intervenim permanent pentru a remedia aceeasi problema, cred ca ar fi mai eficient sa investim intr-o solutie care sa o previna.
-Va rog sa analizati aceasta propunere si sa imi comunicati un raspuns in termenul legal.
-Multumesc.
-Maximilian Ganga
-0754263064</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276671</link>
-    <guid isPermaLink="false">CAS-0276671</guid>
-    <pubDate>Wed, 25 Nov 2026 08:18:53 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua. In legatura cu curatenia efectuata lunar pe locurile de parcare, mentionez ca azi, in zona 53, in jurul blocului unde locuiesc, nu s-a efectuat curatenia programata in intervalul stabilit. Am intrebat ieri la Salubritate daca urmeaza sa se faca curatenia conform programului stabilit si mi s-a transmis ca nu sunt modificari. Astfel, am mutat masina pentru a facilita accesul personalului, lucru pe care l-au facut si alti vecini. Pe viitor, rog sa fiu anuntata din timp daca nu urmeaza sa se faca curatenie, sau macar sa fiu informata corespunzator atunci cand intreb oamenii care raspund de acest serviciu. Multumesc.</description>
   </item>
 </channel>
 </rss>
