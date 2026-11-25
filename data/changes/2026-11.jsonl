@@ -6271,3 +6271,6 @@
 {"at":"2026-11-25T07:30:44.827Z","ticket":"CAS-0276657","field":"status","from":"O","to":"C"}
 {"at":"2026-11-25T07:30:44.827Z","ticket":"CAS-0276657","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-25T07:30:44.827Z","ticket":"CAS-0276657","field":"reply","from":"","to":"Nespecificat Registratura VĂ RUGĂM REVENIȚI CU O NOUĂ SESIZARE,LA CARE SĂ ATAȘAȚI MINIM O FOTOGRAFIE,DIN CARE SĂ REIASĂ TIPUL DE PARCARE DE REȘEDINȚĂ,CÂT ȘI NUMARUL DE INMATRICULARE AL AUTOVEHICULULUI CARE IL OCUPĂ."}
+{"at":"2026-11-25T07:45:41.504Z","ticket":"CAS-0276180","field":"status","from":"O","to":"C"}
+{"at":"2026-11-25T07:45:41.504Z","ticket":"CAS-0276180","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-25T07:45:41.504Z","ticket":"CAS-0276180","field":"reply","from":"","to":"Trimis raspuns Trimis e-mail Raspunsul a fost trimis prin email catre cetatean."}
