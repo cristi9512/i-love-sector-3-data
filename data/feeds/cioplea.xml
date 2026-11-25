@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276862</link>
+    <guid isPermaLink="false">CAS-0276862</guid>
+    <pubDate>Wed, 25 Nov 2026 23:28:53 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Aceste poze denotă indiferența voastră de a  aplica legea în această zonă. Parcare neregulamentară pe trotuar, parcare neregulamentară în intersecție plus parcare care blochează accesul persoanelor cu dizabilități la trotuar.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276854</link>
     <guid isPermaLink="false">CAS-0276854</guid>
@@ -585,14 +593,6 @@ Vă mulțumesc!</description>
     <pubDate>Sun, 22 Nov 2026 18:35:21 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>masina cu nr de inmatriculare cl05xyz stationeaza pe lateralul blocului 3a de la adresa str. Istriei, nr. 18. in data de 07.07.2026 am facut sesizare pt aceeasi masina. nu s.au luat masuri, masina stationeaza in acelasi loc de la acel moment. mi s.a comunicat ca are rca valabil pana in 2027. in momentul de fata nu are rca valabil.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276181</link>
-    <guid isPermaLink="false">CAS-0276181</guid>
-    <pubDate>Sun, 22 Nov 2026 18:31:26 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>masina cu nr if02vua stationeaza de foarte mult timp pe lateralul blocului 3a de la adresa str. Istriei, nr. 18. nu are rca.</description>
   </item>
 </channel>
 </rss>
