@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276846</link>
+    <guid isPermaLink="false">CAS-0276846</guid>
+    <pubDate>Wed, 25 Nov 2026 20:48:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276812</link>
     <guid isPermaLink="false">CAS-0276812</guid>
@@ -572,16 +580,6 @@ Răspuns: la aresa indicata in sesizare nu a fost igasit auto mentionat in sesiz
     <description>Parcheaza mereu pe B10 si nu achita
 
 Răspuns: - locatia reprezentata in fotografia trimisa de catre petenta nu se afla la adresa mentionata in sesizare  / la aresa indicata in sesizare nu a fost igasit auto mentionat in sesizare .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276162</link>
-    <guid isPermaLink="false">CAS-0276162</guid>
-    <pubDate>Sun, 22 Nov 2026 17:24:03 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: -  la aresa indicata in sesizare nu a fost igasit auto mentionat in sesizare .</description>
   </item>
 </channel>
 </rss>
