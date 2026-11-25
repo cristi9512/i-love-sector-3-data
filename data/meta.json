@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T12:45:36.921Z",
-  "lastChange": "2026-11-25T12:45:36.921Z",
+  "lastRun": "2026-11-25T13:01:05.418Z",
+  "lastChange": "2026-11-25T13:01:05.418Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2421,
-    "added": 3,
-    "updated": 8,
+    "fetched": 2662,
+    "added": 5,
+    "updated": 0,
     "removed": 0,
-    "changes": 22
+    "changes": 0
   },
   "totals": {
-    "incidents": 47323,
-    "open": 2099,
+    "incidents": 47328,
+    "open": 2104,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T12:45:36.921Z",
+    "asOf": "2026-11-25T13:01:05.418Z",
     "days": 30,
-    "open": 2099,
-    "total": 211,
+    "open": 2104,
+    "total": 212,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -38,7 +38,7 @@
       "3": {
         "name": "Spații verzi",
         "open": 55,
-        "n": 10
+        "n": 11
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 209,
+        "open": 210,
         "n": 14
       },
       "10": {
         "name": "Străzi",
-        "open": 380,
+        "open": 381,
         "n": 32
       },
       "11": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 159,
+        "open": 160,
         "n": 3
       },
       "15": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 629,
+        "open": 631,
         "n": 2
       },
       "32": {

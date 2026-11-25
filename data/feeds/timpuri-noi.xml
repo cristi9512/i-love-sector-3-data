@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276717</link>
+    <guid isPermaLink="false">CAS-0276717</guid>
+    <pubDate>Wed, 25 Nov 2026 12:53:44 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare pe trotuar!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276688</link>
     <guid isPermaLink="false">CAS-0276688</guid>
@@ -705,19 +713,6 @@ Răspuns: Trimis raspuns raspuns trimis pe email Raspunsul a fost trimis prin em
     <pubDate>Fri, 20 Nov 2026 15:54:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>B 88 YKK  parcat pe trotuar și alte mașini parcate lângă terasele de la ion Minulescu și Nerva Traian care îngreunează circulația pietonilor, fără să achite niciun tarif de parcare în condițiile în care cetățenii obișnuiți plătesc până la 800 lei pentru un loc de parcare.</description>
-  </item>
-  <item>
-    <title>Străzi · Rezolvată Parţial · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275712</link>
-    <guid isPermaLink="false">CAS-0275712</guid>
-    <pubDate>Fri, 20 Nov 2026 15:08:02 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Semn de circulație picat
-
-Răspuns: Trimis raspuns Referitor la petiția dumneavoastră, înregistrată la Primăria Sectorului 3, Direcția Parcări
-și Infrastructură Rutieră, cu nr. 438566/20.11.2026, vă comunicăm faptul că solicitarea a fost
-transmisa echipei din teren, urmând a fi soluționate în funcție de programul de lucru, cat și de
-condițiile meteorologice. Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>
