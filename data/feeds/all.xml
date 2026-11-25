@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276694</link>
+    <guid isPermaLink="false">CAS-0276694</guid>
+    <pubDate>Wed, 25 Nov 2026 10:09:46 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Aici erau doi copaci.va rugăm să plantați alții în locul lor .nu mai este umbră și nimic verde.arata pustiu.toata vara bate soarele pe mașini</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276693</link>
     <guid isPermaLink="false">CAS-0276693</guid>
@@ -79,12 +87,18 @@ mulțumesc!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276685</link>
     <guid isPermaLink="false">CAS-0276685</guid>
     <pubDate>Wed, 25 Nov 2026 09:00:56 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Deseuri abandonate langa Punctul Termic de pe strada Labirint 95</description>
+    <description>Deseuri abandonate langa Punctul Termic de pe strada Labirint 95
+
+Răspuns: Trimis raspuns Bună ziua,
+Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, în vederea soluționării acestora.
+Cu deosebită consideratie,
+Direcţia Generală de Salubritate Sector 3
+ </description>
   </item>
   <item>
     <title>Străzi · În lucru · Traian</title>
@@ -555,14 +569,6 @@ IN URMA VERIFICARILOR EFECTUATE LA FATA LOCULUI.S-A CONSTATAT FAPTUL CA,VEHICULU
     <pubDate>Wed, 25 Nov 2026 05:10:10 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>autovehicule parcate in interiorul intersectiei</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276632</link>
-    <guid isPermaLink="false">CAS-0276632</guid>
-    <pubDate>Wed, 25 Nov 2026 05:09:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in zona de stationare interzisa</description>
   </item>
 </channel>
 </rss>
