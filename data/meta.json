@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-25T13:45:41.641Z",
-  "lastChange": "2026-11-25T13:45:41.641Z",
+  "lastRun": "2026-11-25T14:00:58.125Z",
+  "lastChange": "2026-11-25T14:00:58.125Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2453,
-    "added": 2,
+    "fetched": 2578,
+    "added": 1,
     "updated": 0,
     "removed": 0,
     "changes": 0
   },
   "totals": {
-    "incidents": 47330,
-    "open": 2105,
+    "incidents": 47331,
+    "open": 2106,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-25T13:45:41.641Z",
+    "asOf": "2026-11-25T14:00:58.125Z",
     "days": 30,
-    "open": 2105,
+    "open": 2106,
     "total": 212,
     "byCategory": {
       "2": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 15,
+        "open": 16,
         "n": 4
       },
       "19": {
