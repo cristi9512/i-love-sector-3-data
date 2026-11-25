@@ -6,6 +6,34 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276692</link>
+    <guid isPermaLink="false">CAS-0276692</guid>
+    <pubDate>Wed, 25 Nov 2026 09:30:56 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata pe trotuar. Blochează accesul pietonal.</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276691</link>
+    <guid isPermaLink="false">CAS-0276691</guid>
+    <pubDate>Wed, 25 Nov 2026 09:28:38 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>A CAZUT SEMAFORUL/STOPUL. Bd Nicolae Grigorescu colt cu Comstamtin Brancusi (Potcoava)</description>
+  </item>
+  <item>
+    <title>Taxe şi impozite · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276690</link>
+    <guid isPermaLink="false">CAS-0276690</guid>
+    <pubDate>Wed, 25 Nov 2026 09:19:04 GMT</pubDate>
+    <category>Taxe şi impozite</category>
+    <description>Bună ziua,
+Vă rog să ne comunicați, la ce autoturism se referă decizia nr 519858/28.10.2026.
+Vă solicităm aceste detalii, pentru a identifica angajatul.
+Pentru această solicitare, vă vom trimite documente lin ataș.
+Decizie, înștiințare, procură și cartea de identitate.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276689</link>
     <guid isPermaLink="false">CAS-0276689</guid>
@@ -541,36 +569,6 @@ Mai mult, chiar desfasurarea acestui program din data de 24.11.2026 dovedeste o 
 Ramane faptul incontestabil ca nu puteti respecta programul pe care chiar dumneavoastra il afisati. Daca exista conditii meteo care impiedica desfasurarea activitatii, obligatia elementara este sa anuntati din timp pentru ca locuitorii sa nu isi mai mute masinile inutil — nu sa mentineti anuntul ca interveniti, iar ulterior sa invocati ca nu ati putut lucra din cauza frunzelor. Este prima toamna pe care o vedeti? (Intrebare retorica).
 Va atrag atentia ca, in conformitate cu prevederile Ordonantei Guvernului nr. 27/2002 privind reglementarea activitatii de solutionare a petitiilor, aveti obligatia legala de a formula un raspuns clar, motivat si punctual la solicitarea mea de sistare a acestui program, nu o simpla justificare formala si evaziva. In cazul in care veti continua sa tratati superficial aceasta sesizare, imi rezerv dreptul de a inainta o plangere catre Institutia Prefectului, in temeiul atributiilor de control asupra legalitatii actelor si activitatii administratiei publice locale.
 Astept un raspuns concret si asumat cu privire la sistarea acestui program.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276630</link>
-    <guid isPermaLink="false">CAS-0276630</guid>
-    <pubDate>Wed, 25 Nov 2026 04:49:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat pe loc nenominal 20
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 08.00 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276629</link>
-    <guid isPermaLink="false">CAS-0276629</guid>
-    <pubDate>Wed, 25 Nov 2026 04:44:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 07.00 autovehiculul la care faceți referire fiind depistat în locație parcat pe un loc de parcare nenominal din zona C-2, bateria 900_1 sistematizată în str. Th. Zemeș nr.4 fără a deține autorizație sau abonament valabile și fără a fi achitat tariful orar aferent. Conducătorul auto a fost identificat și legitimat împotriva sa fiind luate măsurile legale ce se impun în astfel de situații. Locul de parcare a fost eliberat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276628</link>
-    <guid isPermaLink="false">CAS-0276628</guid>
-    <pubDate>Tue, 24 Nov 2026 22:18:48 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LIPSA FOTOGRAFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENITI CU SESIZARE ATASAND MINIM O FOTOGRAFIE DIN CARE SA REIASA ATAT NUMARUL DE INMATRICULARE AL AUTOTURISMULUI RECLAMAT CAT SI TIPUL DE PARCAJ DE RESEDINTA.</description>
   </item>
 </channel>
 </rss>
