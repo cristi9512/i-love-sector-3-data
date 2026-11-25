@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276679</link>
+    <guid isPermaLink="false">CAS-0276679</guid>
+    <pubDate>Wed, 25 Nov 2026 08:49:02 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Vă rog marcare locuri galbene pe str. Prevederii nr 26, în fața școlii nr. 20. Pare ca echipa de trasare a fost la 50m mai în față de curând, dar unde am făcut eu sesizare nu. De altfel, nu ar fi corect să închideți această sesizare după ce se rezolvă ? Mulțumesc</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276666</link>
     <guid isPermaLink="false">CAS-0276666</guid>
@@ -651,16 +659,6 @@ Solicităm verificarea situației și luarea măsurilor necesare pentru a preven
     <pubDate>Wed, 18 Nov 2026 06:13:00 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>mașină parcată neregulamentar in fiecare zi pe singura cale de acces în incinta grădiniței 211 de pe strada trapezului Nr 1.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275037</link>
-    <guid isPermaLink="false">CAS-0275037</guid>
-    <pubDate>Wed, 18 Nov 2026 05:30:34 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe coltul blocului R11 din bulevardul Theodor Pallady 24 pe trotuar în intersecție parchează permanent mașini care obturează traficul atât spre bulevardul Theodor Pallady cât și spre piața Trapezului. Vă rog să instalați un indicator de interzicere a parcării sau un marcaj care să interzică parcarea în această mică intersecție.
-
-Răspuns: Referitor la sesizarea dumnevoastra, politistii locali din cadrul Serviciului de Circulatie pe Drumurile Publice au luat la cunostinta despre aspectele prezentate in cauza facand demersuri necesare pentru identificarea conducatorilor auto care incalca prevederile O.U.G 195 / 2002 r privind circulatia pe drumurile publice.</description>
   </item>
 </channel>
 </rss>
