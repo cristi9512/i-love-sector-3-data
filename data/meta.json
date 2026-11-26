@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-26T08:13:16.359Z",
-  "lastChange": "2026-11-26T08:13:16.359Z",
+  "lastRun": "2026-11-26T08:30:45.568Z",
+  "lastChange": "2026-11-26T08:30:45.568Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2506,
+    "fetched": 2417,
     "added": 2,
-    "updated": 2,
+    "updated": 0,
     "removed": 0,
-    "changes": 4
+    "changes": 0
   },
   "totals": {
-    "incidents": 47528,
-    "open": 2201,
+    "incidents": 47530,
+    "open": 2203,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-26T08:13:16.359Z",
+    "asOf": "2026-11-26T08:30:45.568Z",
     "days": 30,
-    "open": 2201,
+    "open": 2203,
     "total": 213,
     "byCategory": {
       "2": {
@@ -37,7 +37,7 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 56,
+        "open": 57,
         "n": 11
       },
       "4": {
@@ -57,7 +57,7 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 31,
+        "open": 32,
         "n": 7
       },
       "9": {
