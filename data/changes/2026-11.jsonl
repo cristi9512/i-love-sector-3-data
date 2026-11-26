@@ -6901,3 +6901,13 @@
 {"at":"2026-11-26T08:45:35.908Z","ticket":"CAS-0276524","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T08:45:35.908Z","ticket":"CAS-0276524","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-26T08:45:35.908Z","ticket":"CAS-0276524","field":"reply","from":"","to":"In curs de rezolvare Vă comunicăm că sesizarea dumneavoastră se află în continuare în graficul de lucrări al echipei de trasări, având în vedere volumul mare de lucrări aflate în desfășurare pe întreaga rază a Sectorului 3.\n\nIntervenția urmează să fie efectuată în funcție de programul echipei, precum și de condițiile meteorologice, urmând ca situația semnalată să fie verificată și, după caz, să fie dispuse măsurile care se impun. "}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276679","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276679","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276679","field":"reply","from":"","to":"In curs de rezolvare Vă comunicăm că sesizarea dumneavoastră se află în continuare în graficul de lucrări al echipei de trasări, având în vedere volumul mare de lucrări aflate în desfășurare pe întreaga rază a Sectorului 3.\n\nIntervenția urmează să fie efectuată în funcție de programul echipei, precum și de condițiile meteorologice, urmând ca situația semnalată să fie verificată și, după caz, să fie dispuse măsurile care se impun. "}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276879","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276879","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276879","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,NU AU FOST DEPISTATI CAINI FARA STAPAN IN ZONA"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276913","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276913","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276913","field":"reply","from":"","to":"Nespecificat Registratura A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO"}
+{"at":"2026-11-26T09:01:01.613Z","ticket":"CAS-0276923","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
