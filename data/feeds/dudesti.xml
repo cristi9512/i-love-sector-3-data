@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276931</link>
+    <guid isPermaLink="false">CAS-0276931</guid>
+    <pubDate>Thu, 26 Nov 2026 09:34:21 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276930</link>
+    <guid isPermaLink="false">CAS-0276930</guid>
+    <pubDate>Thu, 26 Nov 2026 09:33:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 18</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276913</link>
     <guid isPermaLink="false">CAS-0276913</guid>
@@ -16,12 +32,14 @@
 Răspuns: A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276900</link>
     <guid isPermaLink="false">CAS-0276900</guid>
     <pubDate>Thu, 26 Nov 2026 06:47:44 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DUMNEAVOASTRA IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE COMUNICATI ADRESA EXACTA A LOCULUI LA CARE FACETI REFERIRE,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
@@ -709,22 +727,6 @@ De asemenea, “ opinez ” că ar trebui sesizate și organele de poliție comp
  
 
 O zi buna.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276107</link>
-    <guid isPermaLink="false">CAS-0276107</guid>
-    <pubDate>Sun, 22 Nov 2026 13:36:11 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 135 KMI pe loc marcat la sol ca fiind Oprire interzisă str.Agatha Bârsescu bloc V16-V17.  Au mai fost sesizări în acest sens.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276106</link>
-    <guid isPermaLink="false">CAS-0276106</guid>
-    <pubDate>Sun, 22 Nov 2026 13:33:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentară</description>
   </item>
 </channel>
 </rss>
