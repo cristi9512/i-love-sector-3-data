@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276998</link>
+    <guid isPermaLink="false">CAS-0276998</guid>
+    <pubDate>Thu, 26 Nov 2026 14:30:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276887</link>
     <guid isPermaLink="false">CAS-0276887</guid>
@@ -574,14 +582,6 @@ Răspuns: sesizare incompleta </description>
     <pubDate>Mon, 23 Nov 2026 05:33:05 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>autovehicule parcate in interiorul intersectiei</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276235</link>
-    <guid isPermaLink="false">CAS-0276235</guid>
-    <pubDate>Mon, 23 Nov 2026 05:31:11 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in zona de stationare interzisa</description>
   </item>
 </channel>
 </rss>
