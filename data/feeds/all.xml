@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276870</link>
+    <guid isPermaLink="false">CAS-0276870</guid>
+    <pubDate>Thu, 26 Nov 2026 04:07:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276869</link>
+    <guid isPermaLink="false">CAS-0276869</guid>
+    <pubDate>Thu, 26 Nov 2026 04:06:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276868</link>
     <guid isPermaLink="false">CAS-0276868</guid>
@@ -741,22 +757,6 @@ Această situație se întâlnește mod frecvent cu acest loc unde parchează mu
     <description>ocupare abuziva loc parcare nominal
 
 Răspuns: Am preluat si verificat sesizarea dumneavoastra la ora 22:25 . Autoturismul reclamat nu se mai afla in locatie. Pe viitor , va indrumam , daca aveti locul de parcare nominal ocupat , pentru care detineti autorizatie , sa efectuati sesizare telefonica pentru ca echipajul sa prioritizeze sesizarea . Va multumim ! </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276810</link>
-    <guid isPermaLink="false">CAS-0276810</guid>
-    <pubDate>Wed, 25 Nov 2026 18:42:34 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>a parcat pe trotuarul reabilitat, blocând locul pentru scos pubelele de gunoi, îngrijitoarea blocului fiind nevoită să le școala în fața scării blocand accesul.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276809</link>
-    <guid isPermaLink="false">CAS-0276809</guid>
-    <pubDate>Wed, 25 Nov 2026 18:41:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>trotuar blocat in fata blocului m3d</description>
   </item>
 </channel>
 </rss>
