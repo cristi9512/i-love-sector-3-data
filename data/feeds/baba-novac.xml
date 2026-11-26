@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277092</link>
+    <guid isPermaLink="false">CAS-0277092</guid>
+    <pubDate>Thu, 26 Nov 2026 21:14:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277085</link>
     <guid isPermaLink="false">CAS-0277085</guid>
@@ -687,16 +695,6 @@ Va rog sa luati masurile necesare pentru a mentine accesul liber la acea cale de
     <pubDate>Wed, 25 Nov 2026 08:18:53 GMT</pubDate>
     <category>Altele</category>
     <description>Buna ziua. In legatura cu curatenia efectuata lunar pe locurile de parcare, mentionez ca azi, in zona 53, in jurul blocului unde locuiesc, nu s-a efectuat curatenia programata in intervalul stabilit. Am intrebat ieri la Salubritate daca urmeaza sa se faca curatenia conform programului stabilit si mi s-a transmis ca nu sunt modificari. Astfel, am mutat masina pentru a facilita accesul personalului, lucru pe care l-au facut si alti vecini. Pe viitor, rog sa fiu anuntata din timp daca nu urmeaza sa se faca curatenie, sau macar sa fiu informata corespunzator atunci cand intreb oamenii care raspund de acest serviciu. Multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276670</link>
-    <guid isPermaLink="false">CAS-0276670</guid>
-    <pubDate>Wed, 25 Nov 2026 08:04:28 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN . </description>
   </item>
 </channel>
 </rss>
