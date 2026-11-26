@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276975</link>
+    <guid isPermaLink="false">CAS-0276975</guid>
+    <pubDate>Thu, 26 Nov 2026 12:33:09 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276974</link>
+    <guid isPermaLink="false">CAS-0276974</guid>
+    <pubDate>Thu, 26 Nov 2026 12:31:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276965</link>
     <guid isPermaLink="false">CAS-0276965</guid>
@@ -698,22 +714,6 @@ Cu consideratie, </description>
     <description>Mașini parcate neregulamentar constant pe zona asta
 
 Răspuns: Buna dimineata! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275908</link>
-    <guid isPermaLink="false">CAS-0275908</guid>
-    <pubDate>Sat, 21 Nov 2026 10:39:00 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Este a 3 a sesizare in decurs de 3 săptămâni. Groapă în trotuar se adâncește, treitarul se surpa și nimeni nu intervine. Ce trebuie sa facem pentru remediere? Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275906</link>
-    <guid isPermaLink="false">CAS-0275906</guid>
-    <pubDate>Sat, 21 Nov 2026 10:38:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>va rog sa luati masuri in privinta descurajării parcarcarii pe acest colt. vizibilitatea este extrem de redusa, riscul de accidente este foarte mare. in permanență sunt parcate 1-2 masini. ba chiar uneori este situatia sa ramana o mașină parcata efectiv în mijlocul strazii dupa cum se poate vedea si in imagini. locul la care fac referire este cel ocupat in imagini de auto cu numar vl68tor. la momentul verificării sesizării este posibil să regăsiți alte masini parcare. va mulțumesc</description>
   </item>
 </channel>
 </rss>

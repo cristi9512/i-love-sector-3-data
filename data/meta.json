@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-26T12:30:48.251Z",
-  "lastChange": "2026-11-26T12:30:48.251Z",
+  "lastRun": "2026-11-26T12:45:36.969Z",
+  "lastChange": "2026-11-26T12:45:36.969Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2717,
+    "fetched": 2383,
     "added": 4,
-    "updated": 35,
+    "updated": 13,
     "removed": 0,
-    "changes": 105
+    "changes": 39
   },
   "totals": {
-    "incidents": 47580,
-    "open": 2156,
+    "incidents": 47584,
+    "open": 2147,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-26T12:30:48.251Z",
+    "asOf": "2026-11-26T12:45:36.969Z",
     "days": 30,
-    "open": 2156,
-    "total": 215,
+    "open": 2147,
+    "total": 211,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 45,
+        "open": 48,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 173,
+        "open": 172,
         "n": 14
       },
       "5": {
@@ -52,23 +52,23 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 95,
+        "open": 94,
         "n": 4
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 32,
-        "n": 7
+        "open": 30,
+        "n": 6
       },
       "9": {
         "name": "Altele",
-        "open": 214,
-        "n": 13
+        "open": 210,
+        "n": 11
       },
       "10": {
         "name": "Străzi",
-        "open": 383,
-        "n": 33
+        "open": 381,
+        "n": 32
       },
       "11": {
         "name": "Parcuri",
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 18,
+        "open": 17,
         "n": 1
       },
       "13": {
@@ -127,7 +127,7 @@
       },
       "22": {
         "name": "Spații Comerciale",
-        "open": 6,
+        "open": 4,
         "n": 2
       },
       "25": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 684,
+        "open": 685,
         "n": 2
       },
       "32": {
