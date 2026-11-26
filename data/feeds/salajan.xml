@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277022</link>
+    <guid isPermaLink="false">CAS-0277022</guid>
+    <pubDate>Thu, 26 Nov 2026 15:55:48 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara !
+Această mașină ,nu deține autorizație de parcare și in fiecare seară este parcată neregulamentar ,pe intrarea blocului .
+Pur și simplu ,nu putem trece cu caruciorul de cumparaturi ,nici cu cel de copii.
+Mulțumesc !</description>
+  </item>
+  <item>
     <title>Verificări construcții/Lucrări neautorizate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277008</link>
     <guid isPermaLink="false">CAS-0277008</guid>
@@ -610,16 +621,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA B-11, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276384</link>
-    <guid isPermaLink="false">CAS-0276384</guid>
-    <pubDate>Mon, 23 Nov 2026 17:45:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 19
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE. </description>
   </item>
 </channel>
 </rss>

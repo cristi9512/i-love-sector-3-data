@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277024</link>
+    <guid isPermaLink="false">CAS-0277024</guid>
+    <pubDate>Thu, 26 Nov 2026 15:58:29 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 25</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276994</link>
     <guid isPermaLink="false">CAS-0276994</guid>
@@ -613,16 +621,6 @@ In data de 03.11.2026 am nepus o cerere pentru declararea unei masini noi si am 
     <description>masini parcate pe trotuarul de langa liftul de la gura de metrou costin georgian
 
 Răspuns: Auto in cauza au parasit locatia.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275313</link>
-    <guid isPermaLink="false">CAS-0275313</guid>
-    <pubDate>Thu, 19 Nov 2026 07:42:42 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Lunar aceste masini nu sunt mutate pentru salubrizarea strazilor
-
-Răspuns: Vor fi aplicate masurile legale in locatie.</description>
   </item>
 </channel>
 </rss>
