@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-26T10:00:55.296Z",
-  "lastChange": "2026-11-26T10:00:55.296Z",
+  "lastRun": "2026-11-26T10:15:34.995Z",
+  "lastChange": "2026-11-26T10:15:34.995Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2581,
-    "added": 1,
+    "fetched": 2727,
+    "added": 6,
     "updated": 1,
     "removed": 0,
     "changes": 3
   },
   "totals": {
-    "incidents": 47544,
-    "open": 2204,
+    "incidents": 47550,
+    "open": 2209,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-26T10:00:55.296Z",
+    "asOf": "2026-11-26T10:15:34.995Z",
     "days": 30,
-    "open": 2204,
-    "total": 213,
+    "open": 2209,
+    "total": 215,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 42,
+        "open": 44,
         "n": 7
       },
       "3": {
@@ -48,7 +48,7 @@
       "5": {
         "name": "Taxe şi impozite",
         "open": 121,
-        "n": 95
+        "n": 97
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 35,
+        "open": 36,
         "n": 0
       },
       "17": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 692,
+        "open": 694,
         "n": 2
       },
       "32": {

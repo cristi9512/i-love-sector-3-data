@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276941</link>
+    <guid isPermaLink="false">CAS-0276941</guid>
+    <pubDate>Thu, 26 Nov 2026 10:09:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Stationare pe trotuar, de 3 zile tot aici parcheaza.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276934</link>
     <guid isPermaLink="false">CAS-0276934</guid>
@@ -736,14 +744,6 @@ Analizarea și implementarea unei soluții de organizare a parcării care să î
 Solicit ca prezenta sesizare să fie tratată inclusiv din perspectiva obligației autorităților de a asigura respectarea legislației rutiere, iar nu exclusiv ca o solicitare de reorganizare administrativă a parcărilor.
 În cazul în care apreciați că situațiile descrise nu constituie încălcări ale legislației rutiere, vă solicit să îmi comunicați motivarea juridică și constatările efectuate în teren.
 Vă rog să îmi transmiteți răspunsul în termenul legal prevăzut de OG nr. 27/2002 privind soluționarea petițiilor.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276502</link>
-    <guid isPermaLink="false">CAS-0276502</guid>
-    <pubDate>Tue, 24 Nov 2026 11:34:59 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Masini parcate ilegal care obstructioneaza si circulatia (a dubelor dar si inlcusiv a masinilor mici, este dublu sens) cat si accesul la pubelele de colectare selectiva a deseurilor</description>
   </item>
 </channel>
 </rss>
