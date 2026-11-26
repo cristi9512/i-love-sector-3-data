@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277043</link>
+    <guid isPermaLink="false">CAS-0277043</guid>
+    <pubDate>Thu, 26 Nov 2026 16:58:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277042</link>
+    <guid isPermaLink="false">CAS-0277042</guid>
+    <pubDate>Thu, 26 Nov 2026 16:55:39 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277041</link>
+    <guid isPermaLink="false">CAS-0277041</guid>
+    <pubDate>Thu, 26 Nov 2026 16:49:48 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277040</link>
     <guid isPermaLink="false">CAS-0277040</guid>
@@ -520,36 +544,6 @@ Răspuns: Lipsă fotografie necesară verificării și soluționării sesizării
     <pubDate>Thu, 26 Nov 2026 13:02:26 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>masina parcata pe trotuar la intersectia aleea textilistilor cu Blvd 1 decembrie 1918</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276981</link>
-    <guid isPermaLink="false">CAS-0276981</guid>
-    <pubDate>Thu, 26 Nov 2026 12:59:56 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Buna ziua, revenim cu o alta sesizare referitoare la blocul din Scarlat Mares nr.14, unde din cauza lucrarilor de refacere a trotuarelor nu se poate parca in garajele blocului. La blocul din Scarlat Mares nr.25, au mai suplimetat cu asfalt astfel incat sa se poata intra in garaje. Au discutat astazi vecinii mei cu cei care lucreaza la asfaltare dar au spus ca nu este posibil sa faca si la noi acelas lucru. Va rog frumos sa analizati situatia si sa luati masurile care se impun, astfel incat sa putem parca masinile in garaje. Va multumim.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276980</link>
-    <guid isPermaLink="false">CAS-0276980</guid>
-    <pubDate>Thu, 26 Nov 2026 12:58:48 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276979</link>
-    <guid isPermaLink="false">CAS-0276979</guid>
-    <pubDate>Thu, 26 Nov 2026 12:54:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ ZIUA!
-LA ORA 16:25 ,MOMENTUL VERIFICĂRII ,AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ ,
-NU SE AFLA IN LOCAȚIA INDICATĂ CONFORM CODULUI PIN TRANSMIS.</description>
   </item>
 </channel>
 </rss>
