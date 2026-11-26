@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276984</link>
+    <guid isPermaLink="false">CAS-0276984</guid>
+    <pubDate>Thu, 26 Nov 2026 13:14:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 28.07.2027 18:00.  Deține autorizație nominala de parcare pentru  locul 14</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276983</link>
+    <guid isPermaLink="false">CAS-0276983</guid>
+    <pubDate>Thu, 26 Nov 2026 13:13:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-5, precum și pentru zonele B-12,B-14,B-6,</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276977</link>
     <guid isPermaLink="false">CAS-0276977</guid>
@@ -581,26 +597,6 @@ Răspuns: IN LOCATIE  AU  FOST  DISPUSE MASURILE LEGALE </description>
     <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: MARCAJUL GALBEN DE LA SOL SPECIFIC LOCURILOR DE PARCARE NENOMINALE NU MAI ESTE LIZIBIL, FAPT PENTRU CARE PENTRU MOMENT NU SE POT APLICA MASURI LEGALE. AM TRANSMIS CATRE SERVICIUL TRASARI PENTRU REMEDIEREA SITUATIEI .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276578</link>
-    <guid isPermaLink="false">CAS-0276578</guid>
-    <pubDate>Tue, 24 Nov 2026 17:39:42 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA A FOST VERIFICATA LA ORELE 20.20 , AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA LA FATA LOCULUI.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276553</link>
-    <guid isPermaLink="false">CAS-0276553</guid>
-    <pubDate>Tue, 24 Nov 2026 15:45:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: FOTOGRAFIILE ATASATE NU SUNT RELEVANTE, NU REIESE FAPTUL CA AUTOTURISMUL LA CARE SE FACE REFERIRE SE AFLA PE UN LOC DE PARCAR.VA RUGAM SA REVENITI CU O NOUA SESIZARE LA CARE SA ATASATI FOTOGRAFII ATAT ALEAUTOTURISMULUI CAT SI ALE PARCAJULUI LA CARE FACETI REFERIRE</description>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Lucrari edilitare alei/trotuare · Noua · Vitan</title>
+    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276984</link>
+    <guid isPermaLink="false">CAS-0276984</guid>
+    <pubDate>Thu, 26 Nov 2026 13:14:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 28.07.2027 18:00.  Deține autorizație nominala de parcare pentru  locul 14</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276983</link>
+    <guid isPermaLink="false">CAS-0276983</guid>
+    <pubDate>Thu, 26 Nov 2026 13:13:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-5, precum și pentru zonele B-12,B-14,B-6,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276982</link>
+    <guid isPermaLink="false">CAS-0276982</guid>
+    <pubDate>Thu, 26 Nov 2026 13:02:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar la intersectia aleea textilistilor cu Blvd 1 decembrie 1918</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276981</link>
     <guid isPermaLink="false">CAS-0276981</guid>
     <pubDate>Thu, 26 Nov 2026 12:59:56 GMT</pubDate>
@@ -576,37 +600,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată la ora 11.05, în urma verif
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 12.20 autovehiculul la care faceți referire fiind depistat în str. Brățării nr.73 parcat pe un loc nesistematizat și care nu necesită autorizație sau plata tarifului orar. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276924</link>
-    <guid isPermaLink="false">CAS-0276924</guid>
-    <pubDate>Thu, 26 Nov 2026 08:46:59 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua
-Tocmai de a plecati politia locala.
-Proprietara autorismului a iesi .. s-a uitat la dl polițist care venea de pe Aleea s-a conversat cu partenerul langa mașina si cand polița a plecat a plecat si dumneaei.
-Revenim cu rugăminte sa luați masurile necesare .. sunt locuri libere conform pozei .in diagonală B12.
-Deții un autorism plătești parcarea .. parchezi regulamentar.
-Multumesc</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Industriilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276923</link>
-    <guid isPermaLink="false">CAS-0276923</guid>
-    <pubDate>Thu, 26 Nov 2026 08:45:02 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua aș dori să știu și eu dacă vecinul de pe lacul greaca 1A are aprobare de a monta camera de luat vederi pe stâlpul de iluminat amplasat pe drumul public și dacă nu are vă rog frumos să luați măsurile necesare să îl puneți să o dea jos conform Legii 191/2020 și să o monteze la dânsul pe proprietate vă mulțumesc</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276922</link>
-    <guid isPermaLink="false">CAS-0276922</guid>
-    <pubDate>Thu, 26 Nov 2026 08:30:30 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Buna ziua,
-Astazi s-a plantat un copacel langa scara A a blocului 42 de pe calea vitan nr203. Distanta pana la fatada blocului este mai mica de 2 metri ceea ce este o ilegalitate.
-Va rog relocarea copacului peste limita legala.</description>
   </item>
 </channel>
 </rss>
