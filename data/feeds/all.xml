@@ -6,6 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276909</link>
+    <guid isPermaLink="false">CAS-0276909</guid>
+    <pubDate>Thu, 26 Nov 2026 07:28:06 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna ziua. Scriu aceasta solocitare pe care inteleg ca au mai facut-o si alti vecini de-ai mei. Pe Strada Postavarul in spatele blocului E4, cod parcare 153, intre locurile de parcare 58 si 59 se afla un copac foarte uscat, care la cel mai mic vant imprastie crengi peste masini. Acesta reprezinta un pericol, la o furtuna mai mare are riscuri imense de a cadea. Revin cu rugamintea sa veniti sa il analizati si sa luati o masura in acest sens. Multumesc!</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276908</link>
+    <guid isPermaLink="false">CAS-0276908</guid>
+    <pubDate>Thu, 26 Nov 2026 07:19:06 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>Bună ziua
+va rugam sa mai plantați un copac in locul mașinii parcate neregulamentar.
+Se mai poate planta un copac in acea zina asta încât sa avem spatiu verde si sa permita accesul la imobil al salvarii/pompierilor.
+Va multumesc</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276907</link>
     <guid isPermaLink="false">CAS-0276907</guid>
@@ -107,12 +126,14 @@ Va multumim.</description>
     <description>parcare pe trecere de pietoni</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276895</link>
     <guid isPermaLink="false">CAS-0276895</guid>
     <pubDate>Thu, 26 Nov 2026 06:29:13 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 09.15 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
@@ -570,26 +591,6 @@ Răspuns: La fata locului au fost identificate doua persoane de sex masculin . A
 În fiecare zi, mai ales seara și noaptea, pe Aleea Fizicienilor, la locul marcat pe harta, sunt parcate mașini care îngreunează considerabil accesul pe acea străduță cât și manevrele de parcare pe locurile amenajate de primărie.
 
 Răspuns: In urma  verificarilor  efecuate in locatie  au  fost  aplicate  masurile  legale  conform  OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276849</link>
-    <guid isPermaLink="false">CAS-0276849</guid>
-    <pubDate>Wed, 25 Nov 2026 21:01:20 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Bună ziua,
-
-La intersecția străzii Aleea Fizicienilor cu Strada Fizicienilor, în dreptul trecerii de pietoni este un capac de canal (de dimensiune mai mica decât cele de canalizare) instabil. Când trec mașinile peste el își schimba poziția, ajungând inclusiv în poziție verticala sau este împins pe sosea, ceea ce reprezintă un risc de accident. Pietonii sau conducătorii auto îl tot așează pe poziție dar, la următoarea mașină care trece peste el, isi schimba din nou pozitia.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276848</link>
-    <guid isPermaLink="false">CAS-0276848</guid>
-    <pubDate>Wed, 25 Nov 2026 21:00:49 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>
