@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277071</link>
+    <guid isPermaLink="false">CAS-0277071</guid>
+    <pubDate>Thu, 26 Nov 2026 19:23:46 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe Str. Odobești nr. 11, Bl. T1 (în spatele blocului, lângă parc), autoturismul cu nr. B 106 TPI este staționat neregulamentar pe marcajul hașurat de interzicere și pe banda de circulație (peste săgeata de direcție), îngreunând traficul pe alee și blocând accesul (intrarea și ieșirea) la locurile de parcare din zonă.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277070</link>
+    <guid isPermaLink="false">CAS-0277070</guid>
+    <pubDate>Thu, 26 Nov 2026 19:16:57 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe Str. Odobești nr. 11, Bl. T1 (în spatele blocului, lângă parc), autoturismul cu nr. B 106 TPI este staționat neregulamentar pe marcajul hașurat de interzicere și pe banda de circulație (peste săgeata de direcție), îngreunând traficul pe alee și blocând accesul (intrarea și ieșirea) la locurile de parcare din zonă.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277063</link>
     <guid isPermaLink="false">CAS-0277063</guid>
@@ -562,26 +578,6 @@ Strada si parcarea din fata blocului nu au mai fost curățate de 2 luni. Nici i
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Lipsă poză, o zi bună.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276302</link>
-    <guid isPermaLink="false">CAS-0276302</guid>
-    <pubDate>Mon, 23 Nov 2026 11:17:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Bună ziua, locul de parcare reclamat nu este vizibil la sol, ca loc de parcare de reședință nenominal. O zi bună.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276285</link>
-    <guid isPermaLink="false">CAS-0276285</guid>
-    <pubDate>Mon, 23 Nov 2026 09:49:30 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: auto reclamat nu a fost depistat in locatie</description>
   </item>
 </channel>
 </rss>

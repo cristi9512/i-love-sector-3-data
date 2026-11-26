@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277072</link>
+    <guid isPermaLink="false">CAS-0277072</guid>
+    <pubDate>Thu, 26 Nov 2026 19:24:08 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Astazi 26.11 in intervalul orar 10:00÷14:00, deși vremea era bună, pe șantier numerar nimeni. Urgentati finalizarea lucrărilor in zonă.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277062</link>
     <guid isPermaLink="false">CAS-0277062</guid>
@@ -23,20 +31,28 @@ VA ROG LUATI MASURILE LEGALE SI APLICATI AMENZILE NECESARE !!</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 59</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277053</link>
     <guid isPermaLink="false">CAS-0277053</guid>
     <pubDate>Thu, 26 Nov 2026 17:38:08 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: BUNĂ SEARA!
+ PENTRU A PRELUA SI VERIFICA SESIZAREA DUMNEAVOASTRA 
+ESTE NECESARĂ O FOTOGRAFIE CONCLUDENTĂ( LIPSA SISTEMATIZARE).</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277051</link>
     <guid isPermaLink="false">CAS-0277051</guid>
     <pubDate>Thu, 26 Nov 2026 17:36:53 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNĂ SEARA!
+ PENTRU A PRELUA SI VERIFICA SESIZAREA DUMNEAVOASTRA 
+ESTE NECESARĂ O FOTOGRAFIE CONCLUDENTĂ( LIPSA SISTEMATIZARE).</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
@@ -584,16 +600,6 @@ Răspuns: Autoturismului reclamat i s-a aplicat înștiințare. O seară bună.<
     <pubDate>Mon, 23 Nov 2026 16:09:35 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Parcat pe trotuar , faceti ceva cu acest trotuar ,stalpisori bile</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276341</link>
-    <guid isPermaLink="false">CAS-0276341</guid>
-    <pubDate>Mon, 23 Nov 2026 15:30:32 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Deține autorizație nenominala de parcare pentru  zona B-4, precum și pentru zonele A-5,B-1,B-7,B-8,
-
-Răspuns: AUTOTURISMUL NU FACE OBIECTUL SESIZARII</description>
   </item>
 </channel>
 </rss>
