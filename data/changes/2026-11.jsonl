@@ -6881,3 +6881,7 @@
 {"at":"2026-11-26T07:30:45.467Z","ticket":"CAS-0276895","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T07:30:45.467Z","ticket":"CAS-0276895","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-26T07:30:45.467Z","ticket":"CAS-0276895","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 09.15 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022."}
+{"at":"2026-11-26T08:13:16.359Z","ticket":"CAS-0276918","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-26T08:13:16.359Z","ticket":"CAS-0276380","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T08:13:16.359Z","ticket":"CAS-0276380","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-26T08:13:16.359Z","ticket":"CAS-0276380","field":"reply","from":"","to":"In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.           "}
