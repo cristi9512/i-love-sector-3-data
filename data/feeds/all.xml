@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276951</link>
+    <guid isPermaLink="false">CAS-0276951</guid>
+    <pubDate>Thu, 26 Nov 2026 11:12:39 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276950</link>
+    <guid isPermaLink="false">CAS-0276950</guid>
+    <pubDate>Thu, 26 Nov 2026 11:12:25 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>pe locul de parcare nenominal de lângă tomberoanele de gunoi aflate în parcarea dintre Str Codrii Neamțului și Aleea Leorda se află numeroase deșeuri</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276949</link>
+    <guid isPermaLink="false">CAS-0276949</guid>
+    <pubDate>Thu, 26 Nov 2026 11:11:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 12</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276948</link>
     <guid isPermaLink="false">CAS-0276948</guid>
@@ -562,31 +586,6 @@ Camelia Lungu casa 7 A</description>
     <pubDate>Thu, 26 Nov 2026 06:23:48 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masini parcate pe trotuar, str. Agricultori nr 148. va multumim.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276891</link>
-    <guid isPermaLink="false">CAS-0276891</guid>
-    <pubDate>Thu, 26 Nov 2026 06:15:28 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>B33TKN masina parcata pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276890</link>
-    <guid isPermaLink="false">CAS-0276890</guid>
-    <pubDate>Thu, 26 Nov 2026 06:14:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>blocheaza alee pietonala langa gradinita</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276889</link>
-    <guid isPermaLink="false">CAS-0276889</guid>
-    <pubDate>Thu, 26 Nov 2026 06:05:01 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare pe trotuar
-TR 28LCJ</description>
   </item>
 </channel>
 </rss>
