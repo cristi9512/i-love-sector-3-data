@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276945</link>
+    <guid isPermaLink="false">CAS-0276945</guid>
+    <pubDate>Thu, 26 Nov 2026 10:30:40 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mai încerc odată. că văd că durează cu zilele.  mașini parcate pe trotuar. de câteva zile 4-5 la număr. strada Râmnicu Vâlcea 4 -6 în spatele blocului lângă centrala termica.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276891</link>
     <guid isPermaLink="false">CAS-0276891</guid>
@@ -590,16 +598,6 @@ Va mulțumesc!</description>
     <pubDate>Sun, 22 Nov 2026 17:48:24 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>stationare regulamentara. obtursre intrare scara. va rog, luati masuri</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276168</link>
-    <guid isPermaLink="false">CAS-0276168</guid>
-    <pubDate>Sun, 22 Nov 2026 17:33:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - sesizare adresa incompleta / lipsa numar cadastral / imposibilitate luare masuri legale in speta .</description>
   </item>
 </channel>
 </rss>
