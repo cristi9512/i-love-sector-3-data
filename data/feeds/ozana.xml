@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277105</link>
+    <guid isPermaLink="false">CAS-0277105</guid>
+    <pubDate>Thu, 26 Nov 2026 22:44:24 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>În zona aceea, pe trotuar, parchează mașini in mod constant și îngreunează accesul pietonal.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277088</link>
     <guid isPermaLink="false">CAS-0277088</guid>
@@ -682,16 +690,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care 
     <description>Buna dimineața!
 Așa cum am mai sesizat revin la dumneavoastră cu aceeași rugăminte. Dețin locul nominal nr.70 de pe Str Postăvarul nr.17, vis a vis de pizzeria L&apos;incontro. Ieri,în intervalul 6-6:30 dimineața, când voiam să ies din parcare era sa dau peste un biciclist care mergea regulamentar. Si ieșirea mea era regulamentară așa cum se poate observa pe camerele de filmat de pe stradă,dar neavând deloc vizibilitate din cauza celor 3 pubele care se află fix in curbă puse lângă locul meu de parcare era sa dau peste acel biciclist. Rog mutarea lor într-o altă zonă deoarece infrastructura permite acest lucru. Haideți să evităm o tragedie și să mutați acele pubele în alt loc.
 Mulțumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276436</link>
-    <guid isPermaLink="false">CAS-0276436</guid>
-    <pubDate>Tue, 24 Nov 2026 05:49:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Pe viitor, atașați o fotografie din care să reiasă număru autoturismului și tipul de parcaj ocupat.</description>
   </item>
 </channel>
 </rss>
