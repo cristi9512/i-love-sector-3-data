@@ -6,6 +6,34 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277084</link>
+    <guid isPermaLink="false">CAS-0277084</guid>
+    <pubDate>Thu, 26 Nov 2026 20:08:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277083</link>
+    <guid isPermaLink="false">CAS-0277083</guid>
+    <pubDate>Thu, 26 Nov 2026 20:03:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277082</link>
+    <guid isPermaLink="false">CAS-0277082</guid>
+    <pubDate>Thu, 26 Nov 2026 20:03:00 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Buna seara,
+Sunt cetatean cu domiciliul in sector 3 si detin autorizatie de parcare pentru locuri nenominale B13. Locul de munca este la granita dintre sectoarele 2 si 3, si vreau sa imi parchez masina pe calea calarasilor, in special intre intersectiile cu delea noua si cu popa nan. problema este ca pe aceasta portiune nu sunt marcate locurile nenominale si imi este foarte greu sa gasesc un loc. va rog sa retrasati locurile de parcare pentru a fi mai usor de recunoscut locurile nenominale!
+
+
+Multumesc</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277081</link>
     <guid isPermaLink="false">CAS-0277081</guid>
@@ -530,33 +558,6 @@ Multumesc !</description>
     <pubDate>Thu, 26 Nov 2026 16:00:33 GMT</pubDate>
     <category>Altele</category>
     <description>Buna seara! Solicitarea Nr 431674/16.11.2026, nu mai necesită răspuns. Mulțumesc</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277024</link>
-    <guid isPermaLink="false">CAS-0277024</guid>
-    <pubDate>Thu, 26 Nov 2026 15:58:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 25</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277023</link>
-    <guid isPermaLink="false">CAS-0277023</guid>
-    <pubDate>Thu, 26 Nov 2026 15:57:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277022</link>
-    <guid isPermaLink="false">CAS-0277022</guid>
-    <pubDate>Thu, 26 Nov 2026 15:55:48 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună seara !
-Această mașină ,nu deține autorizație de parcare și in fiecare seară este parcată neregulamentar ,pe intrarea blocului .
-Pur și simplu ,nu putem trece cu caruciorul de cumparaturi ,nici cu cel de copii.
-Mulțumesc !</description>
   </item>
 </channel>
 </rss>
