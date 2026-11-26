@@ -6,6 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277014</link>
+    <guid isPermaLink="false">CAS-0277014</guid>
+    <pubDate>Thu, 26 Nov 2026 15:28:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Blocare trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277013</link>
+    <guid isPermaLink="false">CAS-0277013</guid>
+    <pubDate>Thu, 26 Nov 2026 15:20:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Nu se mai poate circula ! 
+Faceti ceva, va rugam !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277012</link>
+    <guid isPermaLink="false">CAS-0277012</guid>
+    <pubDate>Thu, 26 Nov 2026 15:16:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 135 KMI pe loc marcat la sol ca fiind Oprire interzisă str.Agatha Bârsescu bloc V16-V17.  Au fost mai multe sesizări în acest sens.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277011</link>
     <guid isPermaLink="false">CAS-0277011</guid>
@@ -86,12 +111,16 @@
     <description>Stationare neregulamentara</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277001</link>
     <guid isPermaLink="false">CAS-0277001</guid>
     <pubDate>Thu, 26 Nov 2026 14:40:44 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNĂ SEARA!
+LA MOMENTUL VERIFICĂRII,ORA 17:23,
+AUTOTURISMUL RECLAMAT NU SE AFLA IN LOCAȚIA INDICATĂ</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Brățării</title>
@@ -584,38 +613,6 @@ VA MULTUMIM!</description>
 Răspuns: BUNA ZIUA,
 AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 15:54, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.
 VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276952</link>
-    <guid isPermaLink="false">CAS-0276952</guid>
-    <pubDate>Thu, 26 Nov 2026 11:18:36 GMT</pubDate>
-    <category>Străzi</category>
-    <description>O oglindă pentru trafic ar ajuta foarte mult deoarece gunoiul de pe colț în curbă vizibilitatea pentru mașinile care vin din stanga dar și pentru pietonii care pot apărea pe trecere</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276951</link>
-    <guid isPermaLink="false">CAS-0276951</guid>
-    <pubDate>Thu, 26 Nov 2026 11:12:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276950</link>
-    <guid isPermaLink="false">CAS-0276950</guid>
-    <pubDate>Thu, 26 Nov 2026 11:12:25 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>pe locul de parcare nenominal de lângă tomberoanele de gunoi aflate în parcarea dintre Str Codrii Neamțului și Aleea Leorda se află numeroase deșeuri
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă aducem la cunoştinţă faptul că aspectele prezentate au fost transmise echipelor operaționale din teren pentru identificarea şi remedierea aspectelor sesizate, în sensul soluționării acestora.
-
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
-
- </description>
   </item>
 </channel>
 </rss>
