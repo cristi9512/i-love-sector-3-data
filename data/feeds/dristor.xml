@@ -7,6 +7,14 @@
   <language>ro</language>
   <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277060</link>
+    <guid isPermaLink="false">CAS-0277060</guid>
+    <pubDate>Thu, 26 Nov 2026 18:12:03 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 59</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277053</link>
     <guid isPermaLink="false">CAS-0277053</guid>
     <pubDate>Thu, 26 Nov 2026 17:38:08 GMT</pubDate>
@@ -585,14 +593,6 @@ Răspuns: AUTOTURISMUL NU FACE OBIECTUL SESIZARII</description>
     <pubDate>Mon, 23 Nov 2026 14:28:56 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Banda 1 pentru virajul la dreapta este blocat de autoturisme stationate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276276</link>
-    <guid isPermaLink="false">CAS-0276276</guid>
-    <pubDate>Mon, 23 Nov 2026 09:31:45 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara</description>
   </item>
 </channel>
 </rss>
