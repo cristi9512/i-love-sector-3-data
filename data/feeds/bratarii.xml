@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276918</link>
+    <guid isPermaLink="false">CAS-0276918</guid>
+    <pubDate>Thu, 26 Nov 2026 07:59:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua! Aceasta mașină este parcată neregulamentar pe trotuar. Blochează accesul pietonilor pe trotuar, dar și vizibilitatea celor care ies cu mașina din complexul Iram.
+Numărul de înmatriculare este B 201 YNL
+Mulțumesc!</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276827</link>
     <guid isPermaLink="false">CAS-0276827</guid>
@@ -642,17 +652,6 @@ Răspuns: Trimis raspuns TRIMIS RASPUNS Raspunsul a fost trimis prin email catre
     <pubDate>Mon, 09 Nov 2026 18:31:52 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Blocare acces la locurile de parcare</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272812</link>
-    <guid isPermaLink="false">CAS-0272812</guid>
-    <pubDate>Mon, 09 Nov 2026 15:17:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 18:00, însă, autoturismul în cauză nu a mai fost identificat în locație.
-Vă mulțumim!</description>
   </item>
 </channel>
 </rss>
