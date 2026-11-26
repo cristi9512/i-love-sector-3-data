@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277011</link>
+    <guid isPermaLink="false">CAS-0277011</guid>
+    <pubDate>Thu, 26 Nov 2026 15:13:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277007</link>
     <guid isPermaLink="false">CAS-0277007</guid>
@@ -58,20 +66,28 @@ PENTRU A DA CURS SESIZĂRII DUMNEAVOASTRĂ IN MOD EFICIENT ,
 AVEM RUGĂMINTEA SĂ NE TRANSMITEȚI  FOTOGRAFII CONCLUDENTE CU ELEMENTELE DE IDENTIFICARE VIZÂND MARCAJUL LA SOL.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276959</link>
     <guid isPermaLink="false">CAS-0276959</guid>
     <pubDate>Thu, 26 Nov 2026 11:38:43 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA ZIUA, 
+AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 17:08 SESIZAREA NU SE MAI CONFIRMA, AUTOTURISMUL SESIZAT NU SE MAI AFLA IN LOCATIE.
+VA MULTUMIM!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276958</link>
     <guid isPermaLink="false">CAS-0276958</guid>
     <pubDate>Thu, 26 Nov 2026 11:38:05 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA ZIUA, 
+AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 16:47, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.
+VA MULTUMIM!</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -567,16 +583,6 @@ Răspuns: In urma analizarii sesizarii am constatat ca nu sunt atasate fotografi
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTOTURISMUL DETINE ABONAMENT LUNAR</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276278</link>
-    <guid isPermaLink="false">CAS-0276278</guid>
-    <pubDate>Mon, 23 Nov 2026 09:34:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA FATA LOCULUI A FOST IDENTIFICAT CONDUCATORUL AUTO UNDE I S-AU ADUS LA CUNOSTINTA PREVEDERILE LEGALE</description>
   </item>
 </channel>
 </rss>
