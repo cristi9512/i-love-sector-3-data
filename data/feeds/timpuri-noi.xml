@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277030</link>
+    <guid isPermaLink="false">CAS-0277030</guid>
+    <pubDate>Thu, 26 Nov 2026 16:06:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-7, precum și pentru zonele A-3,A-6,A-8,</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276979</link>
     <guid isPermaLink="false">CAS-0276979</guid>
@@ -718,14 +726,6 @@ Referitor la aspectele semnalate, vă comunicăm faptul că situația a fost tra
 Totodată, vom urmări situația semnalată, în vederea identificării măsurilor necesare pentru îmbunătățirea activității de colectare și menținerea curățeniei în zonă.
 
 Cu consideratie, </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276016</link>
-    <guid isPermaLink="false">CAS-0276016</guid>
-    <pubDate>Sat, 21 Nov 2026 22:57:07 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Intersectia Foisorului cu Alexandru Moruzzi Voievod este cu vizibilitate mult redusa dinspre directia Mall Vitan spre Nerva Traian, pentru ca pe partea dreapta, unde este si trecerea de pietoni sunt niste ghivece de beton imense care obstrucționează vizibilitatea. Masinile trebuie sa iasa mult in intersecție jenand restul masinilor.</description>
   </item>
 </channel>
 </rss>

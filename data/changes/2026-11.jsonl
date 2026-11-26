@@ -7335,3 +7335,10 @@
 {"at":"2026-11-26T15:45:37.418Z","ticket":"CAS-0277000","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T15:45:37.418Z","ticket":"CAS-0277000","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-26T15:45:37.418Z","ticket":"CAS-0277000","field":"reply","from":"","to":"Nespecificat Registratura Pe viitor, atașați o fotografie din care să reiasă clar numărul autoturismului și tipul de parcaj ocupat."}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276951","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276951","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276951","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nj se mai află în locația indicată"}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276949","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276949","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0276949","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație."}
+{"at":"2026-11-26T16:15:39.488Z","ticket":"CAS-0277025","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
