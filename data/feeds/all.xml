@@ -6,6 +6,35 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276948</link>
+    <guid isPermaLink="false">CAS-0276948</guid>
+    <pubDate>Thu, 26 Nov 2026 10:54:51 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Așa arată strada la două ore după ce ați făcut curățenie. Vă rog trimiteți echipele cu maturi dacă automatizat nu puteți.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276947</link>
+    <guid isPermaLink="false">CAS-0276947</guid>
+    <pubDate>Thu, 26 Nov 2026 10:50:46 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Străzi murdare de la cifele care ies din santier , aviz de circulație a mașinilor de mare tonaj</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276946</link>
+    <guid isPermaLink="false">CAS-0276946</guid>
+    <pubDate>Thu, 26 Nov 2026 10:46:45 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Bună ziua,
+Locuiesc pe str. Iuliu Barasch și de două luni nu s-a ridicat deloc gunoiul menajer, iar reciclarea o singură dată.
+Nu este vina noastră că suntem singurul imobil de pe strada cu un contract de salubrizare, iar domnii de la ridicare nu doresc să treacă să ridice gunoiul.
+Când am prins o mașină de gunoi menaj pe stradă mi-a refuzat ridicarea pentru că ei sunt doar pt societăți comerciale.
+Dacă nu se poate remedia această situație, voi rezilia contractul de salubritate și voi arunca și eu gunoiul în stradă, fără să mai plătesc un contract de salubritate, așa cum procedează toți vecinii.
+Vă mulțumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276945</link>
     <guid isPermaLink="false">CAS-0276945</guid>
@@ -558,37 +587,6 @@ Camelia Lungu casa 7 A</description>
     <category>Stationare neregulamentara</category>
     <description>parcare pe trotuar
 TR 28LCJ</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276888</link>
-    <guid isPermaLink="false">CAS-0276888</guid>
-    <pubDate>Thu, 26 Nov 2026 06:01:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua 
-Va rugam sa initiati demersurile necesare ridicariivautorizemelor parce neregulamentar pe spatiu verde.
-Nu solocita compost, iarba, arbori, carduri vii ca sa fie distruse.
-Multumim
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 10.25 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform LG 24/2007.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276887</link>
-    <guid isPermaLink="false">CAS-0276887</guid>
-    <pubDate>Thu, 26 Nov 2026 05:59:30 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>...</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276886</link>
-    <guid isPermaLink="false">CAS-0276886</guid>
-    <pubDate>Thu, 26 Nov 2026 05:58:48 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua,
-
-Va aduc la cunostinta prin aceasta sesizare un autoturism parcat neregulamentar in dreptul semnului de oprirea interzisa. In aceasta zona frecvent 2 - 3 autoturisme parcelheaza in acest mod incurcand circulatia.</description>
   </item>
 </channel>
 </rss>
