@@ -6,7 +6,46 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277069</link>
+    <guid isPermaLink="false">CAS-0277069</guid>
+    <pubDate>Thu, 26 Nov 2026 19:12:52 GMT</pubDate>
+    <category>Verificări construcții/Lucrări neautorizate</category>
+    <description>Bună seara,
+
+Vă sesizez executarea unor lucrări de construire a unei împrejmuiri noi, prevăzută cu fundație din beton armat.
+
+Având în vedere că este vorba despre realizarea unei împrejmuiri noi, și nu despre repararea sau înlocuirea uneia existente, vă solicit verificarea:
+
+- Existenței și valabilității autorizației de construire;
+- Respectării documentației tehnice autorizate;
+- Respectării reglementărilor urbanistice aplicabile și a limitelor de proprietate.
+
+În cazul în care lucrările sunt executate fără autorizație de construire sau cu nerespectarea acesteia, vă solicit dispunerea măsurilor legale, inclusiv oprirea lucrărilor, după caz.
+
+Vă rog să îmi comunicați în scris rezultatul verificărilor și măsurile dispuse.
+
+Mulțumesc!</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277068</link>
+    <guid isPermaLink="false">CAS-0277068</guid>
+    <pubDate>Thu, 26 Nov 2026 19:04:39 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminat stradal nefunctional</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277067</link>
+    <guid isPermaLink="false">CAS-0277067</guid>
+    <pubDate>Thu, 26 Nov 2026 19:01:46 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Nici nu s-a finalizat lucrarea cu trotuarul si cu covorul asfaltic și domnul, ca de obicei, singurul de pe toată strada care parcheaza pe trotuar.
+Vă rugăm, luați măsurile legale și atenție la GDPR celor care transmit informații către terți...</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277066</link>
     <guid isPermaLink="false">CAS-0277066</guid>
     <pubDate>Thu, 26 Nov 2026 18:59:56 GMT</pubDate>
@@ -669,41 +708,6 @@ Cu stima, </description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT IN LOCATIE.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275949</link>
-    <guid isPermaLink="false">CAS-0275949</guid>
-    <pubDate>Sat, 21 Nov 2026 14:44:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275849</link>
-    <guid isPermaLink="false">CAS-0275849</guid>
-    <pubDate>Sat, 21 Nov 2026 01:49:38 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275782</link>
-    <guid isPermaLink="false">CAS-0275782</guid>
-    <pubDate>Fri, 20 Nov 2026 18:36:23 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>este blocat trotuarul de un munte de gunoi!! nu mai avem pe unde circula din cauza gunoiului. valabil si pe Str Foisorului si pe Str Calugareni.
-
-Răspuns: Trimis raspuns Buna ziua,
-Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.
-Cu stima,
-
- </description>
   </item>
 </channel>
 </rss>

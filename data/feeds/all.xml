@@ -6,7 +6,46 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277069</link>
+    <guid isPermaLink="false">CAS-0277069</guid>
+    <pubDate>Thu, 26 Nov 2026 19:12:52 GMT</pubDate>
+    <category>Verificări construcții/Lucrări neautorizate</category>
+    <description>Bună seara,
+
+Vă sesizez executarea unor lucrări de construire a unei împrejmuiri noi, prevăzută cu fundație din beton armat.
+
+Având în vedere că este vorba despre realizarea unei împrejmuiri noi, și nu despre repararea sau înlocuirea uneia existente, vă solicit verificarea:
+
+- Existenței și valabilității autorizației de construire;
+- Respectării documentației tehnice autorizate;
+- Respectării reglementărilor urbanistice aplicabile și a limitelor de proprietate.
+
+În cazul în care lucrările sunt executate fără autorizație de construire sau cu nerespectarea acesteia, vă solicit dispunerea măsurilor legale, inclusiv oprirea lucrărilor, după caz.
+
+Vă rog să îmi comunicați în scris rezultatul verificărilor și măsurile dispuse.
+
+Mulțumesc!</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277068</link>
+    <guid isPermaLink="false">CAS-0277068</guid>
+    <pubDate>Thu, 26 Nov 2026 19:04:39 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminat stradal nefunctional</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277067</link>
+    <guid isPermaLink="false">CAS-0277067</guid>
+    <pubDate>Thu, 26 Nov 2026 19:01:46 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Nici nu s-a finalizat lucrarea cu trotuarul si cu covorul asfaltic și domnul, ca de obicei, singurul de pe toată strada care parcheaza pe trotuar.
+Vă rugăm, luați măsurile legale și atenție la GDPR celor care transmit informații către terți...</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277066</link>
     <guid isPermaLink="false">CAS-0277066</guid>
     <pubDate>Thu, 26 Nov 2026 18:59:56 GMT</pubDate>
@@ -497,30 +536,6 @@ MARCAT CORESPUNZĂTOR LA SOL.</description>
     <pubDate>Thu, 26 Nov 2026 15:10:50 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277009</link>
-    <guid isPermaLink="false">CAS-0277009</guid>
-    <pubDate>Thu, 26 Nov 2026 15:05:21 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Sunt full</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277008</link>
-    <guid isPermaLink="false">CAS-0277008</guid>
-    <pubDate>Thu, 26 Nov 2026 14:58:52 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Accesul în bloc blocat de o construcție ilegală instalată fără acordul locatarilor de către doamna Voicu Fănica, care locuiește în chirie la apartamentul nr. 44</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277007</link>
-    <guid isPermaLink="false">CAS-0277007</guid>
-    <pubDate>Thu, 26 Nov 2026 14:53:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 515 PHI blocând accesul pietonilor pe trotuar în special cei cu cărucioare str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
   </item>
 </channel>
 </rss>
