@@ -6,6 +6,19 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276928</link>
+    <guid isPermaLink="false">CAS-0276928</guid>
+    <pubDate>Thu, 26 Nov 2026 09:02:23 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Solicit ridicarea de urgență a deșeurilor voluminoase (saltele, saci cu deseuri) abandonate pe locul meu de parcare nominal nr. 8, situat pe Strada Gura Ialomiței,  nr 7, bloc 8, Sector 3.
+Menționez că situația a fost deja sesizată telefonic la Poliția Locală Sector 3 în data de 25.11, ora 19:00, fiind înregistrată cu nr. 83441, însă până în acest moment deșeurile nu au fost ridicate și locul de parcare este complet blocat.
+Atașez fotografii relevante de la fața locului. Vă rog să dispuneți intervenția echipajului pentru deșeuri voluminoase și eliberarea domeniului public.
+Mulțumesc. 
+Florina Micãle 
+0722638056</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276916</link>
     <guid isPermaLink="false">CAS-0276916</guid>
@@ -58,12 +71,14 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 09.15
 Răspuns: Sesizarea dumneavoastră a fost preluată la ora 07.00 fiind verificate locurile nenominale din bateriile sistematizate în locația indicată prin poziționarea pinului pe hartă și la adresa menționată în text însă autovehiculul la care faceți referire nu a mai fost depistat în locație. În situația în care mai sesizați aspecte de genul celor reclamate vă recomandăm să atașați o planșă foto concludentă care să ne ofere indicii pentru identificarea cât mai exactă a locației în vedera unei soluționări favorabile.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276866</link>
     <guid isPermaLink="false">CAS-0276866</guid>
     <pubDate>Thu, 26 Nov 2026 03:19:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>masini parcate pe spatiul verde</description>
+    <description>masini parcate pe spatiul verde
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 10.50 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform LG 24/2007.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
@@ -630,14 +645,6 @@ Răspuns: IN URMA VERIFICARILOR EFEECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU
     <pubDate>Mon, 23 Nov 2026 17:45:19 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>Buna seara am făcut și eu o sesizare către dvs și nu sa rezolvat nimic cu crengile de la pom fiind uscate și poate produce pagube dacă se rupe este deasupra mașini mele . Va rog dacă se poate lua măsuri ... Vă mulțumesc anticipat.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276375</link>
-    <guid isPermaLink="false">CAS-0276375</guid>
-    <pubDate>Mon, 23 Nov 2026 17:11:32 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat stradal nefunctional - se strang drocatii la scara din cauza aceasta.</description>
   </item>
 </channel>
 </rss>
