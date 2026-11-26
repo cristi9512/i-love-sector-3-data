@@ -6799,3 +6799,12 @@
 {"at":"2026-11-26T01:01:01.779Z","ticket":"CAS-0276806","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T01:01:01.779Z","ticket":"CAS-0276806","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-26T01:01:01.779Z","ticket":"CAS-0276806","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor efectuate in locatie, autoturismul a fost identificat fiind dispusa masura ridicarii."}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276860","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276860","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276860","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul in cauza a fost identificat in locatie fiind intocmite documentele in vederea luarii masurilor legale."}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276797","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276797","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276797","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul in cauza nu a fost identificat in locatie."}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul in cauza nu a fost identificat in locatie."}
