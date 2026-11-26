@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276991</link>
+    <guid isPermaLink="false">CAS-0276991</guid>
+    <pubDate>Thu, 26 Nov 2026 14:02:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276990</link>
     <guid isPermaLink="false">CAS-0276990</guid>
@@ -95,12 +103,14 @@ Răspuns: Lipsă fotografie necesară verificării și soluționării sesizării
     <description>Buna ziua, revenim cu o alta sesizare referitoare la blocul din Scarlat Mares nr.14, unde din cauza lucrarilor de refacere a trotuarelor nu se poate parca in garajele blocului. La blocul din Scarlat Mares nr.25, au mai suplimetat cu asfalt astfel incat sa se poata intra in garaje. Au discutat astazi vecinii mei cu cei care lucreaza la asfaltare dar au spus ca nu este posibil sa faca si la noi acelas lucru. Va rog frumos sa analizati situatia si sa luati masurile care se impun, astfel incat sa putem parca masinile in garaje. Va multumim.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276980</link>
     <guid isPermaLink="false">CAS-0276980</guid>
     <pubDate>Thu, 26 Nov 2026 12:58:48 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
@@ -599,15 +609,6 @@ Răspuns: AUTO IN CAUZA ESTE PARCAT PE CAROSABIL DAR,NU ESTE PARCAT PE UN LOC DE
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 18
 
 Răspuns: AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276929</link>
-    <guid isPermaLink="false">CAS-0276929</guid>
-    <pubDate>Thu, 26 Nov 2026 09:31:02 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua!
-va rog sa veniti sa taiti cei 3 arbori din fata locului de parcare nr 105. este a 4 solicitare facuta si mereu ati spus ca veniti nu s-a intamplat nimic.</description>
   </item>
 </channel>
 </rss>
