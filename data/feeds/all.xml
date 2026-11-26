@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276936</link>
+    <guid isPermaLink="false">CAS-0276936</guid>
+    <pubDate>Thu, 26 Nov 2026 09:54:01 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina stationata de 2 zile pe strada in intersectie</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276935</link>
     <guid isPermaLink="false">CAS-0276935</guid>
@@ -290,12 +298,14 @@ Va multumesc</description>
     <description>Va rog frumos sa dispuneți înlocuirea becului ars de pe stalp din dreptul curții de pe strada Hasmas nr 35</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276906</link>
     <guid isPermaLink="false">CAS-0276906</guid>
     <pubDate>Thu, 26 Nov 2026 07:05:06 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 11.40 autovehiculul la care faceți referire nefiind depistat în locația indicată de dumneavoastră prin poziționarea pinului pe hartă - bd. Th. Pallady nr.7 - ci în fața blocului M29A din str. Zemeș nr.3 parcat pe un loc nesistematizat și care nu necesită autorizație sau plata tarifului orar. </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -562,14 +572,6 @@ Răspuns: Referitor la sesizarea dumnevoastra, politistii locali din cadrul Serv
     <pubDate>Thu, 26 Nov 2026 05:23:46 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>autovehicule parcate in interiorul intersectie blocand accesul pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276876</link>
-    <guid isPermaLink="false">CAS-0276876</guid>
-    <pubDate>Thu, 26 Nov 2026 05:22:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate neregulamentar, locurile b7 sunt libere</description>
   </item>
 </channel>
 </rss>
