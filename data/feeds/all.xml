@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276873</link>
+    <guid isPermaLink="false">CAS-0276873</guid>
+    <pubDate>Thu, 26 Nov 2026 05:04:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto B123CIL staționează neregulamentar pe trotuar, forțează pietonii să intre pe carosabil. rog măsuri</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276872</link>
+    <guid isPermaLink="false">CAS-0276872</guid>
+    <pubDate>Thu, 26 Nov 2026 05:04:20 GMT</pubDate>
+    <category>Străzi</category>
+    <description>La giratoriul de la Victor Brauner cu Crivățului, la calea ferată, pe carosabil e mult pietriș. Pericol pt auto.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276871</link>
     <guid isPermaLink="false">CAS-0276871</guid>
@@ -14,20 +30,24 @@
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276870</link>
     <guid isPermaLink="false">CAS-0276870</guid>
     <pubDate>Thu, 26 Nov 2026 04:07:55 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: VA RUGAM REVENITI CU O NOUĂ SESIZARE LA CARE SA ATASATI SI UN NUMAR DE TELEFON PENTRU A PUTEA FI CONTACTAT CAND AJUNGEM IN LOCATIE ,DEOARECE TREBUIE SA NE PREZENTATI DOCUMENTELE SI AUTORIZATIA LOCULUI DE PARCARE.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276869</link>
     <guid isPermaLink="false">CAS-0276869</guid>
     <pubDate>Thu, 26 Nov 2026 04:06:41 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: VA RUGAM REVENITI CU O NOUĂ SESIZARE LA CARE SA ATASATI SI UN NUMAR DE TELEFON PENTRU A PUTEA FI CONTACTAT CAND AJUNGEM IN LOCATIE ,DEOARECE TREBUIE SA NE PREZENTATI DOCUMENTELE SI AUTORIZATIA LOCULUI DE PARCARE.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
@@ -737,24 +757,6 @@ Răspuns: Sesizarea dumneavoastră  fost verificată, pentru autoturismul la car
     <category>Stationare neregulamentara</category>
     <description>Nesimțire, strada e în lucru abia este loc și aici parchează mereu, să nu putem ieși din curte .
 și fix sub semnul de oprire interzis</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Industriilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276813</link>
-    <guid isPermaLink="false">CAS-0276813</guid>
-    <pubDate>Wed, 25 Nov 2026 18:59:39 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua, am doua sesizari facute la dumneavoastra, ambele le-ati solutionat dar nu a fost luata nici o masura din cele solicitate, va rog sa imi spuneti cand se poate implementa cele solicitate, de la cele doua solicitari transmise si incheiate ca si sesizari rezolvate a trecut mai bine de un an de zile dar nu a fost rezolvata speta in cauza, va rog sa imi transmiteti cand se poate implementa?</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276812</link>
-    <guid isPermaLink="false">CAS-0276812</guid>
-    <pubDate>Wed, 25 Nov 2026 18:51:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>B989SBR acest autoturism este oprit/parcat neregulamentar la coltul blocului, intr-o zona in care afecteaza vizibilitatea la iesirea din spatele blocului in drumul principal.
-Consider ca situatia prezinta un risc real pentru siguranta circulatiei, deoarece conducatorii auto care ies in drumul principal nu au vizibilitate suficienta asupra traficului. 
-Această situație se întâlnește mod frecvent cu acest loc unde parchează multe vehicule motiv pentru care rog să aibă în vedere demersurile necesare ca locul să nu mai poată fi ocupat de vehicule</description>
   </item>
 </channel>
 </rss>
