@@ -7413,3 +7413,6 @@
 {"at":"2026-11-26T18:45:36.700Z","ticket":"CAS-0269814","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T18:45:36.700Z","ticket":"CAS-0269814","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-26T18:45:36.700Z","ticket":"CAS-0269814","field":"reply","from":"","to":"Declinat competenta Adresa catre CMIPB + spre știință petent Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-26T19:01:00.768Z","ticket":"CAS-0277003","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T19:01:00.768Z","ticket":"CAS-0277003","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T19:01:00.768Z","ticket":"CAS-0277003","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire nu se mai află în locație."}

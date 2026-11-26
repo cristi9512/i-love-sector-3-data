@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277063</link>
+    <guid isPermaLink="false">CAS-0277063</guid>
+    <pubDate>Thu, 26 Nov 2026 18:53:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277058</link>
     <guid isPermaLink="false">CAS-0277058</guid>
@@ -574,17 +582,6 @@ Răspuns: Bună ziua, locul de parcare reclamat nu este vizibil la sol, ca loc d
     <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: auto reclamat nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276253</link>
-    <guid isPermaLink="false">CAS-0276253</guid>
-    <pubDate>Mon, 23 Nov 2026 07:03:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună dimineața! 
-O nouă săptămână un nou blocaj al tritoarulu cu acces spre grădiniță !
-
-În fiecare dimineață întâmpinăm probleme la aceste trepte … vă rog luați măsuri.</description>
   </item>
 </channel>
 </rss>
