@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276889</link>
+    <guid isPermaLink="false">CAS-0276889</guid>
+    <pubDate>Thu, 26 Nov 2026 06:05:01 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe trotuar
+TR 28LCJ</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276826</link>
     <guid isPermaLink="false">CAS-0276826</guid>
@@ -692,17 +701,6 @@ AUTOTURISMUL RECLAMAT NU SE AFLA IN LOCAȚIA INDICATĂ (CONFORM CODULUI PIN TRAN
 Răspuns: BUNĂ ZIUA!
 AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ,
  NU SE AFLA IN LOCAȚIA INDICATĂ ,POTRIVIT ADRESEI,  LA ORA 12:06.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275851</link>
-    <guid isPermaLink="false">CAS-0275851</guid>
-    <pubDate>Sat, 21 Nov 2026 05:30:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ ZIUA!
-AUTOTURISMUL PE CARE L-ATI RECLAMAT  ARE TARIF ORAR PLĂTIT.</description>
   </item>
 </channel>
 </rss>
