@@ -7285,3 +7285,28 @@
 {"at":"2026-11-26T14:30:50.349Z","ticket":"CAS-0276975","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T14:30:50.349Z","ticket":"CAS-0276975","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-26T14:30:50.349Z","ticket":"CAS-0276975","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nAM APLICAT INSTIINTARE PENTRU AUTOTURISMUL RECLAMAT."}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276998","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276978","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276978","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276978","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nLA ORA 16:30,MOMENTUL VERIFICĂRII ,AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ ,\nNU SE AFLA IN LOCAȚIA INDICATĂ CONFORM CODULUI PIN TRANSMIS."}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276979","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276979","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276979","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nLA ORA 16:25 ,MOMENTUL VERIFICĂRII ,AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ ,\nNU SE AFLA IN LOCAȚIA INDICATĂ CONFORM CODULUI PIN TRANSMIS."}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276957","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276957","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276957","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire nu se mai află în locație."}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276991","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276991","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276991","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nPENTRU A DA CURS SESIZĂRII DUMNEAVOASTRĂ IN MOD EFICIENT ,\nAVEM RUGĂMINTEA SĂ NE TRANSMITEȚI  FOTOGRAFII CONCLUDENTE CU ELEMENTELE DE IDENTIFICARE VIZÂND MARCAJUL LA SOL."}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276956","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276956","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276956","field":"reply","from":"","to":"Nespecificat Registratura BUNA ZIUA,\nAM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 16:17, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.\nVA MULTUMIM!"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276953","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276953","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276953","field":"reply","from":"","to":"Nespecificat Registratura BUNA ZIUA,\nAM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 15:54, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.\nVA MULTUMIM!"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276954","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276954","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276954","field":"reply","from":"","to":"Nespecificat Registratura BUNA ZIUA,\nAM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 16:07, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.\nVA MULTUMIM!"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276955","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276955","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T14:45:36.551Z","ticket":"CAS-0276955","field":"reply","from":"","to":"Nespecificat Registratura BUNA ZIUA,\nAM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 16:00, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.\nVA MULTUMIM!"}

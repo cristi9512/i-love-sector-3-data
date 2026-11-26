@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276999</link>
+    <guid isPermaLink="false">CAS-0276999</guid>
+    <pubDate>Thu, 26 Nov 2026 14:37:16 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>blocheaza alee pietonala langa gradinita</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276995</link>
     <guid isPermaLink="false">CAS-0276995</guid>
@@ -98,12 +106,14 @@ Constantin Gheorghe			Popa Laurentiu</description>
     <description>Creati sens unic dinspre strada rasinari spre strada Ion Agarbiceanu pentru a fluidiza traficul auto si a crea locuri de parcare noi la borduri.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276957</link>
     <guid isPermaLink="false">CAS-0276957</guid>
     <pubDate>Thu, 26 Nov 2026 11:35:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 30</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 30
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire nu se mai află în locație.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
@@ -588,16 +598,6 @@ Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma v
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276598</link>
-    <guid isPermaLink="false">CAS-0276598</guid>
-    <pubDate>Tue, 24 Nov 2026 19:08:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si  aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>
