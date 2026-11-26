@@ -6,6 +6,36 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277055</link>
+    <guid isPermaLink="false">CAS-0277055</guid>
+    <pubDate>Thu, 26 Nov 2026 17:40:29 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate pe mijlocul strazi !!supa ce ca este parcare pe mijlocul strazi au mai și dublat parcarea !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277050</link>
+    <guid isPermaLink="false">CAS-0277050</guid>
+    <pubDate>Thu, 26 Nov 2026 17:34:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua,
+
+Vă sesizez parcarea neregulamentară a unui microbuz pe trotuarul situat pe strada Mircea voda 40 între blocurile M11 si m14.
+
+Consider inadmisibil ca trotuarele, destinate circulației pietonilor, să fie transformate în locuri de parcare, cu atât mai mult pentru autovehicule de asemenea dimensiuni.
+
+Dreptul pietonilor de a circula în siguranță nu ar trebui să fie condiționat de nevoia conducătorilor auto de a găsi un loc de parcare.
+
+Vă solicit să verificați situația, să aplicați sancțiunile legale și să luați măsurile necesare pentru eliberarea trotuarului și prevenirea repetării unor astfel de situații.
+
+Atașez fotografii în care se poate observa autovehiculul și numărul de înmatriculare.
+
+Vă rog să îmi comunicați măsurile dispuse în urma acestei sesizări.
+
+Vă mulțumesc!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277041</link>
     <guid isPermaLink="false">CAS-0277041</guid>
@@ -703,22 +733,6 @@ Comunicarea unui calendar</description>
     <pubDate>Sun, 22 Nov 2026 05:58:28 GMT</pubDate>
     <category>Străzi</category>
     <description>Lumina nu se aprinde noaptea</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276029</link>
-    <guid isPermaLink="false">CAS-0276029</guid>
-    <pubDate>Sun, 22 Nov 2026 05:57:40 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Lumina nu se aprinde</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276028</link>
-    <guid isPermaLink="false">CAS-0276028</guid>
-    <pubDate>Sun, 22 Nov 2026 05:55:52 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Bună dimineața am mai făcut o sesizare pentru acest părculeț să se ia măsuri să se pună lumină în părculețul acesta este foarte întuneric.</description>
   </item>
 </channel>
 </rss>

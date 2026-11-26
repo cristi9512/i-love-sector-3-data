@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277054</link>
+    <guid isPermaLink="false">CAS-0277054</guid>
+    <pubDate>Thu, 26 Nov 2026 17:38:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277052</link>
+    <guid isPermaLink="false">CAS-0277052</guid>
+    <pubDate>Thu, 26 Nov 2026 17:37:33 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277044</link>
     <guid isPermaLink="false">CAS-0277044</guid>
@@ -94,12 +110,14 @@
     <description>blocheaza alee pietonala langa gradinita</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276995</link>
     <guid isPermaLink="false">CAS-0276995</guid>
     <pubDate>Thu, 26 Nov 2026 14:18:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
@@ -565,26 +583,6 @@ Sunt necesare 2 foi de gard și ptr ca este in zona, la bl c5, o echipa care mon
 Eu nu am văzut și nici locatarii sc 9 nu au știut ca trebuie cerere.
 Cred ca dacă nu se montează acum nu o sa mai trimiteți o echipa ptr doar 2 foi de gard.
 mulțumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276657</link>
-    <guid isPermaLink="false">CAS-0276657</guid>
-    <pubDate>Wed, 25 Nov 2026 06:53:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: VĂ RUGĂM REVENIȚI CU O NOUĂ SESIZARE,LA CARE SĂ ATAȘAȚI MINIM O FOTOGRAFIE,DIN CARE SĂ REIASĂ TIPUL DE PARCARE DE REȘEDINȚĂ,CÂT ȘI NUMARUL DE INMATRICULARE AL AUTOVEHICULULUI CARE IL OCUPĂ.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276653</link>
-    <guid isPermaLink="false">CAS-0276653</guid>
-    <pubDate>Wed, 25 Nov 2026 06:36:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 09.40 autovehiculul la care faceți referire nemaifiind depistat în locație.</description>
   </item>
 </channel>
 </rss>
