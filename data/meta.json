@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-26T11:45:35.768Z",
-  "lastChange": "2026-11-26T11:45:35.768Z",
+  "lastRun": "2026-11-26T12:00:58.048Z",
+  "lastChange": "2026-11-26T12:00:58.048Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2763,
-    "added": 7,
-    "updated": 3,
+    "fetched": 2671,
+    "added": 1,
+    "updated": 9,
     "removed": 0,
-    "changes": 9
+    "changes": 26
   },
   "totals": {
-    "incidents": 47570,
-    "open": 2215,
+    "incidents": 47571,
+    "open": 2207,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-26T11:45:35.768Z",
+    "asOf": "2026-11-26T12:00:58.048Z",
     "days": 30,
-    "open": 2215,
-    "total": 214,
+    "open": 2207,
+    "total": 215,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -37,12 +37,12 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 57,
+        "open": 56,
         "n": 11
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 184,
+        "open": 183,
         "n": 14
       },
       "5": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 101,
+        "open": 99,
         "n": 4
       },
       "7": {
@@ -62,17 +62,17 @@
       },
       "9": {
         "name": "Altele",
-        "open": 217,
+        "open": 216,
         "n": 13
       },
       "10": {
         "name": "Străzi",
-        "open": 399,
-        "n": 32
+        "open": 397,
+        "n": 33
       },
       "11": {
         "name": "Parcuri",
-        "open": 49,
+        "open": 48,
         "n": 6
       },
       "12": {
