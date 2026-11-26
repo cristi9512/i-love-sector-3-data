@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276864</link>
+    <guid isPermaLink="false">CAS-0276864</guid>
+    <pubDate>Thu, 26 Nov 2026 00:21:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul H........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276863</link>
     <guid isPermaLink="false">CAS-0276863</guid>
@@ -715,16 +723,6 @@ Răspuns: Am preluat si verificat sesizarea dumneavoastra la ora 22:25 . Autotur
     <pubDate>Wed, 25 Nov 2026 18:26:59 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276804</link>
-    <guid isPermaLink="false">CAS-0276804</guid>
-    <pubDate>Wed, 25 Nov 2026 18:26:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Autoturismul in cauza a fost identificat in locatie fiind intocmite documentele in vederea luarii masurilor legale.</description>
   </item>
 </channel>
 </rss>
