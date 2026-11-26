@@ -6808,3 +6808,9 @@
 {"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-26T01:15:46.551Z","ticket":"CAS-0276805","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul in cauza nu a fost identificat in locatie."}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276857","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276857","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276857","field":"reply","from":"","to":"Nespecificat Registratura Corelata cu sesizarea 444559."}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276859","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276859","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T01:30:46.794Z","ticket":"CAS-0276859","field":"reply","from":"","to":"Nespecificat Registratura Corelata cu sesizarea 444559."}
