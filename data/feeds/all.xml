@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276871</link>
+    <guid isPermaLink="false">CAS-0276871</guid>
+    <pubDate>Thu, 26 Nov 2026 04:25:48 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276870</link>
     <guid isPermaLink="false">CAS-0276870</guid>
@@ -747,16 +755,6 @@ Răspuns: Sesizarea dumneavoastră  fost verificată, pentru autoturismul la car
     <description>B989SBR acest autoturism este oprit/parcat neregulamentar la coltul blocului, intr-o zona in care afecteaza vizibilitatea la iesirea din spatele blocului in drumul principal.
 Consider ca situatia prezinta un risc real pentru siguranta circulatiei, deoarece conducatorii auto care ies in drumul principal nu au vizibilitate suficienta asupra traficului. 
 Această situație se întâlnește mod frecvent cu acest loc unde parchează multe vehicule motiv pentru care rog să aibă în vedere demersurile necesare ca locul să nu mai poată fi ocupat de vehicule</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276811</link>
-    <guid isPermaLink="false">CAS-0276811</guid>
-    <pubDate>Wed, 25 Nov 2026 18:49:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>ocupare abuziva loc parcare nominal
-
-Răspuns: Am preluat si verificat sesizarea dumneavoastra la ora 22:25 . Autoturismul reclamat nu se mai afla in locatie. Pe viitor , va indrumam , daca aveti locul de parcare nominal ocupat , pentru care detineti autorizatie , sa efectuati sesizare telefonica pentru ca echipajul sa prioritizeze sesizarea . Va multumim ! </description>
   </item>
 </channel>
 </rss>
