@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276990</link>
+    <guid isPermaLink="false">CAS-0276990</guid>
+    <pubDate>Thu, 26 Nov 2026 13:53:07 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276989</link>
     <guid isPermaLink="false">CAS-0276989</guid>
@@ -111,12 +119,14 @@ Răspuns: Lipsă fotografie necesară verificării și soluționării sesizării
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 1</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276977</link>
     <guid isPermaLink="false">CAS-0276977</guid>
     <pubDate>Thu, 26 Nov 2026 12:49:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -598,25 +608,6 @@ Răspuns: AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE LA MOMENTUL VERIFICARII</descr
     <category>Toaletare/Tăiere arbori</category>
     <description>Buna ziua!
 va rog sa veniti sa taiti cei 3 arbori din fata locului de parcare nr 105. este a 4 solicitare facuta si mereu ati spus ca veniti nu s-a intamplat nimic.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276928</link>
-    <guid isPermaLink="false">CAS-0276928</guid>
-    <pubDate>Thu, 26 Nov 2026 09:02:23 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Solicit ridicarea de urgență a deșeurilor voluminoase (saltele, saci cu deseuri) abandonate pe locul meu de parcare nominal nr. 8, situat pe Strada Gura Ialomiței,  nr 7, bloc 8, Sector 3.
-Menționez că situația a fost deja sesizată telefonic la Poliția Locală Sector 3 în data de 25.11, ora 19:00, fiind înregistrată cu nr. 83441, însă până în acest moment deșeurile nu au fost ridicate și locul de parcare este complet blocat.
-Atașez fotografii relevante de la fața locului. Vă rog să dispuneți intervenția echipajului pentru deșeuri voluminoase și eliberarea domeniului public.
-Mulțumesc. 
-Florina Micãle 
-0722638056
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă aducem la cunoştinţă faptul că aspectele prezentate au fost soluţionate de către echipele operaţionale din teren, conform competenţelor instituţiei noastre, astfel cum se poate observa din materialul foto anexat.
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
- Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>
