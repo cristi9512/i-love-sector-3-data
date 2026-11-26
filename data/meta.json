@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-26T14:45:36.551Z",
-  "lastChange": "2026-11-26T14:45:36.551Z",
+  "lastRun": "2026-11-26T15:01:01.062Z",
+  "lastChange": "2026-11-26T15:01:01.062Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2679,
-    "added": 6,
-    "updated": 9,
+    "fetched": 2501,
+    "added": 4,
+    "updated": 3,
     "removed": 0,
-    "changes": 25
+    "changes": 6
   },
   "totals": {
-    "incidents": 47610,
-    "open": 2143,
+    "incidents": 47614,
+    "open": 2145,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-26T14:45:36.551Z",
+    "asOf": "2026-11-26T15:01:01.062Z",
     "days": 30,
-    "open": 2143,
-    "total": 199,
+    "open": 2145,
+    "total": 198,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 48,
+        "open": 49,
         "n": 7
       },
       "3": {
@@ -57,13 +57,13 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 29,
+        "open": 30,
         "n": 6
       },
       "9": {
         "name": "Altele",
         "open": 210,
-        "n": 11
+        "n": 12
       },
       "10": {
         "name": "Străzi",
@@ -107,8 +107,8 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 16,
-        "n": 2
+        "open": 15,
+        "n": 1
       },
       "19": {
         "name": "Ordine și liniște publică",
@@ -117,8 +117,8 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 25,
-        "n": 1
+        "open": 24,
+        "n": 0
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 691,
+        "open": 693,
         "n": 2
       },
       "32": {

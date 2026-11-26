@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277007</link>
+    <guid isPermaLink="false">CAS-0277007</guid>
+    <pubDate>Thu, 26 Nov 2026 14:53:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 515 PHI blocând accesul pietonilor pe trotuar în special cei cu cărucioare str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277006</link>
+    <guid isPermaLink="false">CAS-0277006</guid>
+    <pubDate>Thu, 26 Nov 2026 14:51:53 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 190 SOS în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277004</link>
     <guid isPermaLink="false">CAS-0277004</guid>
     <pubDate>Thu, 26 Nov 2026 14:45:28 GMT</pubDate>
@@ -561,27 +577,6 @@ Răspuns: AUTOTURISMUL DETINE ABONAMENT LUNAR</description>
     <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LA FATA LOCULUI A FOST IDENTIFICAT CONDUCATORUL AUTO UNDE I S-AU ADUS LA CUNOSTINTA PREVEDERILE LEGALE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276251</link>
-    <guid isPermaLink="false">CAS-0276251</guid>
-    <pubDate>Mon, 23 Nov 2026 06:54:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez parcarea neregulamentară a autoturismelor pe zona hașurată din fața ghenei de gunoi, pe strada Theodor Speranția, blocând accesul necesar colectării deșeurilor, deși există indicatoare vizibile de interzicere a parcării.
-
-Vă solicit verificarea situației, dispunerea măsurilor legale și asigurarea accesului permanent la ghena de gunoi.
-Anexez fotografii justificative.
-
-Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276240</link>
-    <guid isPermaLink="false">CAS-0276240</guid>
-    <pubDate>Mon, 23 Nov 2026 05:50:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 361 CAT blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.</description>
   </item>
 </channel>
 </rss>
