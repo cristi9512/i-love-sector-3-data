@@ -7441,3 +7441,6 @@
 {"at":"2026-11-26T20:00:56.583Z","ticket":"CAS-0260936","field":"status","from":"O","to":"C"}
 {"at":"2026-11-26T20:00:56.583Z","ticket":"CAS-0260936","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
 {"at":"2026-11-26T20:00:56.583Z","ticket":"CAS-0260936","field":"reply","from":"","to":"Nespecificat Registratura Echipa din teren"}
+{"at":"2026-11-26T20:45:34.658Z","ticket":"CAS-0254289","field":"status","from":"O","to":"C"}
+{"at":"2026-11-26T20:45:34.658Z","ticket":"CAS-0254289","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-26T20:45:34.658Z","ticket":"CAS-0254289","field":"reply","from":"","to":"Declinat competenta Trimis raspuns Raspunsul a fost trimis prin email catre cetatean."}
