@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
-    <title>Animale de companie · Noua · Vitan</title>
+    <title>Trasare parcare · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276880</link>
+    <guid isPermaLink="false">CAS-0276880</guid>
+    <pubDate>Thu, 26 Nov 2026 05:31:44 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Masini parcate pe trotuat. Pietonii nu au pe unde sa circule in siguranta</description>
+  </item>
+  <item>
+    <title>Animale de companie · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276879</link>
     <guid isPermaLink="false">CAS-0276879</guid>
     <pubDate>Thu, 26 Nov 2026 05:30:00 GMT</pubDate>
@@ -673,16 +681,6 @@ Multumesc !</description>
     <pubDate>Fri, 20 Nov 2026 12:19:04 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masina parcata neregulamentar care blocheaza accesul pe loc de parcare nenominal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275579</link>
-    <guid isPermaLink="false">CAS-0275579</guid>
-    <pubDate>Fri, 20 Nov 2026 05:57:55 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto care blochează accesul in locul de parcare nenominal ,
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
 </channel>
 </rss>
