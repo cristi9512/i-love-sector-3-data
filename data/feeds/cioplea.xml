@@ -6,7 +6,16 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277058</link>
+    <guid isPermaLink="false">CAS-0277058</guid>
+    <pubDate>Thu, 26 Nov 2026 17:54:42 GMT</pubDate>
+    <category>Altele</category>
+    <description>Bună seara
+Pe Bd. Râmnicu Sărat nr. 25, chiar la trecerea de pietoni nu este lumina, iar în sensul giratorui puteți verifica că sunt mai mulți stâlpi cu probleme.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277056</link>
     <guid isPermaLink="false">CAS-0277056</guid>
     <pubDate>Thu, 26 Nov 2026 17:44:39 GMT</pubDate>
@@ -576,14 +585,6 @@ Răspuns: auto reclamat nu a fost depistat in locatie</description>
 O nouă săptămână un nou blocaj al tritoarulu cu acces spre grădiniță !
 
 În fiecare dimineață întâmpinăm probleme la aceste trepte … vă rog luați măsuri.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276250</link>
-    <guid isPermaLink="false">CAS-0276250</guid>
-    <pubDate>Mon, 23 Nov 2026 06:45:24 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>.</description>
   </item>
 </channel>
 </rss>

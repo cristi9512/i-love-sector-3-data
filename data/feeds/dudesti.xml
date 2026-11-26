@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277057</link>
+    <guid isPermaLink="false">CAS-0277057</guid>
+    <pubDate>Thu, 26 Nov 2026 17:47:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina din sesisarea anterioara nu a fost mutata, blocheaza in continuare accesul in garaj. Solicit ridicarea acestui vehicol</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277033</link>
     <guid isPermaLink="false">CAS-0277033</guid>
@@ -584,14 +592,6 @@ Răspuns: IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE</
     <pubDate>Mon, 23 Nov 2026 11:07:01 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>masina parcata in fata trecerii de pietoni pe zona hasurata</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276292</link>
-    <guid isPermaLink="false">CAS-0276292</guid>
-    <pubDate>Mon, 23 Nov 2026 10:26:22 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>De luni de zile,mai este puțin și face un an de zile acest autoturism parchează la întrarea din spatele blocului D19A,Caloian Județu 8,dar la sesizările anterioare răspunsul a fost,închisă rezolvată favorabil,sau mai bine spus așteptăm sărbătorile de iarnă.</description>
   </item>
 </channel>
 </rss>
