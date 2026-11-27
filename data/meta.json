@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T13:15:42.592Z",
-  "lastChange": "2026-11-27T13:15:42.592Z",
+  "lastRun": "2026-11-27T13:30:57.126Z",
+  "lastChange": "2026-11-27T13:30:57.126Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2790,
-    "added": 2,
-    "updated": 1,
+    "fetched": 2585,
+    "added": 1,
+    "updated": 2,
     "removed": 0,
-    "changes": 1
+    "changes": 6
   },
   "totals": {
-    "incidents": 47818,
-    "open": 2144,
+    "incidents": 47819,
+    "open": 2143,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T13:15:42.592Z",
+    "asOf": "2026-11-27T13:30:57.126Z",
     "days": 30,
-    "open": 2144,
-    "total": 181,
+    "open": 2143,
+    "total": 180,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 160,
-        "n": 9
+        "open": 159,
+        "n": 8
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 205,
+        "open": 206,
         "n": 9
       },
       "10": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 732,
+        "open": 731,
         "n": 2
       },
       "32": {
