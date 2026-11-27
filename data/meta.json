@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T06:30:48.938Z",
-  "lastChange": "2026-11-27T06:30:48.938Z",
+  "lastRun": "2026-11-27T06:45:35.867Z",
+  "lastChange": "2026-11-27T06:45:35.867Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2641,
-    "added": 6,
-    "updated": 0,
+    "fetched": 2364,
+    "added": 2,
+    "updated": 4,
     "removed": 0,
-    "changes": 0
+    "changes": 12
   },
   "totals": {
-    "incidents": 47737,
-    "open": 2159,
+    "incidents": 47739,
+    "open": 2157,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T06:30:48.938Z",
+    "asOf": "2026-11-27T06:45:35.867Z",
     "days": 30,
-    "open": 2159,
-    "total": 199,
+    "open": 2157,
+    "total": 197,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 37,
+        "open": 36,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 101,
+        "open": 102,
         "n": 4
       },
       "7": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 208,
+        "open": 207,
         "n": 12
       },
       "10": {
@@ -102,8 +102,8 @@
       },
       "17": {
         "name": "Comerț stradal neautorizat",
-        "open": 2,
-        "n": 1
+        "open": 1,
+        "n": 0
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 13,
+        "open": 14,
         "n": 4
       },
       "20": {
@@ -127,8 +127,8 @@
       },
       "22": {
         "name": "Spații Comerciale",
-        "open": 4,
-        "n": 2
+        "open": 3,
+        "n": 1
       },
       "25": {
         "name": "Aviz evenimente sportive/culturale",

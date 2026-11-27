@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277133</link>
+    <guid isPermaLink="false">CAS-0277133</guid>
+    <pubDate>Fri, 27 Nov 2026 06:43:55 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>De fiecare dată pune pe trotuar .</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277128</link>
     <guid isPermaLink="false">CAS-0277128</guid>
@@ -46,12 +54,14 @@ Madalina Condurache</description>
     <description>Auto parcat pe trotuar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277112</link>
     <guid isPermaLink="false">CAS-0277112</guid>
     <pubDate>Fri, 27 Nov 2026 04:25:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN . </description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
@@ -710,14 +720,6 @@ Paul Bălășescu</description>
     <pubDate>Wed, 25 Nov 2026 16:29:17 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>La coltul Parcului Voinicelul, langa blocul 33. Masina parcata pe trotuar, blocheaza circulatia pietonilor si accesul la locul de parcare 11.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276741</link>
-    <guid isPermaLink="false">CAS-0276741</guid>
-    <pubDate>Wed, 25 Nov 2026 16:10:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar, blocheaza circulatia pietonilor. Pe Intrarea Ptinoarului 7, in fata blocului PM50, scara A</description>
   </item>
 </channel>
 </rss>
