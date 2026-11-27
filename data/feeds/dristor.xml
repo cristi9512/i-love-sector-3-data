@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277138</link>
+    <guid isPermaLink="false">CAS-0277138</guid>
+    <pubDate>Fri, 27 Nov 2026 07:36:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașini parcate pe tot trotuarul nou construit</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277093</link>
     <guid isPermaLink="false">CAS-0277093</guid>
@@ -604,15 +612,6 @@ Drumul nu este sens unic, deci cand se intalnesc 2 masini…
 Adresa: Drumul Murgului 3
 
 Multumesc seara buna si servici usor!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276404</link>
-    <guid isPermaLink="false">CAS-0276404</guid>
-    <pubDate>Mon, 23 Nov 2026 19:43:27 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Aceasta masina parcheaza seara de seara pe trotuar, pe colt, blocand total accesul pietonal.
-Multumesc</description>
   </item>
 </channel>
 </rss>
