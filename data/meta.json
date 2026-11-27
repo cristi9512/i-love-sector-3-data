@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T17:31:00.812Z",
-  "lastChange": "2026-11-27T17:31:00.812Z",
+  "lastRun": "2026-11-27T17:45:39.004Z",
+  "lastChange": "2026-11-27T17:45:39.004Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2802,
-    "added": 2,
-    "updated": 1,
+    "fetched": 2821,
+    "added": 4,
+    "updated": 2,
     "removed": 0,
-    "changes": 3
+    "changes": 6
   },
   "totals": {
-    "incidents": 47871,
-    "open": 2159,
+    "incidents": 47875,
+    "open": 2161,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T17:31:00.812Z",
+    "asOf": "2026-11-27T17:45:39.004Z",
     "days": 30,
-    "open": 2159,
+    "open": 2161,
     "total": 182,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 43,
+        "open": 44,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 207,
+        "open": 208,
         "n": 9
       },
       "10": {
