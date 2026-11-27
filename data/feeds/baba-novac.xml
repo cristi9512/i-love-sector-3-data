@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277112</link>
+    <guid isPermaLink="false">CAS-0277112</guid>
+    <pubDate>Fri, 27 Nov 2026 04:25:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277104</link>
     <guid isPermaLink="false">CAS-0277104</guid>
@@ -708,17 +716,6 @@ multumesc</description>
 ​Data si intervalul programat pentru salubrizare: 25.11.2026, interval orar 8:00-10:00.
  
 ​Desi locurile de parcare au fost eliberate de autovehicule in intervalul stabilit pentru a permite interventia echipelor de salubrizare, pe carosabil si langa bordura au ramas depozite consistente de frunze umede, noroi si resturi vegetale necuratate.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276681</link>
-    <guid isPermaLink="false">CAS-0276681</guid>
-    <pubDate>Wed, 25 Nov 2026 08:52:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua! 
-Lângă imobilul de la Intrarea Baba Novac nr 15 se afla o alee de acces auto pentru serviciile de urgență (ambulanta, pompieri, politie) in spatele a 2 blocuri de câte 4 etaje si pentru cele de salubritate avand in vedere ca pe aceeasi alee este și ghena pentru mai multe clădiri din zonă.
-Frecvent accesul este blocat de autovehicule staționate in dreptul sau chiar pe aleea de acces. Chiar azi deșeurile menajere nu pot fi ridicate B 163 DON blochează constant accesul. 
-Va rog sa luati masurile necesare pentru a mentine accesul liber la acea cale de acces în  conformitate cu prevederile art. 100, alin (2) coroborat cu art. 108, lit. b), pct. 7., ambele din OUG 195/2002 (Codul Rutier) raportat la art 143 lit. d) din HG 1391/2006 (Regulament Cod Rutier).</description>
   </item>
 </channel>
 </rss>
