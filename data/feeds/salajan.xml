@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277276</link>
+    <guid isPermaLink="false">CAS-0277276</guid>
+    <pubDate>Fri, 27 Nov 2026 18:07:50 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277272</link>
     <guid isPermaLink="false">CAS-0277272</guid>
@@ -594,16 +602,6 @@ Vă mulțumesc pentru sprijin și vă rog să îmi confirmați remedierea situa�
 
 Alina Chira,
 0756118887</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276599</link>
-    <guid isPermaLink="false">CAS-0276599</guid>
-    <pubDate>Tue, 24 Nov 2026 19:17:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor auto reclamat nu a fost gasit in locatia indicata conform pin.Sesizarea nu detine fotografii atasate din care sa reiasa in mod vizibil auto reclamat cu nr de inmatriculare ,cat si parcajul la care se face referire.</description>
   </item>
 </channel>
 </rss>
