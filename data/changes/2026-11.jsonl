@@ -7999,3 +7999,9 @@
 {"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie"}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277209","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277209","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277209","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar în zona indicată prin geolocație, nu a fost identificat vreun animal liber. Pe viitor, când constatați astfel de aspecte, apelați Dispeceratul Poliției Locale Sector 3 la numărul de telefon 021.9543, iar un echipaj se va deplasa și va lua măsurile ce se impun în funcție de situație."}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277236","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277236","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T15:30:49.726Z","ticket":"CAS-0277236","field":"reply","from":"","to":"Nespecificat Registratura Pe viitor, atașați o fotografie din care să reiasă numărul autoturismului și tipul de parcaj ocupat"}
