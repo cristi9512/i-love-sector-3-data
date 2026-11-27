@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277305</link>
+    <guid isPermaLink="false">CAS-0277305</guid>
+    <pubDate>Fri, 27 Nov 2026 21:03:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Am trecut prin zona și aveam. Nevoie sa parchez undeva Scooter ul electric 10minute sa las o comanda dar singurul loc Moto de acolo era ocupat de un Mercedes nou parcat jumate pe locul Moto jumate pe trotuarul pavat, deși in imediata apropiere erau peste 4 locuri galbene auto libere.......</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277293</link>
     <guid isPermaLink="false">CAS-0277293</guid>
@@ -14,12 +22,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277292</link>
     <guid isPermaLink="false">CAS-0277292</guid>
     <pubDate>Fri, 27 Nov 2026 19:18:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AU FOST LUATE MASURILE LEGALE</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -449,20 +459,24 @@ Cu stima,
 Răspuns: auto nu a fost depistat in locatie</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276729</link>
     <guid isPermaLink="false">CAS-0276729</guid>
     <pubDate>Wed, 25 Nov 2026 14:41:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 799 CJO în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
+    <description>Vă sesizez o parcare neregulamentară B 799 CJO în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.
+
+Răspuns: In locatie  au  fost  dispuse  masurile  legale  conform OUG 195/2002 r </description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276728</link>
     <guid isPermaLink="false">CAS-0276728</guid>
     <pubDate>Wed, 25 Nov 2026 14:40:22 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B  033199 blocând accesul pietonilor pe trotuar în special cei cu cărucioare vis-a-vis de Comandamentul de pompieri Vitan str.Breaza.</description>
+    <description>Vă sesizez o parcare neregulamentară B  033199 blocând accesul pietonilor pe trotuar în special cei cu cărucioare vis-a-vis de Comandamentul de pompieri Vitan str.Breaza.
+
+Răspuns: In locatie  au  fost  dispuse  masurile  legale  conform OUG 195/2002 r </description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
@@ -595,16 +609,6 @@ Răspuns: IN URMA VERIFICARILOR, AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE</
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN OCATIE. AU FOST APLICATE MASURILE LEGALE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276558</link>
-    <guid isPermaLink="false">CAS-0276558</guid>
-    <pubDate>Tue, 24 Nov 2026 15:59:42 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 12
-
-Răspuns: IN URMA VERIFICARILOR, AUTOTURIMUL NU A FOST IDENTIFICAT IN LOCATIE</description>
   </item>
 </channel>
 </rss>

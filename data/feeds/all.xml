@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277305</link>
+    <guid isPermaLink="false">CAS-0277305</guid>
+    <pubDate>Fri, 27 Nov 2026 21:03:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Am trecut prin zona și aveam. Nevoie sa parchez undeva Scooter ul electric 10minute sa las o comanda dar singurul loc Moto de acolo era ocupat de un Mercedes nou parcat jumate pe locul Moto jumate pe trotuarul pavat, deși in imediata apropiere erau peste 4 locuri galbene auto libere.......</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277304</link>
     <guid isPermaLink="false">CAS-0277304</guid>
@@ -133,12 +141,14 @@ Va multumim. </description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277292</link>
     <guid isPermaLink="false">CAS-0277292</guid>
     <pubDate>Fri, 27 Nov 2026 19:18:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AU FOST LUATE MASURILE LEGALE</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Gurilor</title>
@@ -173,12 +183,15 @@ Va multumim. </description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277287</link>
     <guid isPermaLink="false">CAS-0277287</guid>
     <pubDate>Fri, 27 Nov 2026 19:10:05 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dvs a fost preluata si verificata la ora 22:55. Autovehiculul la care faceti referire ocupa locul de parcare indicat, motiv pentru care au fost aplicate masurile legale care se impun, conform HCGMB nr 124/2008. 
+Va multumim.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
@@ -584,14 +597,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE AFLA IN LOCATIE</descripti
     <pubDate>Fri, 27 Nov 2026 15:09:29 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturismul cu nr de inmatriculare B112SGD a parcat pe locul de persoane cu dizabilitati el fiind alocat pentru permisul cu nr B3/872979</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277245</link>
-    <guid isPermaLink="false">CAS-0277245</guid>
-    <pubDate>Fri, 27 Nov 2026 15:08:55 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Se blocheaza accesul în parcarea de reședință sistematic. Rog ridicati autovehiculele.</description>
   </item>
 </channel>
 </rss>
