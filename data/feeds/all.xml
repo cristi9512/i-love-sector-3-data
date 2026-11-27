@@ -6,7 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Toaletare/Tăiere arbori · Noua · Brățării</title>
+    <title>Stationare neregulamentara · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277176</link>
+    <guid isPermaLink="false">CAS-0277176</guid>
+    <pubDate>Fri, 27 Nov 2026 09:40:08 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina neregulamentar conform indicatorului și blochează accesul la ghenă de gunoi</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277175</link>
+    <guid isPermaLink="false">CAS-0277175</guid>
+    <pubDate>Fri, 27 Nov 2026 09:34:08 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>de mai bine de 40 de minute astept sa vina sa pot iesi din parcare, mi-a blocat accesul si nu a lasat număr de telefon, va rog sa luati masuri
+
+multumesc, o zi buna.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277174</link>
     <guid isPermaLink="false">CAS-0277174</guid>
     <pubDate>Fri, 27 Nov 2026 09:29:32 GMT</pubDate>
@@ -568,12 +586,14 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 08.00,AUTO LA CA
 Uitați ce se întâmplă aproape zilnic când gunoiul se ridică fix la 7-7:30 dimineața. Gura Crivatului și străzile adiacente se blochează mereu. Nu se poate amâna cu câteva zeci de minute???</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277117</link>
     <guid isPermaLink="false">CAS-0277117</guid>
     <pubDate>Fri, 27 Nov 2026 05:38:44 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Auto parcat pe zona hasurata, blocheaza vizibilitatea</description>
+    <description>Auto parcat pe zona hasurata, blocheaza vizibilitatea
+
+Răspuns: AM APLICAT MASURILE LEGALE </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -602,24 +622,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA AUTOTURISMUL LA 
     <description>Evada Fashion si Optima isi lasa in mod constant pubelele la intrarea intr-o parcare privata blocand accesul acesteia. Solicit sanctionarea acestor firme si verificarea modului in care se ridica gunoiul de la ele?
 
 Răspuns: CELE SESIZATE NU SE CONFIRMA, INSA  AM LUAT LEGATURA CU REPREZENTANTUL SOCIETATI LA CARE FACETI REFERIRE, SI LE-AM  ADUS LA CUNOSTINTA PREVEDERILE LEGALE IN VIGOARE.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277113</link>
-    <guid isPermaLink="false">CAS-0277113</guid>
-    <pubDate>Fri, 27 Nov 2026 04:36:42 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Camion parcat pe trotuar, nu este nici un pic de spatiu pentru a merge pe trotuar, dimineata suntem obligati sa mergem pe sosea din cauza acestiu camion.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277112</link>
-    <guid isPermaLink="false">CAS-0277112</guid>
-    <pubDate>Fri, 27 Nov 2026 04:25:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN . </description>
   </item>
 </channel>
 </rss>

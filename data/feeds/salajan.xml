@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277175</link>
+    <guid isPermaLink="false">CAS-0277175</guid>
+    <pubDate>Fri, 27 Nov 2026 09:34:08 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>de mai bine de 40 de minute astept sa vina sa pot iesi din parcare, mi-a blocat accesul si nu a lasat număr de telefon, va rog sa luati masuri
+
+multumesc, o zi buna.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277153</link>
     <guid isPermaLink="false">CAS-0277153</guid>
@@ -627,16 +637,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE 18.08, AUTOTURISMUL
     <pubDate>Tue, 24 Nov 2026 08:12:28 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>Str Trapezului nr 3 in fata blocului C2,scara 3,in dreotul locurilor de oarcarev32/33 este copac uscat,înclinat, din care se rup crengi si avariaza autotirismele.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276435</link>
-    <guid isPermaLink="false">CAS-0276435</guid>
-    <pubDate>Tue, 24 Nov 2026 05:39:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului. A fost identificat conducătorul auto, a fost sancționat contravențional și a eliberat locul de parcare.</description>
   </item>
 </channel>
 </rss>
