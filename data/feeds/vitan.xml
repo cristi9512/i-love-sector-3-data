@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277158</link>
+    <guid isPermaLink="false">CAS-0277158</guid>
+    <pubDate>Fri, 27 Nov 2026 08:35:47 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna ziua, imi este blocata poarta de acces si nu pot sa ies cu masina din curte, nu au lasat vreun numar de telefon. Strada drumeagului 9</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277149</link>
     <guid isPermaLink="false">CAS-0277149</guid>
@@ -705,14 +713,6 @@ Locuitor al străzii Piscul Răchitei, Sector 3, București
 Data: 22.11.2026
 Adresă de corespondență / e-mail: adriankeul1975@gmail.com
 Telefon : 0751.299.922</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276156</link>
-    <guid isPermaLink="false">CAS-0276156</guid>
-    <pubDate>Sun, 22 Nov 2026 16:49:35 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nu merge iluminatul pe o parte a străzii foișorului   Merge doar pe o singură parte</description>
   </item>
 </channel>
 </rss>
