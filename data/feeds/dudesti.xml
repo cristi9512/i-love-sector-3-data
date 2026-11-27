@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277293</link>
+    <guid isPermaLink="false">CAS-0277293</guid>
+    <pubDate>Fri, 27 Nov 2026 19:21:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277292</link>
+    <guid isPermaLink="false">CAS-0277292</guid>
+    <pubDate>Fri, 27 Nov 2026 19:18:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277249</link>
     <guid isPermaLink="false">CAS-0277249</guid>
@@ -569,26 +585,6 @@ Răspuns: AUTOTURISMUL A FOST IDENTIFICAT IN OCATIE. AU FOST APLICATE MASURILE L
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 12
 
 Răspuns: IN URMA VERIFICARILOR, AUTOTURIMUL NU A FOST IDENTIFICAT IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276543</link>
-    <guid isPermaLink="false">CAS-0276543</guid>
-    <pubDate>Tue, 24 Nov 2026 15:11:42 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Ajunsi la fata locului auto indicat in sesizare, AG 17 WRY nu se mai afla in locatie</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276537</link>
-    <guid isPermaLink="false">CAS-0276537</guid>
-    <pubDate>Tue, 24 Nov 2026 14:45:24 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare pe loc de parcare alocat prin autorizare.Nu raspunde la telefon.
-
-Răspuns: Nu s a putut da curs sesizarii, intrucat petentul nu a raspuns la telefon nici la ora 17:01 , nici la 18:02.</description>
   </item>
 </channel>
 </rss>
