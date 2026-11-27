@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277297</link>
+    <guid isPermaLink="false">CAS-0277297</guid>
+    <pubDate>Fri, 27 Nov 2026 19:38:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277296</link>
     <guid isPermaLink="false">CAS-0277296</guid>
@@ -574,14 +582,6 @@ Răspuns: In urma verificarilor efectuate la fata locului, betoniera sesizata nu
     <pubDate>Fri, 27 Nov 2026 14:31:28 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>Masini abandonate. Verificati rotile si frunzele ce s-au adunat la roti. Loganuri albe</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277237</link>
-    <guid isPermaLink="false">CAS-0277237</guid>
-    <pubDate>Fri, 27 Nov 2026 14:26:18 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Necesitate instalare bumper pe drum în dreptul “casa campionilor navi” de pe strada Esarfei. Sunt mulți copii care ies de la cursurile de înot, iar șoferii merg cu o viteză foarte mare pentru acel loc care este și în curbă. Esarfei 62 a</description>
   </item>
 </channel>
 </rss>
