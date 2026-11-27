@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277193</link>
+    <guid isPermaLink="false">CAS-0277193</guid>
+    <pubDate>Fri, 27 Nov 2026 11:48:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277192</link>
     <guid isPermaLink="false">CAS-0277192</guid>
@@ -644,16 +652,6 @@ Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PERSOANA LA CARE FACETI REF
     <pubDate>Fri, 27 Nov 2026 06:29:09 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai puțin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturor autoturismelor parcate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277130</link>
-    <guid isPermaLink="false">CAS-0277130</guid>
-    <pubDate>Fri, 27 Nov 2026 06:25:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>blocheaza rampa de access trotuar langa gradinita
-
-Răspuns: Au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
