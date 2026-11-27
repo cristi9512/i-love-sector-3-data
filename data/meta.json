@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T06:45:35.867Z",
-  "lastChange": "2026-11-27T06:45:35.867Z",
+  "lastRun": "2026-11-27T07:15:34.097Z",
+  "lastChange": "2026-11-27T07:15:34.097Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2364,
+    "fetched": 2713,
     "added": 2,
-    "updated": 4,
+    "updated": 0,
     "removed": 0,
-    "changes": 12
+    "changes": 0
   },
   "totals": {
-    "incidents": 47739,
-    "open": 2157,
+    "incidents": 47741,
+    "open": 2159,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T06:45:35.867Z",
+    "asOf": "2026-11-27T07:15:34.097Z",
     "days": 30,
-    "open": 2157,
+    "open": 2159,
     "total": 197,
     "byCategory": {
       "2": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 377,
+        "open": 379,
         "n": 32
       },
       "11": {

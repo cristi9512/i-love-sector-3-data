@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277135</link>
+    <guid isPermaLink="false">CAS-0277135</guid>
+    <pubDate>Fri, 27 Nov 2026 07:06:40 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua,
+Urmare lucrărilor de schimbare a țevilor de gaze în zona străzilor Aleea Ciucea, au rămasă de mai bine de o lună gunoaie, iar asfaltul a fost turnat atât de prostie încât se adună apa și mizerie.
+Atașez poze pentru a documenta cele de mai sus.
+Vă rog să dispuneți măsurile necesare pentru remediere.
+Vă mulțumesc,</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277126</link>
     <guid isPermaLink="false">CAS-0277126</guid>
@@ -676,22 +688,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care 
     <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276458</link>
-    <guid isPermaLink="false">CAS-0276458</guid>
-    <pubDate>Tue, 24 Nov 2026 07:35:18 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Dețin autorizație nominală pentru locul de parcare nr. 3, bateria 70_2, situat pe str. Jean Steriadi nr. 20, bl. i21.
-
-Lângă locul meu de parcare exista anterior un arbore, care a fost tăiat deoarece era uscat. În urma îndepărtării acestuia a rămas un spațiu liber, nemarcat și neînregistrat în GIS, care este mai îngust decât un loc de parcare obișnuit.
-
-În prezent, acest spațiu este ocupat frecvent de autoturisme, a căror poziționare îngreunează semnificativ deschiderea portierei și accesul în autoturismul meu, afectând astfel utilizarea normală a locului de parcare pentru care dețin autorizație.
-
-Având în vedere că, prin răspunsul la sesizarea nr. 345768/11.09.2026, ați confirmat că suprafața respectivă nu reprezintă un loc de parcare sistematizat, solicit clarificarea regimului acesteia și dispunerea masurilor necesare pentru asigurarea posibilității de utilizare normală și efectivă a locului de parcare nominal pe care îl dețin.
-
-Vă rog să efectuați o verificare în teren și să îmi comunicați măsurile dispuse.</description>
   </item>
 </channel>
 </rss>
