@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Vitan</title>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277215</link>
+    <guid isPermaLink="false">CAS-0277215</guid>
+    <pubDate>Fri, 27 Nov 2026 13:07:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277214</link>
+    <guid isPermaLink="false">CAS-0277214</guid>
+    <pubDate>Fri, 27 Nov 2026 13:03:45 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277213</link>
     <guid isPermaLink="false">CAS-0277213</guid>
     <pubDate>Fri, 27 Nov 2026 12:59:39 GMT</pubDate>
@@ -556,31 +572,6 @@ Vă aducem la cunoştinţă faptul că aspectele prezentate au fost transmise ec
 Cu deosebită consideratie,
 Direcţia Generală de Salubritate Sector 3
  </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277152</link>
-    <guid isPermaLink="false">CAS-0277152</guid>
-    <pubDate>Fri, 27 Nov 2026 08:26:54 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua, pe aleea Zăvideni este blocat trotuarul mulțumesc</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277153</link>
-    <guid isPermaLink="false">CAS-0277153</guid>
-    <pubDate>Fri, 27 Nov 2026 08:26:54 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Buna ziua.
-Vă aduc la cunoștință că, la intersecția Bulevardului 1 Decembrie 1918 cu Bulevardul Theodor Pallady,
-o firmă de utilități a executat lucrări care au presupus spargerea și îndepărtarea unei porțiuni din pavajul pietonal.
-
-Deși lucrările au fost încheiate cu mai multe luni în urmă, pavelele deteriorate nu au fost înlocuite,
-iar suprafața afectată nu a fost readusă la starea inițială.
-
-Consider că această situație reprezintă o degradare nejustificată și persistentă a domeniului public.
-
-Vă mulțumesc și aștept un răspuns la prezenta sesizare.</description>
   </item>
 </channel>
 </rss>

@@ -7945,3 +7945,4 @@
 {"at":"2026-11-27T13:01:02.817Z","ticket":"CAS-0266954","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T13:01:02.817Z","ticket":"CAS-0266954","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-27T13:01:02.817Z","ticket":"CAS-0266954","field":"reply","from":"","to":"Trimis raspuns Vă informăm că documentul depus de dumneavoastră, înregistrat cu numărul 390542, a fost soluționat și se regăsește în atasament.\n\n Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-27T13:15:42.592Z","ticket":"CAS-0277213","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
