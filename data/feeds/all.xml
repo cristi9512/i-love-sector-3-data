@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277137</link>
+    <guid isPermaLink="false">CAS-0277137</guid>
+    <pubDate>Fri, 27 Nov 2026 07:18:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua!
+Vă aduc la cunoștință că autoturismul VL50PAC este parcat neregulamentar lângă trecerea de pietoni aflată la intersecția dintre str. Valeriu Braniște și str. Turturelelor.
+Vă rog să dispuneți ridicarea autoturismului, pentru ca strada să se poată traversa în siguranță.
+Mulțumesc!
+O zi bună!</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277135</link>
     <guid isPermaLink="false">CAS-0277135</guid>
@@ -34,7 +46,7 @@ Vă mulțumesc,</description>
     <description>De fiecare dată pune pe trotuar .</description>
   </item>
   <item>
-    <title>Ordine și liniște publică · În lucru · Traian</title>
+    <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277132</link>
     <guid isPermaLink="false">CAS-0277132</guid>
     <pubDate>Fri, 27 Nov 2026 06:36:46 GMT</pubDate>
@@ -43,7 +55,9 @@ Vă mulțumesc,</description>
 Rog a dispune măsurile necesare pentru asigurarea siguranței accesului în imobilul din str Traian nr 3 bl E 6 (intrarea din spate) .
 Menționez ca de câteva zile lângă intrarea în imobil un ,,om al străzii ,,  și-a amenajat un loc de dormit. 
 Acest fapt determină un risc atât pentru adulții dar mai ales pentru copii care locuiesc în acest imobil .
-Mulțumesc!</description>
+Mulțumesc!
+
+Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . PERSOANA LA CARE FACETI REFERIRE A FOST INDRUMATA CATRE CENTRUL SOCIAL SF. IOAN IN VEDEREA INSTITUTIONALIZARII . IN PREZENTA ECHIPAJULUI DE POLITIE LOCALA PERSOANA A PARASIT ZONA . </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
@@ -191,12 +205,14 @@ Uitați ce se întâmplă aproape zilnic când gunoiul se ridică fix la 7-7:30 
     <description>Auto parcat pe trotuar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277115</link>
     <guid isPermaLink="false">CAS-0277115</guid>
     <pubDate>Fri, 27 Nov 2026 05:05:34 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Ordine și liniște publică · În lucru · Vitan</title>
@@ -595,16 +611,6 @@ Vă mulțumim!</description>
 
 Răspuns: Buna seara,
 In urma verificarilor efectuate in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277076</link>
-    <guid isPermaLink="false">CAS-0277076</guid>
-    <pubDate>Thu, 26 Nov 2026 19:47:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Din cauza stationarii neregulamentare a autovehiculului marca VOLKSWAGEN model PASSAT cu numarul de identificare B93ARB vizibilitatea la iesirea din parcare este obstructionata
-
-Răspuns: In locatie  au fost aplicate masurile legale conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>

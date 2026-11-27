@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T07:15:34.097Z",
-  "lastChange": "2026-11-27T07:15:34.097Z",
+  "lastRun": "2026-11-27T07:30:52.118Z",
+  "lastChange": "2026-11-27T07:30:52.118Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2713,
-    "added": 2,
-    "updated": 0,
+    "fetched": 2508,
+    "added": 1,
+    "updated": 2,
     "removed": 0,
-    "changes": 0
+    "changes": 6
   },
   "totals": {
-    "incidents": 47741,
-    "open": 2159,
+    "incidents": 47742,
+    "open": 2158,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T07:15:34.097Z",
+    "asOf": "2026-11-27T07:30:52.118Z",
     "days": 30,
-    "open": 2159,
+    "open": 2158,
     "total": 197,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 36,
+        "open": 35,
         "n": 7
       },
       "3": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 14,
+        "open": 13,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 721,
+        "open": 722,
         "n": 2
       },
       "32": {
