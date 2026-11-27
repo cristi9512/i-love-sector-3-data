@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T13:45:37.527Z",
-  "lastChange": "2026-11-27T13:45:37.527Z",
+  "lastRun": "2026-11-27T14:01:03.331Z",
+  "lastChange": "2026-11-27T14:01:03.331Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2631,
-    "added": 2,
-    "updated": 1,
+    "fetched": 2617,
+    "added": 8,
+    "updated": 3,
     "removed": 0,
-    "changes": 3
+    "changes": 9
   },
   "totals": {
-    "incidents": 47821,
-    "open": 2144,
+    "incidents": 47829,
+    "open": 2149,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T13:45:37.527Z",
+    "asOf": "2026-11-27T14:01:03.331Z",
     "days": 30,
-    "open": 2144,
+    "open": 2149,
     "total": 179,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 45,
+        "open": 47,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 90,
+        "open": 91,
         "n": 3
       },
       "7": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 34,
+        "open": 35,
         "n": 0
       },
       "17": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 10,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 731,
+        "open": 733,
         "n": 2
       },
       "32": {
