@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277113</link>
+    <guid isPermaLink="false">CAS-0277113</guid>
+    <pubDate>Fri, 27 Nov 2026 04:36:42 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Camion parcat pe trotuar, nu este nici un pic de spatiu pentru a merge pe trotuar, dimineata suntem obligati sa mergem pe sosea din cauza acestiu camion.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277112</link>
     <guid isPermaLink="false">CAS-0277112</guid>
@@ -617,18 +625,6 @@ Pe Bd. Râmnicu Sărat nr. 25, chiar la trecerea de pietoni nu este lumina, iar 
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra .. Va rugam sa  reveniti cu o noua sesizare ,unde sa atasati fotografii care sa contina in mod vizibil autovehiculul reclamat cu nr de inmatriculare cat si parcajul la care se face referire.Din fotografiile atasate nu reies elementele constitutive ale unei contraventii.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277053</link>
-    <guid isPermaLink="false">CAS-0277053</guid>
-    <pubDate>Thu, 26 Nov 2026 17:38:08 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: BUNĂ SEARA!
- PENTRU A PRELUA SI VERIFICA SESIZAREA DUMNEAVOASTRA 
-ESTE NECESARĂ O FOTOGRAFIE CONCLUDENTĂ( LIPSA SISTEMATIZARE).</description>
   </item>
 </channel>
 </rss>
