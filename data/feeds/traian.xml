@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277256</link>
+    <guid isPermaLink="false">CAS-0277256</guid>
+    <pubDate>Fri, 27 Nov 2026 16:20:41 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara! Vă rugăm să montați stâlpișori pe cele două laturi ale trotuarului! A devenit imposibil de intrat și de ieșit de pe stradă! Parchează fiecare cum vrea!</description>
+  </item>
+  <item>
     <title>Mașini abandonate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277238</link>
     <guid isPermaLink="false">CAS-0277238</guid>
@@ -14,12 +22,14 @@
     <description>Masini abandonate. Verificati rotile si frunzele ce s-au adunat la roti. Loganuri albe</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Traian</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277212</link>
     <guid isPermaLink="false">CAS-0277212</guid>
     <pubDate>Fri, 27 Nov 2026 12:55:53 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE,LA MOMENTUL VERIFICARII</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
@@ -629,16 +639,6 @@ Răspuns: In urma verificarilor efectuate, autoturismul a fost identificat fiind
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor efectuate in locatie, am identificat conducatorul auto care a fost sanctionat in baza prevederilor legale</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275972</link>
-    <guid isPermaLink="false">CAS-0275972</guid>
-    <pubDate>Sat, 21 Nov 2026 16:23:02 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 34
-
-Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE.</description>
   </item>
 </channel>
 </rss>
