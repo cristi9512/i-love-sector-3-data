@@ -8035,3 +8035,15 @@
 {"at":"2026-11-27T16:30:50.041Z","ticket":"CAS-0277212","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T16:30:50.041Z","ticket":"CAS-0277212","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T16:30:50.041Z","ticket":"CAS-0277212","field":"reply","from":"","to":"Nespecificat Registratura AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE,LA MOMENTUL VERIFICARII"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277242","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277242","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277242","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE MAI AFLA IN LOCATIE"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277241","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277241","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277241","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE MAI AFLA IN LOCATIE"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277226","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277226","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277226","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE MAI AFLA IN LOCATIE"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277232","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277232","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T16:45:38.996Z","ticket":"CAS-0277232","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE MAI AFLA IN LOCATIE"}
