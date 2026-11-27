@@ -6,6 +6,35 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277266</link>
+    <guid isPermaLink="false">CAS-0277266</guid>
+    <pubDate>Fri, 27 Nov 2026 17:10:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>bloccheaza cale de acces</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277265</link>
+    <guid isPermaLink="false">CAS-0277265</guid>
+    <pubDate>Fri, 27 Nov 2026 17:10:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277264</link>
+    <guid isPermaLink="false">CAS-0277264</guid>
+    <pubDate>Fri, 27 Nov 2026 17:06:01 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara !
+Avem o problemă ,nu avem acces la intrarea pe aleea blocului din cauza acestei  masini .B85YTG,in fiecare seară ,parcheaza  pe accesul blocului .
+Este și hașurat jos cu X .
+Vă rog să luați măsuri .
+Adresa este :
+Bul.1 Decembrie 1918 nr 72 bl VN 5</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277263</link>
     <guid isPermaLink="false">CAS-0277263</guid>
@@ -54,12 +83,14 @@
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 28</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277257</link>
     <guid isPermaLink="false">CAS-0277257</guid>
     <pubDate>Fri, 27 Nov 2026 16:22:26 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
@@ -380,12 +411,16 @@ Va rog sa procedați la luarea masurilor nesacare cu privire la autoturismul de 
 Sunt locuri de parcare B12 libere la 20-25m de scara blocului.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277222</link>
     <guid isPermaLink="false">CAS-0277222</guid>
     <pubDate>Fri, 27 Nov 2026 13:49:28 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNĂ SEARA!
+LA MOMENTUL VERIFICĂRII,ORA 18:59 ,
+AUTOTURISMUL RECLAMAT NU SE AFLA IN LOCATIA INDICATĂ</description>
   </item>
   <item>
     <title>Mașini abandonate · În lucru · Timpuri Noi</title>
@@ -467,12 +502,16 @@ Răspuns: BUNĂ SEARA!
 AUTOTURISMUL RECLAMAT NU A FOST IDENTIFICAT IN LOCAȚIE LA ORA 16:38.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Vitan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277213</link>
     <guid isPermaLink="false">CAS-0277213</guid>
     <pubDate>Fri, 27 Nov 2026 12:59:39 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ a achitat tarif orar de parcare până la 26.12.2026 18:00.</description>
+    <description>Autovehiculul cu numarul D........ a achitat tarif orar de parcare până la 26.12.2026 18:00.
+
+Răspuns: BUNĂ SEARA!
+PENTRU A PRELUA ȘI VERIFICA SESIZAREA DUMNEAVOASTRĂ,
+VĂ ROG ,SĂ TRANSMITEȚI O FOTOGRAFIE ELOCVENTĂ CU SISTEMATIZAREA LOCULUI.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
@@ -537,32 +576,6 @@ Multumesc!</description>
 
 Răspuns: BUNĂ ZIUA!
 IN URMA DISCUȚIEI TELEFONICE  NE-AM DEPLASAT IN LOCAȚIE SI AM APLICAT INȘTIINȚARE PENTRU AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277206</link>
-    <guid isPermaLink="false">CAS-0277206</guid>
-    <pubDate>Fri, 27 Nov 2026 12:40:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare pe trotuar și obstrucționare acces auto stradă spate bloc
-
-Răspuns: In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277205</link>
-    <guid isPermaLink="false">CAS-0277205</guid>
-    <pubDate>Fri, 27 Nov 2026 12:35:04 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua! Copacii au crengi rupte si mari, care sunt deasupra zonei unde circula oameni. Va rog sa se rezolve, pentru ca pericolul este iminent si mare. Copacii se afla la locatia strada Vulturilor nr  49. Multumesc!</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277204</link>
-    <guid isPermaLink="false">CAS-0277204</guid>
-    <pubDate>Fri, 27 Nov 2026 12:33:14 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua! Copacii au crengi rupte si mari, care sunt deasupra zonei unde circula oameni. Va rog sa se rezolve, pentru ca pericolul este iminent si mare. Copacii se afla la locatia strada Vulturilor nr  53. Multumesc!</description>
   </item>
 </channel>
 </rss>

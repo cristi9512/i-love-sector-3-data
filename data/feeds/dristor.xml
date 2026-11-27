@@ -7,6 +7,14 @@
   <language>ro</language>
   <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277265</link>
+    <guid isPermaLink="false">CAS-0277265</guid>
+    <pubDate>Fri, 27 Nov 2026 17:10:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277250</link>
     <guid isPermaLink="false">CAS-0277250</guid>
     <pubDate>Fri, 27 Nov 2026 15:46:43 GMT</pubDate>
@@ -604,16 +612,6 @@ Răspuns: - la ora verificarii in teren a sesizarii , auto indicat in reclamatie
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: - sesizarea nu se confirma / la ora verificarii sesizarii , auto in cauza nu se afla in locatia indicata de catre petent .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276421</link>
-    <guid isPermaLink="false">CAS-0276421</guid>
-    <pubDate>Mon, 23 Nov 2026 22:40:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - lipsa fotografie care sa ateste prezenta autoturismului / autovehiculului in locatia indicata de catre petent .</description>
   </item>
 </channel>
 </rss>
