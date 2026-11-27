@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T09:01:04.538Z",
-  "lastChange": "2026-11-27T09:01:04.538Z",
+  "lastRun": "2026-11-27T09:15:44.900Z",
+  "lastChange": "2026-11-27T09:15:44.900Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2565,
-    "added": 4,
-    "updated": 1,
+    "fetched": 2451,
+    "added": 2,
+    "updated": 2,
     "removed": 0,
-    "changes": 3
+    "changes": 4
   },
   "totals": {
-    "incidents": 47770,
-    "open": 2177,
+    "incidents": 47772,
+    "open": 2178,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T09:01:04.538Z",
+    "asOf": "2026-11-27T09:15:44.900Z",
     "days": 30,
-    "open": 2177,
-    "total": 199,
+    "open": 2178,
+    "total": 200,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 166,
+        "open": 167,
         "n": 13
       },
       "5": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 101,
+        "open": 102,
         "n": 4
       },
       "7": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 13,
+        "open": 12,
         "n": 4
       },
       "20": {
@@ -123,7 +123,7 @@
       "21": {
         "name": "Reabilitare blocuri",
         "open": 14,
-        "n": 1
+        "n": 2
       },
       "22": {
         "name": "Spații Comerciale",
