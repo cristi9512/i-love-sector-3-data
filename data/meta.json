@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T04:45:34.947Z",
-  "lastChange": "2026-11-27T04:45:34.947Z",
+  "lastRun": "2026-11-27T05:01:00.412Z",
+  "lastChange": "2026-11-27T05:01:00.412Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2514,
+    "fetched": 2384,
     "added": 1,
     "updated": 0,
     "removed": 0,
     "changes": 0
   },
   "totals": {
-    "incidents": 47719,
-    "open": 2143,
+    "incidents": 47720,
+    "open": 2144,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T04:45:34.947Z",
+    "asOf": "2026-11-27T05:01:00.412Z",
     "days": 30,
-    "open": 2143,
+    "open": 2144,
     "total": 199,
     "byCategory": {
       "2": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 12,
+        "open": 13,
         "n": 4
       },
       "20": {
