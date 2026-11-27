@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277213</link>
+    <guid isPermaLink="false">CAS-0277213</guid>
+    <pubDate>Fri, 27 Nov 2026 12:59:39 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ a achitat tarif orar de parcare până la 26.12.2026 18:00.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277171</link>
     <guid isPermaLink="false">CAS-0277171</guid>
@@ -638,16 +646,6 @@ PS. Daca doriti identitatea persoanei care a indoit arborele incercand sa parche
     <pubDate>Mon, 23 Nov 2026 06:57:13 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-9, precum și pentru zonele A-10,A-8,</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276247</link>
-    <guid isPermaLink="false">CAS-0276247</guid>
-    <pubDate>Mon, 23 Nov 2026 06:19:05 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>În fața imobilului aflat în construcție pe strada Voineasa nr. 51, constructorul nu asigură curățenia în zona șantierului, lăsând în urmă pământ și mizerie care îngreunează sau chiar împiedică circulația pietonilor.
-
-Vă rog să verificați situația și să dispuneți măsurile necesare pentru remedierea acesteia.</description>
   </item>
 </channel>
 </rss>
