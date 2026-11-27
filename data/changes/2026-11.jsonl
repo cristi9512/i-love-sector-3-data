@@ -7981,3 +7981,12 @@
 {"at":"2026-11-27T14:15:37.209Z","ticket":"CAS-0257560","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T14:15:37.209Z","ticket":"CAS-0257560","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-27T14:15:37.209Z","ticket":"CAS-0257560","field":"reply","from":"","to":"Trimis raspuns Trimis raspuns Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277197","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277197","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277197","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație."}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277214","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277214","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277214","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ SEARA!\nAUTOTURISMUL RECLAMAT NU A FOST IDENTIFICAT IN LOCAȚIE LA ORA 16:38."}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277211","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277211","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T14:45:38.890Z","ticket":"CAS-0277211","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ SEARA!\nCONFORM ADRESEI TRIMISE ,\nAUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ,\nNU A FOST IDENTIFICAT IN LOCAȚIE LA ORA 16:33."}
