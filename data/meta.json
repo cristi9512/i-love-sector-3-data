@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T05:45:37.669Z",
-  "lastChange": "2026-11-27T05:45:37.669Z",
+  "lastRun": "2026-11-27T06:01:06.648Z",
+  "lastChange": "2026-11-27T06:01:06.648Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2671,
-    "added": 4,
+    "fetched": 2621,
+    "added": 1,
     "updated": 0,
     "removed": 0,
     "changes": 0
   },
   "totals": {
-    "incidents": 47725,
-    "open": 2149,
+    "incidents": 47726,
+    "open": 2150,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T05:45:37.669Z",
+    "asOf": "2026-11-27T06:01:06.648Z",
     "days": 30,
-    "open": 2149,
+    "open": 2150,
     "total": 199,
     "byCategory": {
       "2": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 151,
+        "open": 152,
         "n": 2
       },
       "15": {
