@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277184</link>
+    <guid isPermaLink="false">CAS-0277184</guid>
+    <pubDate>Fri, 27 Nov 2026 10:29:51 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277169</link>
     <guid isPermaLink="false">CAS-0277169</guid>
@@ -81,7 +89,7 @@ Răspuns: Au fost aplicate masurile legale.</description>
     <description>parcat pe hasura</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277121</link>
     <guid isPermaLink="false">CAS-0277121</guid>
     <pubDate>Fri, 27 Nov 2026 06:05:13 GMT</pubDate>
@@ -90,7 +98,12 @@ Răspuns: Au fost aplicate masurile legale.</description>
 
 Va rugam sa colectati deseurile lasate langa pubelele amplasate in parcarea de pe strada Rotunda nr. 2, bloc Y1C.
 Atasat, poze cu situatia curenta.
-Va multumim.</description>
+Va multumim.
+
+Răspuns: Trimis raspuns Buna ziua,
+Referitor la aspectele semnalate, vă comunicăm faptul că situația a fost transmisă echipelor operative din teren, în vederea verificării și asigurării colectării deșeurilor acumulate la punctul de colectare menționat.
+Cu consideratie,
+ </description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -600,16 +613,6 @@ Răspuns: Bna seara . Am preluat si verificat sesizarea dumneavoastra.La momentu
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor locul de parcare nenominal nu este vizibil trasat si marcat la sol. S-a transmis serviciului competent in vederea trasarii si marcarii acestuia ,pentru a putea lua masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276815</link>
-    <guid isPermaLink="false">CAS-0276815</guid>
-    <pubDate>Wed, 25 Nov 2026 19:03:56 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-7, precum și pentru zonele B-12,B-13,B-15,C-4,C-6,
-
-Răspuns: Sesizarea dumneavoastră  fost verificată, pentru autoturismul la care faceți referire fiind eliberată autorizație de parcare pe loc nenominal.</description>
   </item>
 </channel>
 </rss>
