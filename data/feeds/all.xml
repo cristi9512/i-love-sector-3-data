@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277255</link>
+    <guid isPermaLink="false">CAS-0277255</guid>
+    <pubDate>Fri, 27 Nov 2026 16:12:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ a achitat tarif orar de parcare până la 27.11.2026 18:59.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277254</link>
+    <guid isPermaLink="false">CAS-0277254</guid>
+    <pubDate>Fri, 27 Nov 2026 16:05:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare neregulamentara pe Aleea Calistrat Hogas cu o latime mai mica de 6 m si obstructionarea accesului in curte</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277253</link>
     <guid isPermaLink="false">CAS-0277253</guid>
@@ -302,12 +318,15 @@ Sunt locuri de parcare B12 libere la 20-25m de scara blocului.</description>
     <description>Parcat pe loc de parcare nenominal in ziua de curatenie mecanizata si nu a fost posibila curatarea locului de parcare</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277219</link>
     <guid isPermaLink="false">CAS-0277219</guid>
     <pubDate>Fri, 27 Nov 2026 13:46:41 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 26.12.2026 18:00.</description>
+    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 26.12.2026 18:00.
+
+Răspuns: BUNĂ SEARA!
+AUTOTURISMUL RECLAMAT DETINE TARIFUL ORAR ACHITAT.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
@@ -533,25 +552,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Pe viitor, atașați o fotografie din care să reiasă numărul autoturismului și tipul de parcaj ocupat.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277195</link>
-    <guid isPermaLink="false">CAS-0277195</guid>
-    <pubDate>Fri, 27 Nov 2026 12:08:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Ziua buna. miercuri nu a ajuns gunoiul pe strada Chiparosului nr. 1. Rog colectare. 2 pubele in fata casei.
-Multumim.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277194</link>
-    <guid isPermaLink="false">CAS-0277194</guid>
-    <pubDate>Fri, 27 Nov 2026 12:03:13 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 15.30 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
   </item>
 </channel>
 </rss>

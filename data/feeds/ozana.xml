@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277255</link>
+    <guid isPermaLink="false">CAS-0277255</guid>
+    <pubDate>Fri, 27 Nov 2026 16:12:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ a achitat tarif orar de parcare până la 27.11.2026 18:59.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277202</link>
     <guid isPermaLink="false">CAS-0277202</guid>
@@ -692,17 +700,6 @@ Va multumim.</description>
 Răspuns: Sesizarea dvs a fost preluata si verificata la ora 20:21. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. 
 Va multumim. 
 </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276566</link>
-    <guid isPermaLink="false">CAS-0276566</guid>
-    <pubDate>Tue, 24 Nov 2026 16:58:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-4, precum și pentru zonele A-3,A-5,A-6,
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 20:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. 
-Va multumim. </description>
   </item>
 </channel>
 </rss>
