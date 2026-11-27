@@ -7542,3 +7542,12 @@
 {"at":"2026-11-27T00:01:00.813Z","ticket":"CAS-0275050","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T00:01:00.813Z","ticket":"CAS-0275050","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T00:01:00.813Z","ticket":"CAS-0275050","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPECTELE SESIZATE NU SE CONFIRMA"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277079","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277079","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277079","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor autovehiculul reclamat detine autorizatie valabila pe un loc de parcare nominal,iar pe locul acestuia se executa lucrari Apa Nova."}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277092","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277092","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0277092","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nIn urma verificarilor efectuate in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale."}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0272642","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0272642","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-27T00:15:40.293Z","ticket":"CAS-0272642","field":"reply","from":"","to":"Nespecificat Registratura conex"}

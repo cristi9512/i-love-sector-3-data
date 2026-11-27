@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277109</link>
+    <guid isPermaLink="false">CAS-0277109</guid>
+    <pubDate>Fri, 27 Nov 2026 00:15:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277108</link>
+    <guid isPermaLink="false">CAS-0277108</guid>
+    <pubDate>Fri, 27 Nov 2026 00:10:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-10, precum și pentru zonele B-7,B-8,B-9,</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277107</link>
     <guid isPermaLink="false">CAS-0277107</guid>
@@ -136,12 +152,15 @@ La momentul efectuarii verificarilor, asectele sesizate nu se confirma, autoturi
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277092</link>
     <guid isPermaLink="false">CAS-0277092</guid>
     <pubDate>Thu, 26 Nov 2026 21:14:28 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+In urma verificarilor efectuate in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
@@ -267,12 +286,14 @@ Răspuns: Buna seara,
 In urma verificarilor efectuate in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277079</link>
     <guid isPermaLink="false">CAS-0277079</guid>
     <pubDate>Thu, 26 Nov 2026 19:55:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 1</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 1
+
+Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor autovehiculul reclamat detine autorizatie valabila pe un loc de parcare nominal,iar pe locul acestuia se executa lucrari Apa Nova.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
@@ -574,22 +595,6 @@ Atașez fotografii în care se poate observa autovehiculul și numărul de înma
 Vă rog să îmi comunicați măsurile dispuse în urma acestei sesizări.
 
 Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277049</link>
-    <guid isPermaLink="false">CAS-0277049</guid>
-    <pubDate>Thu, 26 Nov 2026 17:24:46 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto parcat pe zona hasurata, blocheaza vizibilitatea</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277048</link>
-    <guid isPermaLink="false">CAS-0277048</guid>
-    <pubDate>Thu, 26 Nov 2026 17:22:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto blocheaza drumul</description>
   </item>
 </channel>
 </rss>
