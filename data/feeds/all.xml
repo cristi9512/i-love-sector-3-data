@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277268</link>
+    <guid isPermaLink="false">CAS-0277268</guid>
+    <pubDate>Fri, 27 Nov 2026 17:25:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277267</link>
+    <guid isPermaLink="false">CAS-0277267</guid>
+    <pubDate>Fri, 27 Nov 2026 17:17:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>A blocat accesul in curte</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277266</link>
     <guid isPermaLink="false">CAS-0277266</guid>
@@ -35,12 +51,14 @@ Adresa este :
 Bul.1 Decembrie 1918 nr 72 bl VN 5</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277263</link>
     <guid isPermaLink="false">CAS-0277263</guid>
     <pubDate>Fri, 27 Nov 2026 16:55:56 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Deține autorizație nenominala de parcare pentru  zona C-4, precum și pentru zonele B-11,C-3,C-5,C-7,</description>
+    <description>Autovehiculul cu numarul P........ Deține autorizație nenominala de parcare pentru  zona C-4, precum și pentru zonele B-11,C-3,C-5,C-7,
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, pentru auto la care faceți referire, fiind eliberată autorizație de arcare pe loc nenominal</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
@@ -555,27 +573,6 @@ Răspuns: In urma verificarilor efectuate la fata locului, auto sesizat nu a fos
     <description>Buna ziua, la locatia indicata aflata pe Strada Drumul Malu Mierii, se afla un teren neamenajat in care am observat de doua zile, un caine alb de talie mare lasat liber. Acest caine este cunoscut ca si periculos deoarece acum ceva timp a scapat si a ucis o pisica care era ingrijita de noi locatarii blocului de langa. Proprietarul a fost amendat ulterior in urma plangerilor facute. Pentru a evita orice pericol pentru oameni, deoarece acest caine poate scapa oricand din acea curte, plus lipsa oricarui semn de avertizare &apos;Atentie caine periculos&apos;, va rog sa ii atrageti atentia proprietarului ( Strada Vitioara 90) sa tina acest caine periculos inchis in spatiul pe care i l-a amenajat pe acel teren. Acest lucru va proteja si pisicile care obisnuiesc sa treaca prin acea curte. Va multumesc si sper sa tineti cont de aceasta sesizare.
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, dar în zona indicată prin geolocație, nu a fost identificat vreun animal liber. Pe viitor, când constatați astfel de aspecte, apelați Dispeceratul Poliției Locale Sector 3 la numărul de telefon 021.9543, iar un echipaj se va deplasa și va lua măsurile ce se impun în funcție de situație.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277208</link>
-    <guid isPermaLink="false">CAS-0277208</guid>
-    <pubDate>Fri, 27 Nov 2026 12:41:26 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Va aduc la cunostiinta, ca in sectorul 3, pe strada Vulturilor la nr. 49, se strange gunoi, pe strada.
-S-a creat un obicei, va rog sa creati obiceiul de a nu se stange gunoi acolo. 
-Multumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277207</link>
-    <guid isPermaLink="false">CAS-0277207</guid>
-    <pubDate>Fri, 27 Nov 2026 12:41:13 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ ZIUA!
-IN URMA DISCUȚIEI TELEFONICE  NE-AM DEPLASAT IN LOCAȚIE SI AM APLICAT INȘTIINȚARE PENTRU AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ.</description>
   </item>
 </channel>
 </rss>

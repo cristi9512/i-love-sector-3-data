@@ -8059,3 +8059,6 @@
 {"at":"2026-11-27T17:15:38.656Z","ticket":"CAS-0277222","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T17:15:38.656Z","ticket":"CAS-0277222","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T17:15:38.656Z","ticket":"CAS-0277222","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ SEARA!\nLA MOMENTUL VERIFICĂRII,ORA 18:59 ,\nAUTOTURISMUL RECLAMAT NU SE AFLA IN LOCATIA INDICATĂ"}
+{"at":"2026-11-27T17:31:00.812Z","ticket":"CAS-0277263","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T17:31:00.812Z","ticket":"CAS-0277263","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-27T17:31:00.812Z","ticket":"CAS-0277263","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, pentru auto la care faceți referire, fiind eliberată autorizație de arcare pe loc nenominal"}
