@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277281</link>
+    <guid isPermaLink="false">CAS-0277281</guid>
+    <pubDate>Fri, 27 Nov 2026 18:31:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277280</link>
     <guid isPermaLink="false">CAS-0277280</guid>
     <pubDate>Fri, 27 Nov 2026 18:30:40 GMT</pubDate>
@@ -678,17 +686,6 @@ Va multumim. </description>
     <pubDate>Tue, 24 Nov 2026 18:12:10 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Parcarea din fata blocului M3, Sc. A, Str. Jean Steriadi 11, parcarea mare de la Profi. Nu avem acces la locurile de parcare marcate din cauza masinilor &quot;parcate&quot; pe trotuare. Nici sa intram in locurile de parcare, dar si mai frustrant, nici sa iesim, atunci cand sa zicem ca ne strecuram pe locurile pentru care platim.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276574</link>
-    <guid isPermaLink="false">CAS-0276574</guid>
-    <pubDate>Tue, 24 Nov 2026 17:05:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,
-
-Răspuns: Sesizarea dvs a fost preluata si verficata la ora 19:37. Autovehiculul la care faceti referire detine autorizatie pentru locurile nenominale din zonele C-6 și zonele vecine B-15, C-5, C-7, D-3. 
-Va multumim. </description>
   </item>
 </channel>
 </rss>
