@@ -8008,3 +8008,6 @@
 {"at":"2026-11-27T15:45:40.009Z","ticket":"CAS-0277240","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T15:45:40.009Z","ticket":"CAS-0277240","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T15:45:40.009Z","ticket":"CAS-0277240","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ SEARA!\nPENTRU A PRELUA ȘI VERIFICA SESIZAREA DUMNEAVOASTRĂ\nESTE NECESAR SĂ TRIMITEȚI CEL PUȚIN O FOTOGRAFIE ELOCVENTĂ."}
+{"at":"2026-11-27T16:01:01.650Z","ticket":"CAS-0277206","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T16:01:01.650Z","ticket":"CAS-0277206","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-27T16:01:01.650Z","ticket":"CAS-0277206","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie"}
