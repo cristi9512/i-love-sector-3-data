@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T08:45:35.311Z",
-  "lastChange": "2026-11-27T08:45:35.311Z",
+  "lastRun": "2026-11-27T09:01:04.538Z",
+  "lastChange": "2026-11-27T09:01:04.538Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2570,
-    "added": 8,
+    "fetched": 2565,
+    "added": 4,
     "updated": 1,
     "removed": 0,
     "changes": 3
   },
   "totals": {
-    "incidents": 47766,
-    "open": 2174,
+    "incidents": 47770,
+    "open": 2177,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T08:45:35.311Z",
+    "asOf": "2026-11-27T09:01:04.538Z",
     "days": 30,
-    "open": 2174,
-    "total": 198,
+    "open": 2177,
+    "total": 199,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 209,
+        "open": 211,
         "n": 12
       },
       "10": {
         "name": "Străzi",
-        "open": 379,
+        "open": 380,
         "n": 32
       },
       "11": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 14,
+        "open": 13,
         "n": 4
       },
       "20": {
@@ -123,7 +123,7 @@
       "21": {
         "name": "Reabilitare blocuri",
         "open": 14,
-        "n": 0
+        "n": 1
       },
       "22": {
         "name": "Spații Comerciale",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 728,
+        "open": 729,
         "n": 2
       },
       "32": {
