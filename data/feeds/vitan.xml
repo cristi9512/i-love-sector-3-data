@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277302</link>
+    <guid isPermaLink="false">CAS-0277302</guid>
+    <pubDate>Fri, 27 Nov 2026 20:43:00 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ghena blocata,daca vine masina de gunoi iar nu o.sa.il ridice</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277237</link>
     <guid isPermaLink="false">CAS-0277237</guid>
@@ -639,19 +647,6 @@ Devine un pericol iminent. Va rog sa urgentati remedierea cu administratorul ret
     <pubDate>Mon, 23 Nov 2026 07:22:25 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>RE-sesizare: Toaletare arbore pentru siguranta rutiera, anume pentru vizibilitatea clara a semnului &quot;interzis&quot; si pentru a nu interfera cu traficul sau masinile parcate.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276255</link>
-    <guid isPermaLink="false">CAS-0276255</guid>
-    <pubDate>Mon, 23 Nov 2026 07:20:13 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>RE-sesizare. Arbore lovit si aplecat in primavara acestui an de un sofer Sezamo.
-De atunci am mai facut 3 sesizari.
-
-Arborele deja creste stramb si va afecta de la estetica, urbanism si peisagistica pana la trotuar, siguranta si confort pietoni in viitorul apropiat. Va rog sa il reancorati in pozitie verticala sau sa il scoateti si sa il inlocuiti cu un nou puiet. Multumesc
-
-PS. Daca doriti identitatea persoanei care a indoit arborele incercand sa parcheze duba, va stau la dispozitie. Locatia este str Penes Curcanul, vizavi de Mega Image</description>
   </item>
 </channel>
 </rss>

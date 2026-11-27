@@ -6,12 +6,31 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Reabilitare blocuri · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277301</link>
+    <guid isPermaLink="false">CAS-0277301</guid>
+    <pubDate>Fri, 27 Nov 2026 20:40:16 GMT</pubDate>
+    <category>Reabilitare blocuri</category>
+    <description>Reclamație privind iluminatul exterior excesiv de puternic, care afectează locatarii imobilului învecinat;
+În calitate de locatar al unui imobil situat în vecinătatea blocului de la care provine sursa de iluminat, vă aduc la cunoștință o situație care afectează în mod direct confortul și calitatea vieții persoanelor care locuiesc în imobilul situat vizavi.
+
+Mai exact, la intrarea în scara blocului situat în Strada Răcari nr. 14, blocul 44, a fost montat un corp de iluminat cu o intensitate luminoasă disproporționat de mare, a cărui lumină se propagă direct către ferestrele și apartamentele imobilului învecinat.
+
+Astfel, pe timpul nopții, iluminatul respectiv produce o lumină artificială excesivă, care pătrunde în locuințe și creează un disconfort vizual semnificativ, afectând posibilitatea locatarilor de a beneficia de condiții normale de odihnă și de utilizare a propriilor locuințe.
+
+Consider că iluminarea corespunzătoare a căilor de acces și a spațiilor comune reprezintă o necesitate și o măsură de siguranță, însă aceasta trebuie realizată în mod responsabil, fără a genera efecte negative asupra proprietăților învecinate și fără a afecta confortul celorlalți locatari.
+
+În acest sens, vă solicit să dispuneți verificarea corpului de iluminat și adoptarea unor măsuri concrete pentru remedierea situație.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277297</link>
     <guid isPermaLink="false">CAS-0277297</guid>
     <pubDate>Fri, 27 Nov 2026 19:38:15 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: auto nu a fosgt depistat in locatie</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
@@ -604,16 +623,6 @@ Răspuns: In urma verificarilor conform coordontelor GPS, autoturismul nu a fost
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: - sesizarea se confirma / s-au luat masurile legale in speta .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276424</link>
-    <guid isPermaLink="false">CAS-0276424</guid>
-    <pubDate>Mon, 23 Nov 2026 22:42:22 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - pozitionarea auto in speta si depunerile de pe carosabil nu permit identificarea categoriei locului de parcare . / imposibiltate luare masuri legale .</description>
   </item>
 </channel>
 </rss>
