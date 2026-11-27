@@ -6,6 +6,19 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277202</link>
+    <guid isPermaLink="false">CAS-0277202</guid>
+    <pubDate>Fri, 27 Nov 2026 12:29:20 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua!
+Vreau să vă aduc la cunoștință că este a doua lună când nu se realizează curățenia pe Strada Poștașului nr 4, toate locurile de parcare din fața celor 4 scări sunt pline de frunze și mizerie. Normal în zona aceasta curățenia se face în ultima zi de joi din lună dar se pare ca nu a fost realizată de două luni. Voi face poză în fiecare lună și vă voi trimite deoarece nu mi se pare normal să se omită curățenia, nu se poate spune ca parcarea sau strada era ocupată când se vede destul de bine ca se putea face curățenie în ziua și intervalul orar stabilit. 
+Este foarte multă mizerie atât pe carosabil cat și pe trotuar.
+Vă mulțumesc și aștept rezolvarea situației. 
+Cu stimă,
+Pîrîu Diana Ștefania</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277179</link>
     <guid isPermaLink="false">CAS-0277179</guid>
@@ -690,14 +703,6 @@ Va multumim.
 
 Răspuns: Sesizarea dvs a fost preluata si verificata la ora 20:12. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. 
 Va multumim. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276516</link>
-    <guid isPermaLink="false">CAS-0276516</guid>
-    <pubDate>Tue, 24 Nov 2026 12:44:29 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>mașina parcata pe trotuar, blochează accesul in parc</description>
   </item>
 </channel>
 </rss>
