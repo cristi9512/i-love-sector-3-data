@@ -6,6 +6,26 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277149</link>
+    <guid isPermaLink="false">CAS-0277149</guid>
+    <pubDate>Fri, 27 Nov 2026 08:15:25 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Solicitare urgentă de remediere a accesului la garaje – str. Scarlat Mareș nr. 14
+
+Bună ziua,
+
+Revin la sesizarea din 26.11.2026 privind bordura din dreptul rampelor de acces la garajele de pe str. Scarlat Mareș nr. 14.
+
+În urma lucrărilor de asfaltare, bordura din dreptul rampelor a rămas prea înaltă. Mașinile ating bordura când urcăm pe rampă, iar din acest motiv nu le mai putem parca în garaje.
+
+Din informațiile pe care le avem, astăzi este ultima zi de lucru pe strada noastră. Vă rugăm să trimiteți astăzi pe cineva la fața locului pentru a verifica situația și a remedia accesul înainte de finalizarea lucrărilor.
+
+Pe aceeași stradă, în dreptul altor rampe, au fost realizate treceri line din asfalt între carosabil și rampă, de exemplu la adresa din Scarlat Mares nr. 25. Vă rugăm să realizați o trecere similară și în dreptul garajelor de la nr. 14.
+
+Vă mulțumim și vă rugăm să urgentați intervenția</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277145</link>
     <guid isPermaLink="false">CAS-0277145</guid>
@@ -685,14 +705,6 @@ Telefon : 0751.299.922</description>
     <pubDate>Sun, 22 Nov 2026 16:49:35 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Nu merge iluminatul pe o parte a străzii foișorului   Merge doar pe o singură parte</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276129</link>
-    <guid isPermaLink="false">CAS-0276129</guid>
-    <pubDate>Sun, 22 Nov 2026 14:31:21 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>se surpa trotuarul și posibil să devină un pericol</description>
   </item>
 </channel>
 </rss>
