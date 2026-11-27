@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277303</link>
+    <guid isPermaLink="false">CAS-0277303</guid>
+    <pubDate>Fri, 27 Nov 2026 20:55:55 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașini parcate pe trotuar care abia de lasă loc de trecere pietonilor. Cred ca ar trebui transformat în parcare acolo daca nu se ia nici o măsură.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277281</link>
     <guid isPermaLink="false">CAS-0277281</guid>
@@ -559,12 +567,14 @@ Directia Generala de Salubritate Sector 3. </description>
     <description>Aici se poate planta un arbore daca tot a primit bordura ca doar se planteaza acum</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276649</link>
     <guid isPermaLink="false">CAS-0276649</guid>
     <pubDate>Wed, 25 Nov 2026 06:19:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>E pa trotuar zic cu locuri libere ar trebui ridicata</description>
+    <description>E pa trotuar zic cu locuri libere ar trebui ridicata
+
+Răspuns: In locatie  au  fost  dispuse  masurile  legale  conform OUG 195/2002 r </description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
@@ -682,14 +692,6 @@ Va multumim. </description>
 
 Răspuns: Sesizarea dvs a fost preluata la ora 20:26. Pentru a putea fi verificata sesizarea dvs trebuie sa contina cel putn o plansa foto din care sa reiasa atat numarul de inmatriculare al autovehiculului reclamat, cat si tipul locului de parcare ocupat.
 Va multumim. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276583</link>
-    <guid isPermaLink="false">CAS-0276583</guid>
-    <pubDate>Tue, 24 Nov 2026 18:12:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcarea din fata blocului M3, Sc. A, Str. Jean Steriadi 11, parcarea mare de la Profi. Nu avem acces la locurile de parcare marcate din cauza masinilor &quot;parcate&quot; pe trotuare. Nici sa intram in locurile de parcare, dar si mai frustrant, nici sa iesim, atunci cand sa zicem ca ne strecuram pe locurile pentru care platim.</description>
   </item>
 </channel>
 </rss>
