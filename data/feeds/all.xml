@@ -6,6 +6,71 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277148</link>
+    <guid isPermaLink="false">CAS-0277148</guid>
+    <pubDate>Fri, 27 Nov 2026 08:01:03 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Trotuar pietoni blocat de gunoiul menajer, care sta de 2-3 zile</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277147</link>
+    <guid isPermaLink="false">CAS-0277147</guid>
+    <pubDate>Fri, 27 Nov 2026 08:00:54 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277146</link>
+    <guid isPermaLink="false">CAS-0277146</guid>
+    <pubDate>Fri, 27 Nov 2026 08:00:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277145</link>
+    <guid isPermaLink="false">CAS-0277145</guid>
+    <pubDate>Fri, 27 Nov 2026 07:56:55 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Bună ziua, 
+
+Revin cu solicitarea din Str Lt Scarlat Mares nr 14, am atașat încă o dată cele 3 poze, ultima și cu certificatul de handicap grav, NU pot folosi autoturismul din cauza diferenței între asfalt și bordură. 
+
+Vă rog să ne ajutați în soluționarea problemei! 
+
+Mulțumesc!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277144</link>
+    <guid isPermaLink="false">CAS-0277144</guid>
+    <pubDate>Fri, 27 Nov 2026 07:55:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>IF04ZSZ parcheaza in mod constant neregulamentar la mai putin de 25m de trecerea de pietoni si pe trotuar punand in pericol siguranta pietonilor. In ciuda reclamatiilor de peste un an, masurile politiei locale nu au fost eficiente, astfel ca solicit ridicarea acestuia.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Pallady</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277143</link>
+    <guid isPermaLink="false">CAS-0277143</guid>
+    <pubDate>Fri, 27 Nov 2026 07:50:16 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate pe carosabil</description>
+  </item>
+  <item>
+    <title>Terenuri insalubre · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277142</link>
+    <guid isPermaLink="false">CAS-0277142</guid>
+    <pubDate>Fri, 27 Nov 2026 07:49:30 GMT</pubDate>
+    <category>Terenuri insalubre</category>
+    <description>Buna ziua,
+gunoaiele strânse de lucrătorii primăriei si de la firmele din zona sunt lăsate pe strada cu săptămânile, intre masini pe Bd Cami Ressu nr 2.
+
+Solicit sa se găsească alte locuri pentru ca spatiile de parcare sunt foarte inguste si ne zgârie mașinile când trec cu sacii plini printre mașini si de asemenea sa se igienizare zona.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277141</link>
     <guid isPermaLink="false">CAS-0277141</guid>
@@ -164,12 +229,14 @@ nu este posibil sa arata asa in jurul pubelelor.
 intensificati nr de interventi la aceste pubele + igienizarea zonei.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277125</link>
     <guid isPermaLink="false">CAS-0277125</guid>
     <pubDate>Fri, 27 Nov 2026 06:14:06 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>blocheaza alee pietonala</description>
+    <description>blocheaza alee pietonala
+
+Răspuns: Au fost aplicate masurile legale.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
@@ -545,84 +612,6 @@ In urma verificarilor efectuate in locatia indicata, aspectele sesizate se confi
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In locatie  au fost aplicate masurile legale conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277087</link>
-    <guid isPermaLink="false">CAS-0277087</guid>
-    <pubDate>Thu, 26 Nov 2026 21:05:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-10, precum și pentru zonele A-5,A-6,A-8,A-9,B-8,B-9,
-
-Răspuns: Buna seara,
-In urma verificarilor efectuate in locatia indicata, aspectele sesizate se confirma, autoturismul reclamat detine autorizatie de parcare pentru zona B-8, pe care se afla.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277086</link>
-    <guid isPermaLink="false">CAS-0277086</guid>
-    <pubDate>Thu, 26 Nov 2026 20:40:24 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 9
-
-Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
-Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277085</link>
-    <guid isPermaLink="false">CAS-0277085</guid>
-    <pubDate>Thu, 26 Nov 2026 20:18:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor in locatia indicata, aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277084</link>
-    <guid isPermaLink="false">CAS-0277084</guid>
-    <pubDate>Thu, 26 Nov 2026 20:08:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna ziua,
-Am dat curs sesizarii dumneavoastra, asupra autoturismului reclamat nu au fost luate masurile legale intrucat marcajul de la sol care semnalizeaza locul de parcare ca fiind nenominal, lipseste.
-Am transmis catre Serviciul Parcari in vederea retrasarii locurilor de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277083</link>
-    <guid isPermaLink="false">CAS-0277083</guid>
-    <pubDate>Thu, 26 Nov 2026 20:03:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Am preluat și verificat sesizarea dumneavoastră. Au fost dispuse masurile legale ce se impun in astfel de situatii. Având în vedere particularitatea locului indicat de dumneavoastră, serviciile specializate din cadrul Primariei Sectorului 3 vor acționa în consecință. 
-Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277082</link>
-    <guid isPermaLink="false">CAS-0277082</guid>
-    <pubDate>Thu, 26 Nov 2026 20:03:00 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Buna seara,
-Sunt cetatean cu domiciliul in sector 3 si detin autorizatie de parcare pentru locuri nenominale B13. Locul de munca este la granita dintre sectoarele 2 si 3, si vreau sa imi parchez masina pe calea calarasilor, in special intre intersectiile cu delea noua si cu popa nan. problema este ca pe aceasta portiune nu sunt marcate locurile nenominale si imi este foarte greu sa gasesc un loc. va rog sa retrasati locurile de parcare pentru a fi mai usor de recunoscut locurile nenominale!
-
-
-Multumesc</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277081</link>
-    <guid isPermaLink="false">CAS-0277081</guid>
-    <pubDate>Thu, 26 Nov 2026 19:58:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra.S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS 3 nr 346/2022. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>
