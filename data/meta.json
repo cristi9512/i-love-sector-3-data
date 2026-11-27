@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T09:45:45.479Z",
-  "lastChange": "2026-11-27T09:45:45.479Z",
+  "lastRun": "2026-11-27T10:00:59.201Z",
+  "lastChange": "2026-11-27T10:00:59.201Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2430,
-    "added": 2,
-    "updated": 2,
+    "fetched": 2577,
+    "added": 3,
+    "updated": 0,
     "removed": 0,
-    "changes": 4
+    "changes": 0
   },
   "totals": {
-    "incidents": 47779,
-    "open": 2182,
+    "incidents": 47782,
+    "open": 2185,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T09:45:45.479Z",
+    "asOf": "2026-11-27T10:00:59.201Z",
     "days": 30,
-    "open": 2182,
+    "open": 2185,
     "total": 200,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 39,
+        "open": 40,
         "n": 7
       },
       "3": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 153,
+        "open": 154,
         "n": 2
       },
       "15": {
@@ -137,7 +137,7 @@
       },
       "26": {
         "name": "Mașini ridicate",
-        "open": 8,
+        "open": 9,
         "n": 0
       },
       "27": {
