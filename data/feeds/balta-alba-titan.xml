@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277186</link>
+    <guid isPermaLink="false">CAS-0277186</guid>
+    <pubDate>Fri, 27 Nov 2026 10:53:42 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Loc nominal ocupa. Bateria B, aleea lunca muresului 5-7. Nr masina IF23RLS</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277184</link>
     <guid isPermaLink="false">CAS-0277184</guid>
@@ -610,16 +618,6 @@ Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. La moment
     <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Bna seara . Am preluat si verificat sesizarea dumneavoastra.La momentul verificarii autovehiculul reclamat nu se mai afla in locatia indicata.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276836</link>
-    <guid isPermaLink="false">CAS-0276836</guid>
-    <pubDate>Wed, 25 Nov 2026 20:14:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. In urma verificarilor locul de parcare nenominal nu este vizibil trasat si marcat la sol. S-a transmis serviciului competent in vederea trasarii si marcarii acestuia ,pentru a putea lua masurile legale.</description>
   </item>
 </channel>
 </rss>

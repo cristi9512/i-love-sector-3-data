@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-27T10:50:16.604Z",
-  "lastChange": "2026-11-27T10:50:16.604Z",
+  "lastRun": "2026-11-27T11:00:58.553Z",
+  "lastChange": "2026-11-27T11:00:58.553Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2583,
-    "added": 0,
-    "updated": 1,
+    "fetched": 2454,
+    "added": 2,
+    "updated": 4,
     "removed": 0,
-    "changes": 3
+    "changes": 12
   },
   "totals": {
-    "incidents": 47788,
-    "open": 2180,
+    "incidents": 47790,
+    "open": 2178,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-27T10:50:16.604Z",
+    "asOf": "2026-11-27T11:00:58.553Z",
     "days": 30,
-    "open": 2180,
+    "open": 2178,
     "total": 200,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 40,
+        "open": 38,
         "n": 7
       },
       "3": {
@@ -52,12 +52,12 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 97,
+        "open": 96,
         "n": 4
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 30,
+        "open": 29,
         "n": 5
       },
       "9": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 19,
+        "open": 20,
         "n": 1
       },
       "13": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 733,
+        "open": 734,
         "n": 2
       },
       "32": {
