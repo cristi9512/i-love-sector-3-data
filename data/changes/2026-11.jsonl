@@ -7993,3 +7993,9 @@
 {"at":"2026-11-27T15:01:09.940Z","ticket":"CAS-0277234","field":"status","from":"O","to":"C"}
 {"at":"2026-11-27T15:01:09.940Z","ticket":"CAS-0277234","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-27T15:01:09.940Z","ticket":"CAS-0277234","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. În urma verificării, reiese că, pentru autoturismul în cauză a fost achitat tarif orar."}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277210","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277210","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277210","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie"}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"status","from":"O","to":"C"}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-27T15:15:39.032Z","ticket":"CAS-0277198","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie"}

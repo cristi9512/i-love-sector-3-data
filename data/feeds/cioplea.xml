@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Mașini ridicate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277247</link>
+    <guid isPermaLink="false">CAS-0277247</guid>
+    <pubDate>Fri, 27 Nov 2026 15:10:05 GMT</pubDate>
+    <category>Mașini ridicate</category>
+    <description>se blochează accesul innpaecare</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277245</link>
+    <guid isPermaLink="false">CAS-0277245</guid>
+    <pubDate>Fri, 27 Nov 2026 15:08:55 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Se blocheaza accesul în parcarea de reședință sistematic. Rog ridicati autovehiculele.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277207</link>
     <guid isPermaLink="false">CAS-0277207</guid>
@@ -564,24 +580,6 @@ Răspuns: IN LOCATIE  S AU   APLICAT   MASURILE  LEGALE  CONFORM  CONFORM OUG 19
     <pubDate>Tue, 24 Nov 2026 09:44:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>autovehicul parcat neregulamentar, locurile b7 sunt libere B629ALN</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276476</link>
-    <guid isPermaLink="false">CAS-0276476</guid>
-    <pubDate>Tue, 24 Nov 2026 09:08:59 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Este parcată pe B10.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276432</link>
-    <guid isPermaLink="false">CAS-0276432</guid>
-    <pubDate>Tue, 24 Nov 2026 04:49:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: CONFORM ADRESEI INDICATE AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
 </channel>
 </rss>
