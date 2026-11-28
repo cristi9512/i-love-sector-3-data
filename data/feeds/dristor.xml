@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277323</link>
+    <guid isPermaLink="false">CAS-0277323</guid>
+    <pubDate>Sat, 28 Nov 2026 05:14:40 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>stationeaza parcheaza in mod constant pe dalele unde nu sunt locuri de parcare amenajate.
+chiar trebuie sa fac sesizare iar la domnul primar, ca sa va urniti din somnul de prin parcari si sa rezolvati cu nesimtitii care dupa ce ca nu plateac taxa de parcare mai si pun masina pe locuri neamenajate distugandu le?
+am mai facut o sesizarw vizavi de masina asta si nu s a intamplat nimic.
+voi alegeti, rezolvati voi sau domn&apos; primar
+bafta!</description>
+  </item>
+  <item>
     <title>Reabilitare blocuri · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277301</link>
     <guid isPermaLink="false">CAS-0277301</guid>
@@ -637,16 +649,6 @@ VA MULTUMIM!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor conform coordontelor GPS, autoturismul nu a fost gasit in locatie.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276425</link>
-    <guid isPermaLink="false">CAS-0276425</guid>
-    <pubDate>Mon, 23 Nov 2026 22:43:09 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - sesizarea se confirma / s-au luat masurile legale in speta .</description>
   </item>
 </channel>
 </rss>

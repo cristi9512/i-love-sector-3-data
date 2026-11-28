@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277322</link>
+    <guid isPermaLink="false">CAS-0277322</guid>
+    <pubDate>Sat, 28 Nov 2026 05:10:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>acest domn parcheaza pe acest loc ca fiind nenomil, a sters inscriptionarea cu B13, loc 21 cod parcare 2600</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277321</link>
+    <guid isPermaLink="false">CAS-0277321</guid>
+    <pubDate>Sat, 28 Nov 2026 05:08:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>pe locul de parcare nr 23, B 13 cu cod parcare 2600, a fost stearsa inscriptionarea cu B13, si parcheaza numai acest domn cu nr de inmatriculare B86UJX, ca si cand ar fi loC nominal.</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277319</link>
     <guid isPermaLink="false">CAS-0277319</guid>
@@ -666,39 +682,6 @@ Consider inacceptabil ca un echipament destinat copiilor să rămână defect ș
 Vă solicit să dispuneți verificarea parcului și remedierea tuturor acestor deficiențe într-un termen cât mai scurt, astfel încât copiii să poată beneficia de un spațiu de joacă sigur și corespunzător.
 
 Vă rog să îmi comunicați măsurile dispuse și termenul estimat pentru rezolvarea problemelor semnalate.</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276593</link>
-    <guid isPermaLink="false">CAS-0276593</guid>
-    <pubDate>Tue, 24 Nov 2026 18:46:39 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Sesizare privind starea necorespunzătoare și lipsa întreținerii parcului pentru copii
-
-Bună ziua,
-
-Vă sesizez cu privire la mai multe probleme existente în parcul pentru copii din [locație]:
-
-* O bancă s-a desprins din locul în care era amplasată și a fost mutată, nemaiputând fi utilizată în condiții normale.
-* Iluminatul parcului nu funcționează, zona rămânând în întuneric după lăsarea serii.
-* Toboganul din plastic este spart și a fost doar delimitat pentru a împiedica utilizarea acestuia. Situația persistă de mai bine de trei luni, fără ca până în prezent să fie reparat sau înlocuit.
-
-Consider inacceptabil ca un echipament destinat copiilor să rămână defect și inutilizabil atât de mult timp, fără să fie luate măsuri pentru remedierea problemei.
-
-Vă solicit să dispuneți verificarea parcului și remedierea tuturor acestor deficiențe într-un termen cât mai scurt, astfel încât copiii să poată beneficia de un spațiu de joacă sigur și corespunzător.
-
-Vă rog să îmi comunicați măsurile dispuse și termenul estimat pentru rezolvarea problemelor semnalate.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276590</link>
-    <guid isPermaLink="false">CAS-0276590</guid>
-    <pubDate>Tue, 24 Nov 2026 18:30:24 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata la ora 20:38. Pentru a putea fi verificata sesizarea dvs trebuie sa contina cel putn o plansa foto din care sa reiasa atat numarul de inmatriculare al autovehiculului reclamat, cat si tipul locului de parcare ocupat.
-Va multumim. </description>
   </item>
 </channel>
 </rss>
