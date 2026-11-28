@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277341</link>
+    <guid isPermaLink="false">CAS-0277341</guid>
+    <pubDate>Sat, 28 Nov 2026 08:42:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277340</link>
+    <guid isPermaLink="false">CAS-0277340</guid>
+    <pubDate>Sat, 28 Nov 2026 08:35:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașină parcată pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277339</link>
+    <guid isPermaLink="false">CAS-0277339</guid>
+    <pubDate>Sat, 28 Nov 2026 08:33:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>E obositor că aceleași autoturisme ale căror conducători refuză să plătească taxa de parcare să continue să îngreuneze traficul auto in zona de reședință,sau accesul în parcare dar mai grav ieșirea din parcare prin obligarea noastră de a efectua manevre multe și riscante pentru a ieși din parcarea noastră pentru care plătim taxe...</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277338</link>
     <guid isPermaLink="false">CAS-0277338</guid>
@@ -79,12 +103,14 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 09.45,AUTO LA C
 Sunt printre putinii prosti care au contract de salubritate de pe strada? Domnul Costel de la nr 2, ap 1, are contract cu dvs? Pt ca tot depoziteaza gunoi la marginea strazii. Va multumesc</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277330</link>
     <guid isPermaLink="false">CAS-0277330</guid>
     <pubDate>Sat, 28 Nov 2026 07:09:49 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Locuri de parcare destinate moto, ocupate de masini astfel incalcand marcajele si regulamentul parcarilor destor 3, in plus nu are achitata taxa orara sau platit taxei de parcare in sector 3. bateria de parcari 2016_1, strada fetesti loc moto 4 si 5 langa parculetul de copii la pin harta.</description>
+    <description>Locuri de parcare destinate moto, ocupate de masini astfel incalcand marcajele si regulamentul parcarilor destor 3, in plus nu are achitata taxa orara sau platit taxei de parcare in sector 3. bateria de parcari 2016_1, strada fetesti loc moto 4 si 5 langa parculetul de copii la pin harta.
+
+Răspuns: AM PRELUAT SESIZAREA DUMNEAVOASTRA, LA MOMENTUL VERIFICARII LOCURILE DE PARCARE DESTINATE MOTO SUNT LIBERE.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Ordine și liniște publică · Declinat competenţa · Balta Albă - Titan</title>
@@ -625,36 +651,6 @@ Membru Comitet Executiv – Asociația de Proprietari
 Aleea Tornadei 34-38
 
 Data: 27.11.2026</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277281</link>
-    <guid isPermaLink="false">CAS-0277281</guid>
-    <pubDate>Fri, 27 Nov 2026 18:31:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277280</link>
-    <guid isPermaLink="false">CAS-0277280</guid>
-    <pubDate>Fri, 27 Nov 2026 18:30:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: conexată la sesizarea cu nr.447649, a fost întocmit un singur răspuns.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277279</link>
-    <guid isPermaLink="false">CAS-0277279</guid>
-    <pubDate>Fri, 27 Nov 2026 18:26:51 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat cale de acces în bloc
-
-Răspuns: In locatie au fost  aplicate  masurile  legale  conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>
