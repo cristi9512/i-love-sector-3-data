@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277317</link>
+    <guid isPermaLink="false">CAS-0277317</guid>
+    <pubDate>Sat, 28 Nov 2026 03:52:38 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Solicitare montare stalpisori antiparcare pe ambele trotuare ale strazii Delea Noua, pe tronsonul cuprins intre imobilul de la numarul 11 si Ganzo Boutique Hotel (numarul 21), inclusiv pe trotuarul de vis-a-vis.
+Trotuarele de pe acest segment de strada sunt ocupate permanent de autoturisme parcate neregulamentar, situatie generata de fluxul mare de clienti si angajati ai agentilor economici din zona (hotel, spalatorii auto, supermarketul Mega Image, Acvatic Bebe Club, etc.).
+Din cauza masinilor stationate pe trotuar, spatiul ramas liber este extrem de ingust, permitand cu greu strecurarea unei singure persoane.
+• Pietonii, in special persoanele cu carucioare pentru copii sau persoanele cu dizabilitati, sunt fortati sa circule pe partea carosabila, expunandu-se unui risc major de accidente rutiere.
+Avand in vedere prevederile legale privind siguranta circulatiei rutiere si obligatia de a asigura un spatiu minim de trecere pentru pietoni pe trotuare, va rog sa analizati situatia din teren si sa luati masurile necesare pentru eliberarea si protejarea trotuarelor prin montarea de stalpisori.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277316</link>
     <guid isPermaLink="false">CAS-0277316</guid>
@@ -654,16 +666,6 @@ Răspuns: A FOST APLICATA INSTIINTARE H124 SI EFECTUATE FOTO</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 28
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost identificat conducătorul auto, au fost luate măsurile ce se impun în astfel de cazuri, iar locul de parcare a fost eliberat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277257</link>
-    <guid isPermaLink="false">CAS-0277257</guid>
-    <pubDate>Fri, 27 Nov 2026 16:22:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat contravențional proprietarul/conducătorul auto.</description>
   </item>
 </channel>
 </rss>
