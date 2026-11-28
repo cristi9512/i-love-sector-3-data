@@ -6,7 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <title>Străzi · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277355</link>
+    <guid isPermaLink="false">CAS-0277355</guid>
+    <pubDate>Sat, 28 Nov 2026 09:59:30 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua! Va rog sa verificati urmatoare situati vsv de reglementarea sensurilor de mers pe str Turturelelor , intrand din Str Ion Pilat pe Str Turturelelor sa faci o bucla
+In jurul catorva cladiri si sa iesi tot in Str Ion Pilat, care e logica? Str Turturelelor devenind acum doar o parcare pe doua parti,  cred ca rolul sensurilor unice ar trebui sa fie pt circulatie fluida.
+Multumesc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277354</link>
+    <guid isPermaLink="false">CAS-0277354</guid>
+    <pubDate>Sat, 28 Nov 2026 09:49:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ingreuneaza accesul</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277353</link>
     <guid isPermaLink="false">CAS-0277353</guid>
     <pubDate>Sat, 28 Nov 2026 09:44:53 GMT</pubDate>
@@ -14,7 +32,7 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Toaletare/Tăiere arbori · Noua · Cioplea</title>
+    <title>Toaletare/Tăiere arbori · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277352</link>
     <guid isPermaLink="false">CAS-0277352</guid>
     <pubDate>Sat, 28 Nov 2026 09:44:48 GMT</pubDate>
@@ -594,28 +612,6 @@ Răspuns: auto nu a fosgt depistat in locatie</description>
 Locatia este str. Adrian Carstea nr 3 bl33b sc2 (in spatele blocului)
 
 Răspuns: In locatie au fost  aplicate  masurile  legale  conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277295</link>
-    <guid isPermaLink="false">CAS-0277295</guid>
-    <pubDate>Fri, 27 Nov 2026 19:24:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 22:22. Autovehiculul la care faceti referire ocupa locul de parcare indicat, motiv pentru care au fost aplicate masurile legale care se impun, conform HCLS3 nr 346/2022. 
-Va multumim. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277294</link>
-    <guid isPermaLink="false">CAS-0277294</guid>
-    <pubDate>Fri, 27 Nov 2026 19:22:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dvs a fost preluata si verificata la ora 22:22. Autovehiculul la care faceti referire ocupa locul de parcare indicat, motiv pentru care au fost aplicate masurile legale care se impun, conform HCLS3 nr 346/2022. 
-Va multumim. </description>
   </item>
 </channel>
 </rss>
