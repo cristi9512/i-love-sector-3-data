@@ -6,7 +6,17 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <title>Altele · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277324</link>
+    <guid isPermaLink="false">CAS-0277324</guid>
+    <pubDate>Sat, 28 Nov 2026 05:27:01 GMT</pubDate>
+    <category>Altele</category>
+    <description>Bună ziua. 
+
+Este o gură de canal în care când dăm cu roata, riscăm să tăiem anvelopa, mai ales când plouă și e plină de apă sau sunt mașini parcate și nu e spațiu de manevră, vă rog să schimbați capacul respectiv cu alt model, este foarte adânc, de când s a modificat spațiul de rulare al mașinii cu noile parcări stânga dreapta, suntem obligați să dăm în el.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277323</link>
     <guid isPermaLink="false">CAS-0277323</guid>
     <pubDate>Sat, 28 Nov 2026 05:14:40 GMT</pubDate>
@@ -639,16 +649,6 @@ Răspuns: Nu s a putut da curs sesizarii, intrucat lipsesc fotografii cu autoveh
 Răspuns: BUNA ZIUA,
 AUTOTURISMUL SESIZAT DE DUMNEAVOASTRA DETINE AUTORIZATIE DE PARCARE PE LOCURILE NENOMINALE MARCATE LA SOL CU ,,B-4,,.
 VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276480</link>
-    <guid isPermaLink="false">CAS-0276480</guid>
-    <pubDate>Tue, 24 Nov 2026 09:37:10 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarilor conform coordontelor GPS, autoturismul nu a fost gasit in locatie.</description>
   </item>
 </channel>
 </rss>
