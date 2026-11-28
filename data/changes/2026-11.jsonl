@@ -8855,3 +8855,7 @@
 {"at":"2026-11-28T08:45:36.539Z","ticket":"CAS-0277330","field":"status","from":"O","to":"C"}
 {"at":"2026-11-28T08:45:36.539Z","ticket":"CAS-0277330","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-28T08:45:36.539Z","ticket":"CAS-0277330","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SESIZAREA DUMNEAVOASTRA, LA MOMENTUL VERIFICARII LOCURILE DE PARCARE DESTINATE MOTO SUNT LIBERE.VA MULTUMIM!"}
+{"at":"2026-11-28T09:15:37.618Z","ticket":"CAS-0277343","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-28T09:15:37.618Z","ticket":"CAS-0277342","field":"status","from":"O","to":"C"}
+{"at":"2026-11-28T09:15:37.618Z","ticket":"CAS-0277342","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-28T09:15:37.618Z","ticket":"CAS-0277342","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul a fost identificat in locatie fiind intocmita documentatia in vederea luarii masurilor legale."}
