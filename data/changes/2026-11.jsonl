@@ -8866,3 +8866,6 @@
 {"at":"2026-11-28T10:15:36.950Z","ticket":"CAS-0277345","field":"status","from":"O","to":"C"}
 {"at":"2026-11-28T10:15:36.950Z","ticket":"CAS-0277345","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-28T10:15:36.950Z","ticket":"CAS-0277345","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 11.45,AUTO LA CARE FACETI REFERIRE FIIND IDENTIFICAT IN LOCATIE.AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTINTARE IN PARBRIZ CONF.346/2022."}
+{"at":"2026-11-28T10:45:41.114Z","ticket":"CAS-0277358","field":"status","from":"O","to":"C"}
+{"at":"2026-11-28T10:45:41.114Z","ticket":"CAS-0277358","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-28T10:45:41.114Z","ticket":"CAS-0277358","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE. "}

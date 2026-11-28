@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277362</link>
+    <guid isPermaLink="false">CAS-0277362</guid>
+    <pubDate>Sat, 28 Nov 2026 10:32:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar B510AXG</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277324</link>
     <guid isPermaLink="false">CAS-0277324</guid>
@@ -637,18 +645,6 @@ Intervenția urmează să fie efectuată în funcție de programul echipei, prec
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Nu s a putut da curs sesizarii, intrucat lipsesc fotografii cu autovehiculul indicat in sesizare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276497</link>
-    <guid isPermaLink="false">CAS-0276497</guid>
-    <pubDate>Tue, 24 Nov 2026 10:53:30 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul N........ Deține autorizație nenominala de parcare pentru  zona B-4, precum și pentru zonele A-5,B-1,B-7,B-8,
-
-Răspuns: BUNA ZIUA,
-AUTOTURISMUL SESIZAT DE DUMNEAVOASTRA DETINE AUTORIZATIE DE PARCARE PE LOCURILE NENOMINALE MARCATE LA SOL CU ,,B-4,,.
-VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277363</link>
+    <guid isPermaLink="false">CAS-0277363</guid>
+    <pubDate>Sat, 28 Nov 2026 10:32:44 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Trotuarele sunt pline de masini de la dudesti pana la caloian județul! E groaznic demers cu copii mici de mana</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277362</link>
+    <guid isPermaLink="false">CAS-0277362</guid>
+    <pubDate>Sat, 28 Nov 2026 10:32:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar B510AXG</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277361</link>
     <guid isPermaLink="false">CAS-0277361</guid>
@@ -31,12 +47,14 @@ Vă mulțumesc.</description>
     <description>Ocupa loc nominal. Chiar daca are numar de telefon in geam, aseara nu a raspuns la telefon. Raspunsul la sesizarea de aseara nu ma multumeste, masina a fost toata noaptea parcata aici. Rog ridicare auto.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277358</link>
     <guid isPermaLink="false">CAS-0277358</guid>
     <pubDate>Sat, 28 Nov 2026 10:06:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE. </description>
   </item>
   <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
@@ -578,26 +596,6 @@ Răspuns: In locatie au fost  aplicate  masurile  legale  conform OUG 195/2002 r
 
 Răspuns: Sesizarea dvs a fost preluata si verificata la ora 23:20. La momentul verificarii sesizarea nu se confirma. 
 Va multumim. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277303</link>
-    <guid isPermaLink="false">CAS-0277303</guid>
-    <pubDate>Fri, 27 Nov 2026 20:55:55 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașini parcate pe trotuar care abia de lasă loc de trecere pietonilor. Cred ca ar trebui transformat în parcare acolo daca nu se ia nici o măsură.
-
-Răspuns: Autoturismele  au fost ridicate  din  locatie </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277302</link>
-    <guid isPermaLink="false">CAS-0277302</guid>
-    <pubDate>Fri, 27 Nov 2026 20:43:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Ghena blocata,daca vine masina de gunoi iar nu o.sa.il ridice
-
-Răspuns: In locatie au fost  aplicate  masurile  legale  conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>
