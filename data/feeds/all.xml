@@ -6,12 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277338</link>
+    <guid isPermaLink="false">CAS-0277338</guid>
+    <pubDate>Sat, 28 Nov 2026 07:35:19 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Solicitare URGENTA de taiere completa a unui copac foarte inalt care risca sa cade dupa furtuna de azi noapte - se clatina puternic si au cazut crengi mari.
+Locatia este Aleea Ciucea, intre locurile de parcare nr. 18-19, Cod Parcare 96_2, Zona C7. Copacul este pe trotuar.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277337</link>
+    <guid isPermaLink="false">CAS-0277337</guid>
+    <pubDate>Sat, 28 Nov 2026 07:30:53 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>fara plata parcare, masini parcate pe strada, intre locuri de parcare sau oriunde e posibil pentru a evita vreo cheltuiala.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277336</link>
     <guid isPermaLink="false">CAS-0277336</guid>
     <pubDate>Sat, 28 Nov 2026 07:25:42 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 09.40,AUTO LA CARE FACETI REFERIRE NU OCUPA UN LOC DE PARCARE NENOMINAL CONF.346/2022.VA MULTUMIM.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
@@ -632,25 +651,6 @@ Răspuns: conexată la sesizarea cu nr.447649, a fost întocmit un singur răspu
     <description>parcat cale de acces în bloc
 
 Răspuns: In locatie au fost  aplicate  masurile  legale  conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277278</link>
-    <guid isPermaLink="false">CAS-0277278</guid>
-    <pubDate>Fri, 27 Nov 2026 18:25:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-In urma verificarilor efectuate, aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia indicata.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277277</link>
-    <guid isPermaLink="false">CAS-0277277</guid>
-    <pubDate>Fri, 27 Nov 2026 18:14:26 GMT</pubDate>
-    <category>Străzi</category>
-    <description>În repetate rânduri sunt mașini parcate - atenție nu staționate - PARCATE - pe singura trecere de pietoni care face legătura între cele 2 trotuare care direcționează copii la școală 149! Atașez poze! Poate poliția locală a sectorului 3 în limitat timpului disponibil și a resurselor disponibile să găsească timp să amendeze acești șoferi care pun în pericol viața a multor copii având în vedere ca pe un singur an zero spre exemplu sunt 14 clase a câte 20-25 copii.</description>
   </item>
 </channel>
 </rss>
