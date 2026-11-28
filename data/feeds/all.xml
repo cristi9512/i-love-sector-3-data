@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277319</link>
+    <guid isPermaLink="false">CAS-0277319</guid>
+    <pubDate>Sat, 28 Nov 2026 04:44:19 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>buna ziua. pe aleea leorda, cod parcare 2600, locurilor 21 si 23, nenominale, aflate in  zona B 13, le a fost stearsa inscriptionarea cu B13. sunt folosite abuziv de catre doi locatari ca si cand ar fi locuri nominale. este pentru a doua oara cand acestia procedeaza asa. va rog sa intreprindeti masuri in acest sens.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0277318</link>
     <guid isPermaLink="false">CAS-0277318</guid>
@@ -654,16 +662,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care face
     <description>Autovehiculul cu numarul N........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0277259</link>
-    <guid isPermaLink="false">CAS-0277259</guid>
-    <pubDate>Fri, 27 Nov 2026 16:48:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina asta e de 8h pe locul meu de parcare si nu raspunde la telefon nimeni, nici la mesaje.
-
-Răspuns: A FOST APLICATA INSTIINTARE H124 SI EFECTUATE FOTO</description>
   </item>
 </channel>
 </rss>
