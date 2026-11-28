@@ -8837,3 +8837,6 @@
 {"at":"2026-11-28T06:00:59.063Z","ticket":"CAS-0276463","field":"status","from":"O","to":"C"}
 {"at":"2026-11-28T06:00:59.063Z","ticket":"CAS-0276463","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-28T06:00:59.063Z","ticket":"CAS-0276463","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, nu au fost depistate auto stationate neregulamentar"}
+{"at":"2026-11-28T07:00:58.226Z","ticket":"CAS-0277320","field":"status","from":"O","to":"C"}
+{"at":"2026-11-28T07:00:58.226Z","ticket":"CAS-0277320","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-28T07:00:58.226Z","ticket":"CAS-0277320","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
